@@ -1,0 +1,62 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <h1>Predict a Single Problem</h1>
+  Problem Definition:<br/>
+  <ul>
+    <li>Eine wahrgenommene Lücke zwischen dem bestehenden Zustand und einem gewünschten Zustand oder eine Abweichung von einer Norm, einem Standard oder Status quo (WebFinance Inc., 2018).</li>
+    <li>Eine Angelegenheit oder Situation, die als unwillkommen oder schädlich angesehen wird und behandelt werden muss (Oxford University Press, 2018).</li>
+  </ul>
+
+  {% if "" != prediction %}
+		<div class="{{form_class}}">
+			<p>Result:</p>
+			<p>{{ prediction }}</p>
+		</div>
+  {% endif %}
+  {% if addSuccess %}
+    <div class="{{addSuccess.form_class}}">
+      <p>Info <span class="glyphicon glyphicon-comment text-info"/></p>
+      {% for text in addSuccess.text %}
+        <p>{{ text }}</p>
+      {% endfor %}
+    </div>
+  {% endif %}
+  {%  from "includes/_formhelpers.html" import render_field %}
+  <form method="POST" action="">
+    <div class="form-group">
+      {{render_field(form.problem, autofocus=true, class_="form-control")}}
+    </div>
+    <p><input type="submit" name="submit" class="btn btn-primary" value="Predict"></p>
+    <p><input type="submit" name="submit" class="btn btn-primary" value="Add Problem"></p>
+  </form>
+
+  <div>
+  <img alt='acc image' src="{{url_for('static', filename='test1_acc.png')}}" width="45%" >
+  <img alt='loss image' src="{{url_for('static', filename='test1_loss.png')}}" width="45%" >
+</div>
+  <img alt='model image' src="{{url_for('static', filename='test1_model.png')}}" width='100%'>
+
+  <p>Description:</p>
+  <p></p>
+  <h3>Model Parameter</h3>
+  <dl>
+    <dt>Model Hyperparameters</dt>
+      <dd>embedding_dim = 300</dd>
+      <dd>filter_sizes = (3, 4, 5)</dd>
+      <dd>num_filters = 128</dd>
+      <dd>dropout_prob = (0.5, 0.8)</dd>
+      <dd>hidden_dims = 200</dd>
+  </dl>
+  <dl>
+    <dt>Training parameters</dt>
+      <dd>batch_size = 64</dd>
+      <dd>num_epochs = 200</dd>
+  </dl>
+  <dl>
+    <dt>Prepossessing parameters</dt>
+      <dd>sequence_length = 400</dt>
+      <dd>max_words = 5000</dd>
+  </dl>
+
+{% endblock %}

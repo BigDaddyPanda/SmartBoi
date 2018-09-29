@@ -1,0 +1,62 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  {%  from "includes/_formhelpers.html" import render_field %}
+  <form method="POST" action="" enctype="multipart/form-data">
+    <div class="form-group">
+      {{render_field(form.problem, autofocus=true, class_="form-control")}}
+    </div>
+    <p><input type="submit" name="submit" class="btn btn-primary" value="Predict"></p>
+  </form>
+
+  {% if "" != prediction %}
+  <form method="POST" action="">
+  <p><input type="submit" name="submit" class="btn btn-primary" value="Add Selected Problems"></p>
+    <table id="pred_table" class="table table-bordered table-hover">
+      <thead>
+        <tr>
+          <th>Prediction</th>
+          <th>Problem</th>
+          <th>Add Problem</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for problem, form_class, value in prediction %}
+        <tr class={{ form_class }}>
+          <td>{{ value }}</td>
+          <td>{{ problem }}</td>
+          <td>
+            <div class="checkbox">
+              <label>
+                <input type="checkbox" name="add_problem" value="{{ problem }}"> Add Problem
+              </label>
+            </div>
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    <!-- <p><input type="submit" name="submit" class="btn btn-primary" value="Add Selected Problems"></p> -->
+  </form>
+  {% endif %}
+
+  {% if add_problem %}
+    <table id="pred_table" class="table table-bordered table-hover">
+      <thead>
+        <tr>
+          <th>Problem</th>
+          <th>Was the Problem added?</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for problem, text, form_class in add_problem %}
+        <tr class={{ form_class }}>
+          <td>{{ problem }}</td>
+          <td>{{ text }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  {% endif %}
+
+{% endblock %}

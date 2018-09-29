@@ -1,0 +1,10 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <h1>Expose DataBase Notes</h1>
+  {% if notes!=""%}
+  {%for note in notes %}
+  <span class="help-inline">{{ note }}</span>
+  {%endfor%}
+  {%endif%}
+{% endblock %}

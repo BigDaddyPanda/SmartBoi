@@ -1,0 +1,8 @@
+tensorflow
+keras
+gensim
+gunicorn
+numpy
+flask
+matplotlib
+wtforms

@@ -106,3 +106,5 @@ venv.bak/
 Prototype/\.vscode/
 
 Prototype/data/
+**.vscode**
+\.idea/

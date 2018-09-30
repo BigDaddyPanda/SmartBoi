@@ -17,6 +17,7 @@ from os.path import join, exists, split
 from gensim.models import word2vec
 from gensim.models.keyedvectors import KeyedVectors
 import pickle as pickle
+import tensorflow as tf
 
 
 # ---------------------- Parameters section -------------------
@@ -24,7 +25,7 @@ import pickle as pickle
 
 # Log Level
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
-
+print("we coool")
 # Prepossessing parameters
 sequence_length = 400
 max_words = 5000
@@ -47,9 +48,9 @@ def load_data(data_source):
         vocabulary_inv[0] = "<PAD/>"
 
 
-    elif data_source == "pickle":
-        vocabulary_inv = pickle.load(open("./models/vocabulary.p","rb"))
-        return "","","","",vocabulary_inv
+    # elif data_source == "pickle":
+    #     vocabulary_inv = pickle.load(open(".models/vocabulary.p","rb"))
+    #     return "","","","",vocabulary_inv
     else:
         x, y, vocabulary, vocabulary_inv_list = data_helpers.load_data()
         vocabulary_inv = {key: value for key, value in enumerate(vocabulary_inv_list)}
@@ -76,6 +77,8 @@ def load_dict(data_source):
 
 def load_model():
     print("Load model...")
+
+    graph = tf.get_default_graph()
     json_file = open('./models/model.json', 'r')
     loaded_model_json = json_file.read()
     json_file.close()
@@ -84,12 +87,14 @@ def load_model():
     # evaluate loaded model on test data
     loaded_model.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
     print("Model loaded...")
+    loaded_model._make_predict_function()
     return loaded_model
 
 def load_w2v():
     model_dir = '../data'
     #model_name = "{:d}features_{:d}minwords_{:d}context".format(num_features, min_word_count, context)
     model_name = "GoogleNews-vectors-negative300.bin"
+    # model_name = "Test.bin"
     model_name = join(model_dir, model_name)
     global w2v
     if exists(model_name):
@@ -99,16 +104,18 @@ def load_w2v():
     return
 
 def predict_Problem(loaded_model, vocabulary, sentence):
+    print("sentence Before",sentence)
     sentence = sentence.split(" ")
     #print(json.dumps(vocabulary , indent=4))
     sentence = map(lambda x: data_helpers.clean_str(x), sentence)
-
+    print("sentence after",str(sentence))
     sequence_length=49
     # Schauen ob word in dictionary vorhanden ist. Falls ja dessen Index im dict einer Liste hinzufuegen
 
     startT=timeit.default_timer()
     pred=[]
     for word in sentence:
+        print("Predecting",word)
         if not word:
             continue
         x = vocabulary.get(word)
@@ -117,7 +124,11 @@ def predict_Problem(loaded_model, vocabulary, sentence):
         else:   # Testen ob in w2v ein aehnliches wort gefunden werden kann und ob dieses im Dictionary ist
             print('Word {} is not in dict'.format(word))
             #w2vList=w2v.wv.most_similar(word)
-            w2vList=w2v.most_similar(word)
+            try:
+                w2vList=w2v.most_similar(word)
+            except Exception:
+                pred.append(0)
+                continue
             for w in w2vList:
                 w=w[0]
                 print(w)
@@ -126,8 +137,7 @@ def predict_Problem(loaded_model, vocabulary, sentence):
                     pred.append(vocabulary.get(w))
                     break
     stopT=timeit.default_timer()
-    print('Prepare duration: {}'.format(stopT - startT))
-
+    print('Prepare duration: {}'.format(stopT - startT),"Result:\n",pred)
     # <PAD/> einfuegen falls word nicht im dict?
     #	else:
     #		pred.append(0)
@@ -135,8 +145,9 @@ def predict_Problem(loaded_model, vocabulary, sentence):
     #print("test1")
     #print(json.dumps(pred, indent=4))
     # Die eben erzeugte Liste mit 0 --> <PAD/> auf die Laenge der sequence_length (400) auffuellen
-    iter = sequence_length - len(pred)
-    for x in range(0, iter):
+    
+    empty_spaces = sequence_length - len(pred)
+    for x in range(0, empty_spaces):
         pred.append(0)
 
     #print("test2")
@@ -144,14 +155,14 @@ def predict_Problem(loaded_model, vocabulary, sentence):
     # Liste zu Numpy array konvertieren
     pred = np.array(pred)
     pred = pred[None, :]
-    #print(json.dumps(pred, indent=4))
+    # print("Liste zu Numpy",json.dumps(pred, indent=4))
     pred.T
 
     #print("test3")
     #print(pred)
     #print(json.dumps(pred, indent=4))
 
-    #print("Pred before: ")
+    print("Pred before: ")
     startT=timeit.default_timer()
     prediction = loaded_model.predict(pred, verbose=1)
     stopT=timeit.default_timer()

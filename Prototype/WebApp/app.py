@@ -52,9 +52,9 @@ def qualify_notes_headline():
         else:
             bg_col = 'green'
 
-        return jsonify(quality=bg_col)
+        return jsonify(quality=[bg_col,prediction])
     except:
-        return jsonify(quality="0")
+        return jsonify(quality=["0",0])
 
 
 @app.route('/test1', methods=['GET', 'POST'])

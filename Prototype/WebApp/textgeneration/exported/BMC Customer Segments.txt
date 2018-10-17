@@ -1,0 +1,585 @@
+[Niche Market]: People who need cheap website services and do not need long-term maintenance.[B2C]: .
+[B2B]: Events and Weddings....[]: People with a medium and high economic level who want to eat healthy and like to have a good glass of wine .[Locals]: Make a point to get to know the locals supporting our business. Make small talk with them and make them feel like they are a part of your family..
+[Tourists]: Treat them like the locals; make a point to chat with them and teach them about the different beers we have to offer. .
+[Brew Pub Tours]: Reach out to the local brew tour companies to make sure our brewery is on their list of stops. In exchange we will offer discounted beers to their tour groups and promote their companies..[Direct customers]: -Private car owners by downloading the app.
+[Indirect customers]: -Ads of private business around free parking zones (leisure, restaurans).[Cost Conscious Consumers]: .
+[College Students]: .
+[Small Businesses]: .[Marketing Agencies]: Multiple accounts.
+[Marketeers]: Freelancers that provide marketing services.
+[Event Organizers]: Events & Conferences (use the tools from the TED Marketplace).
+[Exhibitions/Museums/Galeries/EXPO]: .
+[Retailers]: .
+[Big Malls]: They can be either customers or partners.[Individuals]: Participants in challenges/brainstorming.
+[Corporations]: Who have areas to improve and seek outside perspectives (Represented by decision makers).
+[Entrepreneurs]: Interested in creating startups and their own projects.[Students]: .
+[Prosumers]: .
+[Brands]: .[Entrepreneurs/Small Business Owner]: .
+[Executives/Corporate Business]: .
+[Service Disable Veteran Owned Business & Non-Profits]: .
+[Government Sector/Officials]: .[Health-conscious Consumers]: .
+[Environmentally-conscious Consumers]: .
+[Ethical Food Producers]: .
+[Mass Market]: .[Tech savvy and motivated patients]: - patients that like to quantify their health- patients with multiple chronic or complex conditions (e.g. cancer patients, autoimmune disease, neurological disease)Value: simplify disease information management and reduce burden of disease management.
+[Health care providers]: - second opinion specialists- ER/ acute care physiciansValue: reduce time of data entry and reduce risk of inaccurate data.
+[Health care systems]: - health care systems that have invested in advanced EMR capabilitiesValue: promotes benefits for both the providers and patients to recoup the value of their investment.[Middle and Upper Class Moms]: Mom, Babies, Kids and Dad.[Commuters: all ages and occupations (except those who want alone time)]: .
+[People who want to be more engaged, perhaps more isolated (solo parents, elderly)]: .
+[Social researchers and design researchers]: .
+[Sponsors]: .
+[Tourists]: .[General Public]: .
+[Emergeny Managers]: .
+[Enterprise]: .[Developers]: - Individuals- Companies.
+[Designer/Concepter]: .
+[Scientists]: .
+[Students]: .
+[Customer's customers ]: .
+[The public (web / app users etc.)]: .
+[Industry: Manufacturers]: .
+[Industry: Telcos]: .
+[Industry: Professional Testing Services ]: Example: bugfinders.co.uk.[Youth with Disabilities]: creative and obtaining enjoyment through play, and thriving..
+[Older Adults with Impairments]: Occupational therapists directly address the challenges of adults with a wide range of disabilities including chronic disease and help manage them..
+[Workers with Disabilities]: facilitate  a lot of work opportunities in a lot varied settings for these individuals.[Youth]: .
+[Corporate/Business]: .
+[Young Families]: .[Family/friends (esp. distant friends and family)]: .
+[Merchants (retailers, restaurants, etc.)]: .[Water Makers ]: Property owners (through runoff from hardscape and rooftops), Road owners and maintainers..
+[Water takers]: Wastewater and stormwater utilities.
+[Other users who may have use for water]: .[1) Farmers 2)  Farmhouses(Corporate) 3) Industrial farm lands 4) Agricultural university fields 5) Agricultural research centers]: market segmentation will be done and different customers will be served with different layout of services according to their needs. .[Insurance companies]: .
+[Equipment and supplies vendors]: .
+[Gyms]: .[Locals (geographical)]: - AKA repeat customers- Very broad segmentation- Pricing for varied economies- Ages from children to senior citizens.
+[Tourists]: Staff will be knowledge able about the geographical area and aware of tourists desires.
+[Segments with Growth Potential]: -Female demographic-Special dietary needs. Glucose, light caloric, etc.- Compete with wine and spirit manufacturing .[People who goes to popular mass events ]: People interested in entertainment events like dance shows, performances, food fair, etc. Ages: 12-35 years oldTarget: Early adopters. .
+[People who goes to culture related events ]: People interested in events where they can learn about a new culture, throught different entertainment activities.Ages: 7-40 years oldTarget: Families..
+[People who goes to indigenous related events ]: People interested specifically in events related with indigenous communities, indigenous artefacts or indigenous traditions.Ages: 17-30 years oldTarget: Young adults..
+[Posible indigenous allies and final judges.]: Indigenous people interested in having physical places where their culture can be visualized by the urban citizens. Ages: 16-50 years oldTarget: Indigenous people.[Main focus: 50+ year old patients]: .
+[Diagnosed CVD patients]: .
+[Worried Well]: .
+[Caregivers]: .[Firm:]: 1.Communities2.Individuals of Community3.Institutions (Schools, colleges) of community4.CSR Wings5.NGO's.
+[Product Solutions Market:]: 1. In and around the communities.2. National &amp; International.3. Online4. Contacts5. Fairs/events.[Creative Professionals]: - 18-45, f & m, title= dp, cinematographer, videographer, photographers- motivated to make a living, high quality, low costs, meet deadlines- influencers= blogs, friends, bosses/directors/producers/management (budget planners).[consumers]: .[Individuals]: Participants in challenges/brainstorming.
+[Corporations]: Who have areas to improve and seek outside perspectives (Represented by decision makers).
+[Entrepreneurs]: Interested in creating startups and their own projects.[who are my customers? why would they buy? geographic, social, demographic]: .[Mass market ]: They don't put focus only on one target group .
+[Healthy lifestyle]: People who're seeking healthy products..[Learners: in-class ]: .
+[Learners: Online and technology-enhanced]: .
+[Other education institutions]: .[People from undeserved areas]: .
+[Local Social Entrepreneurs]: .
+[NGOs and CBOs]: .[Families]: .
+[Existing and potential clients]: .
+[Gardeners]: .[Main Customer]: Park's and public place visitors.
+[Other Customer]: Media social users.[Consultants]: Consultants who perform hedging studies and use the HedgeSmart app to lower their costs..
+[Commercial Entities]: These include agricultural producers, commodity buyers, storers, and commodity processors. All can use HedgeSmart to "lock-in" the future transaction price of commodities..
+[Academic Researchers]: The automation encompassed by HedgeSmart allows hedging strategies to be formulated more quickly.
+[Commodity Advisory Firms]: Can add HedgeSmart to their website to draw traffic..[Lifestyle companions (Way of Being)]: Adapting to a certain lifestyle defines the sharing and the level of exchange between companions (e.g. sharing the passion for driving oldtimer cars; yoga; trekking; etc.) ".
+[Theme Companions (Way of Thinking)]: the companions share the same way of thinking: e.g. health issues, activities Ã¡nd get together to enjoy their interest / activities .[Parents]: .
+[Teachers]: .[Students]: - 5% of the market- Aged between 17 to 22- From Washington and Jefferson College- Spend their days on campus but eat at least twice outside per week- Â¾ of the students are on the school food program- Are on a budget.
+[Towners]: - 95% of the market- Aged between 24 to 55- Â¾ of the group go out for lunch 2 times a week- Eat close to their work area (DT).[potential customer]: film marketersproducersArtistscreen writersfilm distributors.[Who are the customers that will want your value proposition?]: .
+[What are their characteristics, buying patterns, etc.?]: .
+[How large is the customer segment who will want your product?]: .
+[How will you validate that this segment exists and that they will be the consumers of your value proposition? ]: .
+[How will you know that your product/service will meet the needs of this customer segment?]: .[Entrepreneur candidates]: Groups of 3 and more, majority young womenSelected regions in Thailand and/or  Philippines, more countries to followFree what business ideasWHAT LEVEL?.
+[Members of nonprofit association]: Individual, small company, Gold SponsorsWhat to offer, benefits.
+[Donators]: small amounts.
+[Contributors (products, services)]: Benefits?.
+[Alumnis (former candidates)]: .[Segmented]: -Business People (Downtown workers)-B2C (Average consumer)-Unemployed (Welfare recipients)-City Dwellers (Downtown residents)-B2B-Students (LHS, UML, & MCC).
+[Diversified]: -Cell Phone Customers-Lottery Customers-Western Union Transfer Customers-Money Order Customers-Bill Payment Customers-ATM Customers.[People who live/work in mosquito-heavy areas]: HaikuHana.
+[People with local pride]: .
+[People who care about the environment and wellness]: .
+[People who care about smelling good]: .
+[Tourists]: US/CanadaJapan Australia/NewZealand.
+[People who do activities outdoors]: SportsCampHikeLandscapeFarm.
+[Active People]: SportsOutdoor recreation.[People moving to new city]: .[Individuals]: .
+[Corporate]: industry based.
+[E-commerce]: .
+[Current trade lanes/industry]: Turkey - GermanyGeorgia - RussiaChina - Africa.
+[specialised handling ]: exhibitions /fashion shows.
+[Customized Solutions]: Medical SamplesLive Animal TransportationDeferred ServiceHeavy Weight ShipmentsOdd Size and DG shipmentsExhibitions and Fashion Shows.[Students]: .
+[Young professionals]: .
+[Overtime staff]: .
+[High school students]: .
+[home decor]: -excellent, elegant gifts-hardy plants and easy to maintain-clean.[Dog owners]: Primarily female?.
+[Kids]: Parents of Kids?.
+[By purchasing our products, our customer gets to spread positive messages and support worthy causes.]: .
+[People who are interested in social causes.]: .
+[People who are spiritually minded]: .
+[Animal Lovers]: .
+[Phase 2: B2B Pet Stores - Online]: .
+[Phase 2: B2B: Pet Stores - Brick & Mortar]: .
+[Phase 2: B2B: Food stores w/ focus on organic, farm fresh]: .[Ambulatory Care Providers]: Family, Internal, and Geriatric Practices with 2+ ProvidersDecision Makers:Office ManagersOwnersThere are 230,187 Physician Practices in the U.S. .[Energy Utilities]: .
+[Energy Utility Customers]: We deliver an awesome experience for customers to access their account information..[College Females at JMU ]: .
+[College Males at JMU ]: Specifically greek life members .
+[JMU Health Center (hopefully)]: .
+[Local Gas Stations]: .[Software As A Service]: .
+[Hospitality]: .
+[Gaming]: .
+[Consumer Software]: .
+[Communities]: .
+[e-Commerce]: .[Patients]: .
+[Health Insurance Companies]: .
+[Health Care Facilities]: ClinicsHospitalsMedispasBeauty FarmsSpas.
+[Doctors/ Dentists]: .
+[Health care professionals]: .
+[Pharmaceutical and medical devices companies]: .[Group of travelers]: Persona/Archetype:+Male (30%) and female (70%)+From US/Europe/Asia+Young Adult 13 - 35 (19 - 25 60%)+ < $100k income+with/without 3G+Love to visit different city/same city+Love to explore the city+Love to take photo and share+Love to meet new friends+Try to avoid unsafe places+Hate trouble+Who is our early adopters?Burning Problems:+Lose track of their friends+Lose track of destination and how to get to there+Don't know where to go besides the destinationNeeds:+Stay tuned about the route+Stay connected with their friendsJD:+.
+[Touristic Places, Agency and Hotels]: TODO: Details needed.
+[Local restaurants, bars, pubs, mall, events organizer]: TODO: Details needed.
+[Developers]: TODO: Details needed.[Parents of young children]: .
+[Pet owners]: .
+[People with chemical sensitivities]: .
+[Local business supporters]: .
+[People invested in green + sustainable lifestyles]: .
+[Daycare owners / operators]: .
+[Pet boarding facilities]: .[Beer Distributors]: .
+[B2B]: .[Business Segment]: Will enable this segment to increase their lifestyle in an affordable and user-friendly manner..
+[Vegans / Vegetarians]: Easy and accessible way for them to find suitable food..
+[Older/aged Segments]: -People who are older will need less worries when shopping and will find this a "familiar" service..[JMU student body]: .
+[Personal networks]: .[Bikers]: .
+[factories ( Employers )]: .
+[university students ]: .[Digital Music]: The Digital Music customer segment is represented by the Digital Music business.  .
+[Gaming System]: The Gaming System customer segment represents 68% of revenue.  .
+[On-Line Retail]: Customers include consumer and corporate sales and customers who purchase their electronic components..
+[Electronic Components]: Customers who purchase components manufactured in Tinkleman's manufacturing centers such as retail companies that sell electronic entertainment and productivity devices..[Parents with young children]: .
+[Pet owners]: .
+[Existing clients]: .
+[Former clients]: .
+[Pet owners]: .
+[People with chemical sensitivities]: .
+[Environmentalists]: .
+[People who want to support local businesses]: .
+[People who like to buy products with a mission]: .
+[Daycare owners/operators]: .
+[Pet boarding facilities]: .[Patients]: Patients with several conditions are eligible for anticoagulation treatment ( Atrial Fibrilation, Deep Vein Thrombosis, Heart Valve surgery, Stroke).
+[Health Insurances]: This application has the potential of reducing costs by preventing expensive patient's hospital admissions..
+[Medicare and National Health Systems]: Reducing costs by preventing expensive patient's hospital admission..
+[Physicians]: .[Customer Segments]: We are creating value to MLS fans & Iowans. Our most important customers are Iowans..[]: Fast Food Lovers.
+[]: Mass Market.
+[]: Franchisers.
+[]: Fried Chicken Lovers.
+[]: Children ( toys ).[Fishing Community]: Women- Contraception- Reproductive Education- Pre/Post Natal Education- Other Medicinal NeedsMen- Contraception- Reproductive EducationGeneral Education- Benefits and connection between fertility, education and sustainability of natural resources..[Global Retailers]: 52K.
+[Test]: .[Established Companies]: - marketing efforts- saving money for development/publicity- consumer involvement.
+[Amateur Filmmakers]: - exposure- "help and be helped" attitude fosters community feel- streamlined process.
+[Freelancers]: - able to add their work to others videos (particularly composers or photographers).[Beer Lovers]: To put it simply: People that like beer.
+[Lovers]: Couples or future couples that cherish a special moment.Willingness to pay a higher price for providing a memorable romantic moment.
+[New Generation Workers]: Long hours of workNeed to have a special moment at the end of the dayHigh stressed lifeAmbition.
+[Gifters]: Part of the population that looks for differentiation when giving a present for some kind of milestone.
+[Quality Seekers]: People that look for quality ingredients in their shopping decisions.Higher income.[Social Media]: - Facebook- Instagram.
+[Innovate the service]: .[Mass Market]: .
+[Homeowners]: .
+[Gardeners]: .
+[Property managers]: .
+[Facilities managers]: .
+[People with small irrigation systems]: .[Aquiring Customers]: Sales RepsAdvertisementVideo AdvertisementOnlineSocial NetworkingWord of Mouth.
+[Virtual Channels]: MobileSoftware.
+[User-Based Approach]: Demographic-Small Businesses (1-49)-Mid-sized (50-999)-Large Businesses (1,000+)*Deal w/ a variety of industriesGeographic*many international customersSocioeconomicEmployer services (highest earning segment).[Business Person]: .
+[Priority light freight sender]: .
+[Weekend traveler]: High end luxury personal travel.
+[Service providers]:  (under one brand)1. General Aviation Carrier2. Light Freight Company (TTPOST, etc)3. Business Center4. Restaurant5. Business supplies Depot.
+[E-Commerce businesses]: Shipping charges.
+[Vacation package offerers]: Hotels & Guest housesTravel agencies.[Travelers that are looking for a good experience with a low price]: .[Construction Buyer]: Jon Spacer - Procurement Director50 yo maleConservativeThe Trustees of the London ClinicKids & Grand KidsPlays Golf.
+[Designers / Consultants]: Jane Simms - Design Engineer35 yo female Innovator / Early AdopterBuilding Design PartnershipDouble income no kidsTriathlons.
+[Suppliers / Builders]: Bob Clark - Managing Director50 yo maleConservative / LaggardLaing O'RourkeKids & Grand KidsArsenal FC Season Ticket Holder.[Wholesalers and Buyers]: Sellers who already have their own distribution networks or represent larger stores..
+[Boutique Retailers]: Region vs. Lifestyle (Sustainable, Trendy, High end, Urban, etc.).
+[Online Retailers]: Lifestyle segment (Trendy, Sustainable, High end, etc.).
+[Department Retailers]: Retailers who are interested in having a section for organic clothing*******Ender MagazalariUrban OutfittersBoyner.
+[Clothing Brands]: Who want to add organic clothing to their collection and work with organic cotton supply chain.[]: People interested in basketball.[Content Based Verticals]: -Small business owners-Corporate knowledge workers-Hotel managers-Bar owners-Map makers-etc....
+[Public, Private, Personal]: -Schools-Business-Students-Parents.
+[Remote Learners]: People with limited resources in remote locations with some connectivity.[Advertisers]: multi-sided market.
+[Parents of kids with devleopmental disorders]: niche market.
+[Teachers & Providers]: teachers/people who work with these families. They will likely be using these resources or linking people to the network .
+[US STATISTICS]: 1 in 6 children have developmental disorders1 in 68 children have autism spectrum disorder.
+[BASED ON MY OBSERVATIONS AS AN ABA THERAPIST & MY DISCUSSIONS WITH PARENTS]: Parents feel alone and isolated as a parent of a child with a developmental disorder even though there are dozens, if not hundreds, of parents going through similar struggles in their own cities.Parents are often not aware of fabulous fun events that promote children's development in their own communities.Since parents are not aware of such community events, children with developmental disorders have fewer opportunities to socialize with other children and to move their bodies for optimal physical development.Many families spend their days at home.[Individuals]: Participants in challenges/brainstorming.
+[Corporations]: Who have areas to improve and seek outside perspectives (Represented by decision makers).
+[Entrepreneurs]: Interested in creating startups and their own projects.[Single people]: .
+[Married people]: .
+[Families]: .
+[People over 25]: .[Individual Farmers]: ~100 million (in India alone) with average farm size of 1.3 hectares .
+[Bee Keepers]: Small market initially, high growth potential (includes both rural and urban).[Leaders]: Anyone that is managing/leading more than 2 people..
+[employees]: these are not paid customers but employees are one of the most important  elements of the theLeader.io ecosystem.[Traders (B2B)]: Traders specializing in Underbond trading and doing business globally from the Western World to Middle East and South East Asia. The bigger the network, the better as it gives us not only International exposure but diverse choices to buy and sell our products..
+[Wholesalers and Retailers (B2C)]: Selling to various Wholesalers such as Cash and Carries in UK and retailers across the world depending on the network and demands. .[Automotive industry]: .
+[Construction]: .
+[Infraestructure]: .
+[Infraestructure Oil & Gas]: .[Individual Farmers]: ~100 million (in India alone).
+[Co-operative Units]: ~40,000 IFFCO co-op units in India.
+[Retail Chains (Logistics)]: ~$325 billion Indian food and grocery market.[Institutions(On Contract Terms)
+
+-Hospitals
+-Education Institutions ]: .
+[Residential]: People in need of quick and clean laundry.
+[Individuals 
+
+-Neighbourhood individuals who live in condomoniums,small families,busy professionals
+
+- University students,Colllege students and nursing school students ]: .[People with chemical sensitivities]: .
+[Parents of young children]: .
+[Women's empowerment supporters]: .
+[Pet owners]: .
+[Local business supporters]: .
+[People who support worker-ownership]: .
+[People invested in green and sustainable lifestyles]: .[Age: 10-60 years old]: .
+[Both male/female]: .
+[health conscious]: .[every consumer]:  as student.
+[small businesses]: as local shops.[Testing idea]: Maybe I can use some of the linkin of twitter groups to survey... also there are thoise local startup groups all around..can use one of the monkey surveys online.
+[talk to people like Brent beshore]: Remember, this is a Pre-VC store - people in start up mode ala steve blank tryingto find if they have a business..
+[Talk to Peter hofherr when I get a BMC ready and have interviewd some people/customers]: .[We are creating this business for people who want to quit smoking ]: .
+[Our most important costumers will be people from ages that are 18+ and also have the financial monetary to buy this product ]: .[German Football League]: .
+[Professional Football Clubs in Germany]: .
+[End-Users: Football Fans]: .[Canvas 1]: .
+[Canvas4]: -People interested in health- on a specific diet-who like healthy organic food.[Individuals]: Participants in challenges/brainstorming.
+[Corporations]: Who have areas to improve and seek outside perspectives (Represented by decision makers).
+[Entrepreneurs]: Interested in creating startups and their own projects.[Customer Segments]: Parents for Kindergarten usersYouthsGovernment Public Health departmentWoman Rights Advocacy groupsYouth focused Foundations/NGOsYouth Friendly CentersHIV/AIDS Services ProvidersPrivate Hospitals.[Insurance providers]: -insurance providers like Blue Cross Blue Shield-want to save money wasted on excessive checkups (due to false positives) or late-stage treatments (due to false negatives).
+[Advertisers]: -large corporations like Grey Advertising that display mobile ads-healthcare-specific companies (e.g. insurance) that want to advertise their solutions to potential clients-looking at digital and targeted advertising as an efficient method of marketing.
+[Average American consumers]: -age range 30-50-working/middle class - does not want to frequently visit doctor-has a job; thus lacks time to travel to doctor-health-conscious - concerned about potentially hazardous skin conditions-looking for a cheap, fast, and convenient method of diagnosing skin conditions.
+[Nonprofit aid organizations]: -working to improve health conditions in developing countries-want to easily diagnose skin conditions in areas that lack healthcare (e.g. rural villages in Africa).[Students]: K-12, College and University Students, Vocactional education students and life long learning students..
+[Teachers]: Educators, Professors, Trainers, Tutors and Coaches..
+[Parents of students]: k-12 students' parents, University students' parents, Special needs students' parents..
+[Researchers]: Educational and Training researchers..
+[CEOs and Deans]: Deans, Principals, CEOs and managers (marketing managers, project managers)..
+[Training Authors]: Content authors, multimedia designers, technical developers and programmers..[Juniors ]: 14-18 years .
+[Adults]: 19-25 - young adults 26-45 - adults45-59 - older adults .
+[Seniors]: 60+ (currently represents largest customer segment) .[Individuals under age 25
+]: .
+[Elderly]: .
+[Employees]: .
+[People with chronic health issues]: .[Working Professionals]: .
+[Yoga/Meditation Studios]: .
+[Corporations]: Providing mental health seminars of the application..[Lovers of domestic crops; Professionals; designer; Companies in the field of domotics]: .[High Profile Individuals]: Entrepreneurs.
+[Recognized (National) Companies]: .[Customer Segments]: Youngsters aged 18 to 24. More specific details and rationale: Having the needs to learn about entrepreneurship in order to open their own business or to apply entrepreneurial skill to their life. They can come from all over the world and especially in emerging markets to tap on available opportunities. Some customers may not study at Schools/Universities/Colleges. Private/Public School students or teenagers aged 16 to 17 should also be targeted as customers in order to shape their career direction to decide whether they should go for college or not.Youngers aged 25 to 35. Potentials entrepreneurs with more experience or maturity, or people working as employers or not-employers actually. .[All age groups and various communities]: Common: Young people) from 20s-30s (students, housewives, businessman/women).
+[Psycological aspects]: Dislike fancy brand productsCare about environmentSeek simplicity in daily life.[Parents with children 4 - 9]: Mums 30 - 44.
+[Kindergartens and Child-care Centres]: .[Segments]: mass marketniche marketsegmenteddiversifiedmulti sided platform.[Family]: .
+[Friends]: .
+[Lecturer]: .
+[Public]: .[Support for People]: I feel I need support to help me stay independent, safe and well at home.
+[Support for Carers]: I feel I need help so I can carry on in my caring role.
+[Experts by Experience]: I have experience which I can share with others and help them plan their own support.
+[NQSWs]: I want an exciting, friendly, caring place to work whilst I build my confidence that I am now a registered social worker.
+[Social Workers]: I want to expand my knowledge and skills as a critically reflective practitioner post qualifying by:Better understanding MCA in PracticeBy qualifying as a Best Interest AssessorBy qualifying as a Practice EducatorBy nurturing and developing new talent into the social work profession .[Take photo by mobile phone]: The people want to share or save photo by paper..
+[The people need print picture anywhere]: .
+[Need print document anywhere]: .[Customer and User the same??]: most likely the same, however for the younger population, the customer would be parents..
+[Customer Experience]: Customers looking for 'an experience' different from other (typical) homestyle restaurants or fast food restaurants. Eclectic and similar to the culture in california/south austin. Like Freebirds..[Customer segment]: The average customer has to have a socioeconomic level; low, medium-high and high to seek an experience of comfort, quality and service differentiation, of all ages and gender.[Burners]: .
+[Environmentalists ]: .
+[Visionaries]: .[Ethical consumers]: .
+[Those who cannot afford good quality food]: .[Organisation]: Insurance companies from Russia, North Europe and US..
+[People]: Adults (25-60 years old) from North Europe, US and Russia..[Simple Account for Users]: * Payment* Loyalty* Credit.
+[Smart Account for SME]: * Smart Banking Services* Loyalty* Credit.
+[Credit Provider]: * Resell Credit Product to our Users or SME.
+[[Automated Account for Enterprise]]: * Future.[Dairy Farms]: 1. Capacity >= 50 cows2. Deficient in Labor3. Large/Small Farm Area.[mass market ]: >males and females, young and old that do not have a large amount of money to purchase a one of a kind art pieces &gt;Business and home owners.[Stage 1- More accurate than US & Toco]: .
+[Stage 2 equal to Doppler]: .
+[Stage 3 equal to Doppler]: .
+[Leadless]: .
+[Simultaneous Doppler and Scalp ????]: .
+[Large Ladies]: .
+[Does not confuse Fetal and Maternal HR.  Coincidence 
+                                
+                        EditÂ 
+                        [x]
+                
+                        ]: .
+[Infection control]: .
+[Great from 22 weeks to Term.  Equal to US 28-32 weeks due to Velum]: .
+[Scalp 98% Does not need to be repositioned or does it fall out]: .
+[Allow for easy ambulation]: .
+[Non invasive]: .
+[Patient Compfort]: .
+[Wireless monitoring]: .[Individuals]: Participants in challenges/brainstorming.
+[Corporations]: Who have areas to improve and seek outside perspectives (Represented by decision makers).
+[Entrepreneurs]: Interested in creating startups and their own projects.[Niche]: .
+[Small businesses]: .
+[Freelancers]: .
+[Creative agencies]: .
+[Networking groups]: .
+[Industry experts (for guest slots)]: .[Diabetics.]: .
+[People with overweight.]: .
+[People with heart disease.]: .
+[Elderly people.]: .[Customer Segments]: 1. Prefer to wear glases and lens2. India focussed : Non-metro customers.[Financial advising]: .
+[Taxes]: .
+[Managing accounting books]: .[Professional workers]: .
+[College students]: .[House holders in EU]: .
+[Car owners in EU]: .
+[Green Energy segment in EU]: .[students]: .
+[woman]: .
+[design and creative ideas sourcing companies]: .
+[large and small branded fashion labels]: .[Mothers]: .
+[Millennials]: .
+[Business People]: .[Business Professional with Problem]: .
+[Entrepreneur / Problem Solver / Technologist]: .[Handcrafted Shoe producers]: 5 in Estonia.14 in Etsy..
+[Fashionistas]: -Looking for uniqueness-Quality.
+[Shoe buyers looking for a better fitting shoes]: -Has high expectations on quality and fitting-Possible orthopedic/foot health issue-Buying for lifetime.[Existing community food growing groups]: These will be both key partners and customers > the festival needs to work for them e.g. giving them the opportunity to recruit volunteers, raise funds, increasing awareness .
+[Members of the public]: - City residents and visitors / tourists- Across socio-economic groups- Across age and ability, with emphasis on reaching out to often excluded groups e.g. the disabled, the elderly, minority ethnic groups.
+[Public sector bodies with a stake in promoting community food growing]: The festival will help deliver key strategic priorities relating to health, environmental sustainability, community empowerment, neighbourhood regeneration..[Customers can access our product range online and through stool suppliers ]: .
+[Products will be New Zealand made ]: - creates value .
+[Multipul Markets ]: B2B - Suppliers B2C - Stool owners .
+[Students ]: .
+[Quick & easy service ]: .[Support for People]: I feel I need support to help me stay independent, safe and well at home.
+[Support for Carers]: I feel I need help so I can carry on in my caring role.
+[Experts by Experience]: I have experience which I can share with others and help them plan their own support.
+[NQSWs]: I want an exciting, friendly, caring place to work whilst I build my confidence that I am now a registered social worker.
+[Social Workers]: I want to expand my knowledge and skills as a critically reflective practitioner post qualifying by:Better understanding MCA in PracticeBy qualifying as a Best Interest AssessorBy qualifying as a Practice EducatorBy nurturing and developing new talent into the social work profession .[]: -All consumers who love the sport model cars worldwide..[Medium-sized enterprizes]: .
+[Large-sized enterprizes]: .[Tourists in high pedestrian volume areas]: .
+[]: PKU students.[Female Millenials]: .[Hammersmith customers are traditionally those who would like a product better than any existing product available on the market now. This can include but is not limited to the military, and customers who want to replace their current rafts with a more durable, advanced inflatable raft.]: .[1: Alcohol Consumers]: College students and other party-goers will be the primary buyers and end-users of our product. .
+[2: College Campuses]: College campuses have a vested interest in maintaining student safety. These campuses will be able to purchase PartStrips in large quantities for resale or other distribution to their students. .
+[3: Advertising companies]: Many alcohol companies take on campaigns to encourage responsible drinking. PartyStrips can be a vital aspect of these campaigns to help individuals consume in a safe and restrained manner. Such companies would pay for the rights to include our product in their advertisements..
+[4: Party Planners]: Companies that plan events and parties for businesses need to promote safety in their events to secure loyal customers and prevent accidents .
+[5: Bars and Restaurants]: These companies can sell more alcohol by preventing customers from drinking less with the fear of over-drinking. .
+[6: Non-profits]: PartyStrips can be an effective tool for non-profit organizations to promote alcohol safety, assault prevention, etc. .[Physically Active People]: Gym enthusiasts, casual runners, elite athletes..
+[Schools]: For PE classes and sports teams.[HCC Students]: .
+[Entrepreneurs in the community]: .
+[Veterans]: .
+[Buisness Partner Networks]: .[Quality audio-visual consumers]: .
+[Niche content consumers (comedy, drama, ...)]: .
+[Parents with young children]: .[Parking places users]: .
+[Private parking places owners]: .[Young People]: .
+[Students]: National and Exchange.
+[Cultural travelers]: .
+[Adventurers]: .[SCRIPT WRITERS,RESEARCHERS,CRITICS,MOVIE DIRECTORS,MOVIE PRODUCERS,ARTIST,ORGANIZATIONS]: SCRIPT WRITERS,RESEARCHERS,CRITICS,MOVIE DIRECTORS,MOVIE PRODUCERS,ARTIST,ORGANIZATIONS.[Niche Market]: Customer segmentation based on specialized needs and characteristics of its clients.According to the data exposed in the problem description, 35 million people worldwide have Alzheimerâ€™s disease. Caregivers probably double this amount.By 2050, the number of people age 65 and older with Alzheimer's disease may nearly triple.At this rate, Alzheimer's disease will become unsustainable unless a problem is a medical solution or probably technological.Caregivers will increase from 70 million to more than 200.Today there are, only in the U.S., 10 million caregivers and more than 5 million patients..
+[Mass Market]: There is no specific segmentation for a company that follows the Mass Market element as the organization displays a wide view of potential clients.The mobile applications market is estimated at 25 billion dollars in 2015. In 2018, only mhealth market could exceed 10 billion. .[Most important clients]: Our product is directed to the whole population, but especially to all the people who suffer from sugar, major of age or those who look for a way of life healthier without having to stop consuming what they like the most..[The Transport Companies and the Wide Range of Road Travelers]: Our main customers are the travelers, but we cannot satisfy them because we don't have the capacity to transport them, so this is where the transport companies come in..[Individuals]: Participants in challenges/brainstorming.
+[Corporations]: Who have areas to improve and seek outside perspectives (Represented by decision makers).
+[Entrepreneurs]: Interested in creating startups and their own projects.[Grocery stores ]: Big grocery stores that have over 1 ton/week organic waste.
+[Grocery stores that make more than $X]: .
+[Grocery stores that sell prepared foods ]: .
+[Non-chain grocery stores ]: .[Young women]: - Who love to diet.
+[Expand new market]: - Parent(paket keluarga)- Children.[Budget travellers]: .[Consumer]: 1. Early adopter:    - Muslim Artis    - Selebgram    - Muslim youtuber2  Muslim Millenial    - Siswa    - Mahasiswa    - Single dan "professionals" (high income & high internet usage)    - 18-34 tahun    - Ibu muda    .
+[Merchant]:  1.Muslim brands:  - Resto  - Hotel  - Salon&Spa  - Fashion  - Penerbit buku, dll 2.Muslim startup  - Hijup  - Hijabenka, dll.
+[Addtions]: - Events- Organizers- Global Brands- Bank Syariah.[High Profile Individuals]: Entrepreneurs.
+[Recognized (National) Companies]: .
+[Mass Market]: Probably more focused on 20-50 years old.[Learners ]: .[Small Hotels]: There are small hotels between 20 - 60 rooms that are independent and are not part of a International Chain.[Medium-sized enterprizes]: .
+[Large-sized enterprizes]: .
+[Companies interested on investing in their employees]: .
+[Companies interested in wellbeing]: .[Teenage girls
+]: .
+[Students]: .[Consumer]: 1. Early adopter:    - Muslim Artis    - Selebgram    - Muslim youtuber2  Muslim Millenial    - Siswa    - Mahasiswa    - Single dan "professionals" (high income & high internet usage)    - 18-34 tahun    - Ibu muda    .
+[Merchant]:  1.Muslim brands:  - Resto  - Hotel  - Salon&Spa  - Fashion  - Penerbit buku, dll 2.Muslim startup  - Hijup  - Hijabenka, dll.
+[Addtions]: - Events- Organizers- Global Brands- Bank Syariah.[High-low]: Students and society around PU area.[Brides]: .
+[Families]: .
+[ Birthday's]: .
+[Business Professionals]: .
+[Club owners]: .[Bands]: Music Video's.
+[Festivals]: Photographer's or Film maker's wanted.
+[Couple/Family Shoots]: .
+[Business owners]: .
+[Weddings]: .[Restaurant owners]: Medium to large Restaurants (5+ employees)Dealing with foreign clients.
+[Hotel Restaurants]: Restaurants of big Business / Leisure hotels Dealing with foreign clients .[Elderly Patients]: Those 65 and older that needs assistance.
+[Healthcare Professionals]: Those who work to ensure the patients are in the proper care.
+[Patient's Families and/or Guardians]: The caring family members of the patient.[Individuals]: Participants in challenges/brainstorming.
+[Mass Market]: Probably more focused on 20-50 years old.
+[Corporations]: Who have areas to improve and seek outside perspectives (Represented by decision makers).[College Students]: Mainly 18-22 year olds. Students who attend universities in the Tallahassee area who will have access to student pricing. A lower income segment due to demographic. .
+[Families]: Families who require, family photoshoots, family gathering events, or other types of requests for family photography.
+[Student Organizations]: Local student ran organizations such as greek organizations, mentoring organizations, and etc., who will need group photos, or video shoots, for events..[College Females]: Ages 18-22Car Owner.
+[Middle- Age Women]: Car owner seeking function.
+[Older Women]: Age 60+Car Owner or gift giver.[Travelor]: - looking for authentic alternative experience- willing to pay money- stay between 3 days and 2 weeks- wanting to meet new people (social).
+[Local Person]: - lives in travel location - wants to earn some money on the side- likes meeting people- can offer some sort of local activity- is flexible to offer activity when requested.
+[Professional Tourist Guide]: - earns money through city tours and touristic offers- is internet affine .[Family care givers]: out of pocket.
+[Citizens ]: out of pocket.
+[health insurance]: complementary to out of pocketprivate or public.[Sam's Club]: .
+[Walmart U.S.]: .[Customer Segments]: - Households- Tehran Area- Diversified.[Off-campus housing]: students who live in off campus houses that are required to take care of their own services.
+[Surrounding neighborhoods]: frequently out of town, retirees, snowbirds, .
+[Student living units or associations]: fraternities and sororities who are required to take care of their own services.
+[Facilities]: University property, public and commercial property.[Blue zone - government]: The blue zone where the cars park on the street.
+[Private parking establishments with the system]: all the cars that can park in the malls companies and universities.[For whom are we creating value?]: College Students!Professors, Families and High School Students, and Drivers around the globe..
+[Group of America]: "As we continue to expand and deepen our roots in the diverse American communities where we work and live, we strongly encourage our employees to utilize the diversity of their backgrounds, perspectives, unique talents and experiences to meet the diverse requirements of business partners and customers in order to drive our business forward."Michael HornPresident and CEOVolkswagen Group of America.[Children - with normal education ]: APP or WEBSITE COURSECustomers: -Families-Schools-Enterprise-Government Who have money to pay a course teached by a website or app.
+[Children - with poor background ]: PERSONAL COURSEBeneficiaries: Children between 3 to 13 age These Kids belong an organization which help them or belong a School localized on poor sub-areas..
+[Develop financial education mobile games/stories (Ecopedagogy)]: Assessment through application:Borrowing for seeds, equipment for farmingRepaying borrowed moneyBorrow in return for equity for landersAssessment through application:Saving for higher educationInvesting in property.[BIG Dive Tour Organisers]: Great Barrier ReefCairns.
+[Secondary segment]: Ind. rec divers.[Local religious communities]: .
+[Religious/Spiritual people with a smartphone]: .[Big companies looking at new segments or projects]: .[Content Based Verticals]: -Small business owners-Corporate knowledge workers-Hotel managers-Bar owners-Map makers-etc....
+[Public, Private, Personal]: -Schools-Business-Students-Parents.
+[Remote Learners]: People with limited resources in remote locations with some connectivity.[Current EV/ Plug-in owners]: .
+[Businesses  seeking "green" image]: .
+[Advertisers]: .
+[Local Government Authorities]: .[]: Our service will reach the Bellevue Community and any surrounding cities..[Employers with geographically diverse employees and consultants]: .
+[Employees that are on the road or do not have a fixed base]: .
+[Sole practitioner professionals]: .
+[Startups ]: .
+[Solo practitioners]: .
+[Solopreneurs]: .
+[Operators of "work at home" enterprises wanting to supervise contractors]: .
+[Enterprises wanting to create a fast and inexpensive "presence" in a market]: .
+[Academic researchers]: .
+[Study groups]: .[Customers in need of curative treatment]: Reactive Health.
+[Customers in need of preventive treatment]: Proactive Health.[Customers of YooMoo products are likely to be people interested in keeping healthy, however, still want to have a treat.]: YooMoo target markets:- People interested in leading a healthy lifestyle, yet want a treat.- Mums who want an alternative to giving children ice cream.- People who are on the move and want a healthy snack, particularly in summer months..[Local Residents]: - College students in the Greater Providence area.- Families.
+[Most Important Consumer Category]: - The student population in Rhode Island area is our most valued consumer because they frequently spend their disposable income on our products .
+[International Students]: - Asian students from the Rhode Island area that attend Johnson & Wales university, Brown University, URI, RISD and Bryant.
+[Existed Loyal Customer]: The founder, Jay Liu, has certain amount of loyal customers from his previous business..[Customers]: Young and adult people (12-60) that want to share with others their sperience and habbits. Also, companies who want to interact with their customers..[Niche - Paying Info]: Customers willing to pay for information on diseases.
+[Niche - Supplements/Remedies]: Customers willing to pay for products that alleviate or ease symptoms (through affiliate marketing).
+[Niche - Free Info]: Those looking for quick, easy-to-digest information on diseases (haven't got ads on page yet).[Restaurant]: 3000 or more meals per week and don't know about CERO.
+[Enviromentaly Friendly Restaurants]: .
+[Restaurants that make a profit of $x or more]: .
+[Small restaurants that are in a geographic cluster might be good for joint contracts]: .[Asset tracking]: Warehouses, stores, labsDelivery service .
+[ID & Security]: Object identification and tracking, personnel identification in hospitals, cleanrooms, production facilities, attendee tracking & profiling at conferences, trade shows and events, surveillance, airport passenger tracking, access control.
+[Manufacturing & Construction]: Manufacturing, assembly, construction (alignment, position & orientation control).
+[Automotive & infrastructure]: Assisted driving, traffic &amp; law enforcement.
+[Military & Defence]: Friend or foe ID, perimeter monitoring.
+[VR & Entertainment]: Virtual  / augmented reality (3D filming, reconstruction &amp; depth perception), clickable hypervideo, digital rights management.
+[Mobile & IoT]: Automatic person tagging on Facebook.[1- Heart Disease patients 
+ 2- living alone old people
+  3- patients exposed to emergency health cases]: - for whom we're creating values ? - most important segment.[Who are DD's customers? ]: a) Local communitiesb) Office workersc) Companiesd) University studentse) Kids.[Customer segments]: middle class.[A Simple Place to Stay]: Good for cost-sensitive travelers and whom simply needs a place to stay for their road trip.
+[Business Travelers]: 1. Wants to save his or her expense2. More space than typical hotel rooms3. Can cook one's food of preference OR4. More home feeling and comfortable stay.
+[Globetrotters]: Great chance to stay local: get to know more about its unique cultures.
+[Family Travelers]: 1. So hard to find a place which can accommodate every family member in a room2. The more the guests, the bigger the room they need3. In overall, it saves them a lot of money.
+[Bespoke, Customized Users]: It's my way or the highway. Customers in this group is very conscious, selective about their choice and preference.
+[Hosts]: Considering its C to C nature, host is another important customer segment. Hosts are also segmented according to customer segments like budget, bespoke, business, globetrotter and family traveler.[HR]: HR purchases on behalf of the users, the employees of the organisations.[Business people
+]: .
+[Companies]: .
+[BnBs]: Although this target segment won't start to be served in the first years..[Birthright Providers]: .
+[Birthright participants]: .
+[Niche groups]: .
+[Birthright leaders]: .
+[Jewish Federations]: .
+[Hillels]: .[Villagers rural areas sumbawa]: Honey from bees.
+[Farmers ]: For pollination.
+[The Environment]: Local ecosystems, plants, etc.
+[Downstream populations]: .
+[New York Rich Girls - 45-50 ]: .[Who are our Users?]: .
+[Internet Users]: .
+[Advertisers & Marketers]: .
+[Enterprises]: .[Pet Owners]: .[]: All types of mums, mums who prefer high quality affordable mummy bags. .[For whom are you creating values?]: We are creating this product for the kids, to learn how wash their hands. One of our most important customer is the principal because he will buy our product, but the principal customer are the kids because they will use it..['C'.s Wants]: 1. Access to cheaper power2. TÄutoko te Ä€o whÄnui3. An opp for a change4. A 'happy home'5. More $'ss for the whÄnau budget6. Addressing 'C's' concerns.
+['C' Jobs]: 1. To buy cheaper power2. Tautoko Te Ä€o whÄnui3. The whÄnau provider4. Gain peace of mind5. Securing the basics: warmth, power*Buyer:1. Maintaining mana in the whÄnau & iwi*Co-creator:Is a positive contributor*Transferer:Offering the ingredients for power and pleasure.
+[Gains]: 1. More power for less $ss.2. 'C' receiving the feeling that all will be fine in the whÄnau & Te Ä€o.3. Just that the power is there (expensively).
+['C' Needs]: 1, The volatile costs of power2. No alternative3. Feeling trapped4. Power costs will keep rising quickly5. 'C' ... Can we survive?6. Believing there's no way out7. Education & informing 'C'..
+[Pains]: 1. Budget and Mana are both suffering2. Nowhere to turn to for help3. Feeling of helplessness4. Tino whamamÄ5. Unable to find a way out.[Lifestyle companions (Way of Being)]: Adapting to a certain lifestyle defines the sharing and the level of exchange between companions (e.g. sharing the passion for driving oldtimer cars; yoga; trekking; etc.) ".
+[Theme Companions (Way of Thinking)]: the companions share the same way of thinking: e.g. health issues, activities Ã¡nd get together to enjoy their interest / activities .[Type I (and II) diabetic patients]: Most important customer initially, until user base gets large enough that we become attractive to other customers (hospitals, medical device companies, & pharmaceutical companies).
+[Medical Device Companies]: customer that would provide a large chunk of revenue.
+[Pharmaceutical Companies]: least important customer but provides additional revenue.
+[Hospitals/Doctors]: Most important customer for reaching more patients and prescribing our full system.[mobile owners]: .
+[runners]: they take only 40 min to charge their mobile..
+[people who can walk.]: .
+[People are passionate
+ about mobile phones.
+]: .[Parents]: .
+[Tutoring Services]: .
+[K - 12: Schools / Districts]: .[Co-creators]: .
+[Co-producers]: .
+[Entrepreneurs]: .
+[Contractors/Project Managers]: .
+[Events organizers]: .
+[Co-owners]: .
+[Anyone else engaged on a new venture]: .[STAR project stakeholder]: Organizations that are in transition from Question Marks to Star according to BCG.For them project success is important, it's not just a project..[Phase 1 - Niche Market]: - Avocado lovers (diehard fans)- Environmentally Conscious .
+[Phase 2 - Mainstream Market]: - Average Avocado Consumer- Supplement to other condiments/spreads  (i.e. mayonnaise).[Consumers: 70+ Years old]: With reduced hearing Developed countries.
+[Costumers: ]: ConsumersRelatives of consumersCaretakersNursing homes Hospitals.[Self motivated individuals interested in better understanding personal finance and the options for developing a career in a global economy.  Customers will be those with computer, or mobile internet access who want to develop skills and knowledge with respect to the above.  Age should cover the global range for secondary school (15-18)]: .[Niche Market]: Tall Women over the height of 5'7" who are looking for trendy clothing that fits them correctly..[Tourists]: .
+[Students]: .
+[Family]: .[Business Travelers]: .
+[Family Travelers]: .
+[Travelers]: Anyone who values convenience and good food choices.
+[Restaurants looking to atract customers]: .[Who]: -Designers-Event pieces (e.g. weddings)-Customers that want to treat themselves-Customers that want to express themselves-Re-purposing old jewellery-"Insurance" sentimental jewellery  .[Beneficiaries]: mission model canvas.[Landlords]: .
+[Tenants]: .
+[Service Providers]: .
+[Consumers]: .
+[Sellers]: .[Huge Consumer Base]: -100 million subscribers -Customers from video rental businesses such as itself, Blockbuster, LoveFilm-Those who replace cable TV and those who have interests in digital streaming -Target customers from all ages.[Everyone Interested & Curious]: .
+[Senior Manager or Informal Leader as "Second Dancer"]: .
+[Budget Decider for Rollout]: .
+[HR, Learning & Development, Corporate Academy]: .
+[All employees]: .[Customer Segment ]: - Female: 1. Teenagers (12-21 Years old)2. Early Adulthood (21-40 Years Old)3.  .[Brand's marketing teams]: The marketing managers with easy to start dashboard (online service).
+[Media (buying) agencies]: Agencies doing the media spending plans.
+[Out of Home Advertisers]: Media owners renting the OOH space.[Packaging Manufacturers]: By having an efficient polymer manufacturing facility, packaging manufacturers will have an economic incentive to adopt biodegradable plastics for their products.[]: Farmer.
+[]: Animal Breeder.
+[]: Fertilizer Distributor.[young people 12-35]: Because with their change in actions they can take away what the other have been believing via corruption.[Indie travelers]: .
+[Airbnb + Couchsurf + Uber market]: .
+[Tripadvisor users]: .
+[Backpackers]: .[Skilled Horsemen]: .
+[Unskilled Horsemen]: .
+[Anyone interested in advancing their equine knowledge and expertise]: .
+[College Students in Equine Programs]: .
+[Legacy of Legends Recipients]: .
+[International Clients]: fans of Buck.[Customers who want to be installed with KPN]: .
+[Consumers using the KPN connection/ infrastructure]: .[Mass market segment]: .
+[Common danish society]: .[Existing CC Clients]: - Targeting: Financial institutions, corporate clients- identify specific clients from Innovation Lab input.
+[Existing Neota Clients]: Targeting: Financial institutions wanting to build themselves but without legal expertise- identify specific clients from Innovation Lab input.
+[Clients purchasing Digital products first]: opportunities to develop relationships and cross sell products.
+[MVP clients]: - Strong leads at CS, DB- Existing purchasers from CC- Existing purchasers from Neota.
+[Client metrics]: - define our client metrics- including client feedback.
+[consider access to internal users]: .
+[consider UI vs Run The Bank (BAU) ongoing]: .[]: Operator / include S.C. / without S.C.Distributors.[Busy People]: - Two Personas: Lisa and Goncalo- Male and female- 25 - 45 years old.
+[Corporate Health]: - Corporate subscription for employees- Partnerships with corporations to promote employees health.[55+ years old male or female owns at least one smart device and uses it. Has a limited tech ability and lacks existing/effective tech support.]: .[Students]: Grades: K - 5Ages: 5 - 12.
+[]: Parents.
+[]: Stake holders.
+[]: MilitaryContractorsCivilians.[Casual Tennis Fans]: Watched Big Grand Slam Events.
+[Sport Fans - General]: Young Generation.
+[Social Tennis Players]: Limited time to watch.[2. DELETE A NOTE]: Just hover over or tap a note and you should see a big X in the upper right. Click it now to delete this note..
+[3. CHANGE THE COLOR OF A NOTE]: Again just hover over or tap a note and you will see an option of 5 colors. Change this note to the color blue now..[Individuals under age 25
+]: .
+[Elderly]: .
+[Employees]: .
+[People with chronic health issues]: .[Who are the people or organizations who will pay to address this issue?]: Beneficiary/Customer:  Rural Villagers in remote places without electricity in any developing country..
+[Regular enterprises]: Enterprises that wish to support the villages as Socially responsible actions..[House owners]: .
+[Solar cell companies]: .
+[Ministry of electricity]: .[Body Corporate Trustees]: The value that we offer to Body Corporate's is a superior products applied at a superior thickness with airless technology. We provide Health and Safety specifications, less contractors needed on site and quicker completion. .
+[We follow Best Practice and value Accountability!]: Each person is accountable for their own attitudes and actions. We follow Best Practices as they apply to health, safety, environment, quality management and supplier specifications..
+[Factories and Industry]: Our work can be undertaken quickly so as not to disrupt work in factories and industry..[Niche Market]: Average farmer in developing countries.[Mass Market]: Target customers who seek for efficiency and ease of use..
+[Niche Market]: Focus on athletes. Avoid competition from mainstream companies like Apple..
+[Segmented and Diversify]: Compatible with both IOS and Android users. App developers are additional customer segment. There are still many target market chances. .[OTA]: * Inclusive of Ctrip, Elong, Qunar in China* Agoda, Booking.com.
+[Families]: * Double incomes family with two or one parents.
+[Empty-nest elderly]: Empty-nest elderly people.
+[Young married couples]: For couples whose has no free time to travel with their parents but they have strong discretionary income inviting and arranging travel to their parents..[Entrepreneurs]: .
+[Freelancers]: .
+[Teletravailleur]: 9000 in Gva.
+[ESSE]: Associations, NGO, Social Entrepreneurships.
+[Established companies]: Both SME and Multi-nationals in France and Switzerland firstAbroad next.
+[Kids]: .
+[People suffering from lack of Swiss work premits]: .[Athletes]: - Amateurs- High School /College students- Anyone interested in sports seeking sponsorhip.
+[Sports Scouts]: - Minor league sports teams- College sports teams- US Olympic team- State team.
+[Sports related Companies]: - Manufacturers like Nike, Adidas, New Balance, Pro Compression, etc- Energy Foods like Clif bars, Power bars, Gu, Larabar, Luna Bar, etc- Retails like Sports Authority, Disks' sporting goods, 26.2 Apparel, etc- Magazines like Runner's World, Sports illustrated- Events like Rock n' Roll Marathon, Ironman, motorsports etc.[BoP Customers]: Low to middle income urban homesteads, targeting mainly women aged between 18 - 50 years, to use our ethanol gel fueled stove and gel. Target to sell 212,000 stoves in 4 years + 7 million litres of gel..
+[Hotels & Retaurants]: Target 100 - 5,3 and 2 Star Hotels and Restaurants to supply them with ethanol gel for chaffing dishes..
+[Supermarkets]: Target 200 branches - to stock our stoves and gel in all urban areas in Kenya..
+[SACCO's and MFI's]: Target 181 SACCO's with 3 million members and numerous MFI's through the RBF Cookstove Programme..
+[Kakuma Refugee Camp]: Supply of gel and stoves to distributor in refugee camp, for onward selling.Target to sell 10,000 stoves over 2 years..[Niche Market]: Tall Women over the height of 5'7" who are looking for trendy clothing that fits them correctly..[Huge Consumer Base]: -100 million subscribers -Customers from video rental businesses such as itself, Blockbuster, LoveFilm-Those who replace cable TV and those who have interests in digital streaming -Target customers from all ages.[2. DELETE A NOTE]: Just hover over or tap a note and you should see a big X in the upper right. Click it now to delete this note..
+[3. CHANGE THE COLOR OF A NOTE]: Again just hover over or tap a note and you will see an option of 5 colors. Change this note to the color blue now..[]: New customerexisting customer.[Beneficiaries receiving value (each with a VPC)]: .
+[Development teams]: .
+[Project Governance]: .
+[Clients]: .
+[Business Stakeholders]: .
+[Support]: .
+[The Regions]: .
+[GD Managing Director]: .[It's a multi sided platform. 2. We are creating value for the cancer patients who would be helped with the donations and also creating a feeling of goodwill in the paying customer's mind.]: .[Pet Parents]: .
+[Pet Providers]: .
+[Pet Businesses (Vets, Stores, Groomers, Services)]: .[Tourist]: -Family-Busy People(People on the Go)-Target Location( Only at Langkawi).[Life Coaches]: "Life" coach help clients through personal development. This can be through goal setting, improved habits, motivation, financial planning, fitness etc etcData is hard to come by but it's estimated there's nearly 20,000 life coaches in the US alone, mostly sole-proprietors..
+[Network Marketing Teams]: Network marketers are direct sales agents that both market and sell products and build teams of other marketers to do the same. They are rewarded for building successful teams.In 2015 there were an estimated 103 million network marketers generating nearly 200 billion in sales. Examples include Amway, Avon, Herbalife, Cutco, Oriflame, Forever Living. The top 100 companies -http://directsellingnews.com/index.php/view/2016_dsn_global_100_list#.WMlaXOJFyUkTeam building typically educating and motivating new recruits and teams through the development of daily and other habits.Daily habitsEducation &amp; Motivation* listen to podcast/CD* Read personal growth bookNon-daily habits Activity* calling prospects* showing business.
+[Individuals]: developing new habits.
+[Corporations]: Monitoring of repetitive tasks.
+[Personal trainers]: Personal trainers are similar to life coaches, but typically with a focus on fitness. It's estimated there are nearly a million personal trainers in the US alone..[End-user consumer]: Google is the lead search engine and continues to stand at the top. .
+[Google Chrome]: .
+[Advertising]: Our innovations in web search and advertising have made our website a top internet property and our brand one of the most recognized in the world. .[RESIDENTIAL]: Home Renovations forâ€¢ Familiesâ€¢ Flippersâ€¢ Professionals.
+[PROFILE CHARACTERISTICS]: â€¢ Price driven (try to talk him out of this!)â€¢ Quality driven (incompatible with price-driven)â€¢ Value driven (incompatible with price-driven)â€¢ Relationship driven (emphasize this! It  could be the key differentiator).
+[DEMOGRAPHICS]: â€¢ Income (specify / range)â€¢ Location (specify zones / target areas).[]: SubsidiariesPartnerDistributors.[]: MOVIE GOERS55% - Females 30-65 yrs15% - Children under 1510% - Seniors 65+ OTHER CUSTOMERSOnscreen AdvertisersOut-catering clientsCafÃ© and dinersCoffee drinkersFundraiser groups and functions.[Attends conventions/fests]: .
+[Those who cosplay]: .
+[People who like movies]: .
+[lazy/crunched on time]: .
+[]: young adults, parents (12-35).[BAT:]: End-user: disaster victims  - Gains: reach family members and stay connected, emergency lines, continue normal sense of living for a little bit,   - Pains: slow connection or long lines because of not that many BATs but many disaster victims  - Opt-in customer: Anyone with a charitable inclinationSpecifically reaching out to our customers  - Gains: ease of opt in, photo social media recognition,   - Pains: paying for things that aren't benefiting themselves, don't care about the environment  - .[Multi-sided platform]: I will provide (B2B) business to business as well as (B2C) Business to customer services. With my B2B strategy, I will exchange my services with other businesses in buying wholesale and discounted stocks to then have it on hand for my end users.My B2C platform is the final transaction between M4 brokerage and the end user.  .
+[Novice Investors]: aside from novice investors, I will also target low fund investors.
+[Firms looking to generate capital]: start-up companiesFirms looking to generate capital for operations purposes.[High Profile Individuals]: Entrepreneurs.
+[Recognized (National) Companies]: .
+[Mass Market]: Probably more focused on 20-50 years old.["Friendly" Professor]: .
+["Friendly" Adjunct]: .
+[TA / IA]: via Prof..
+[Learner]: .[]: Operator / include S.C. / without S.C.Distributors.[National Red Cross/Crescent Societies (NS)]: Building capacity of National Societies to be able to sustainably deliver humanitarian services and remain a relevant actor and effective auxiliary to its government in the humanitarian field.
+[Most vulnerable groups]: Benefiting from enhanced NS capacity to deliver services.[Existing CC Clients]: - Targeting: Financial institutions, corporate clients- identify specific clients from Innovation Lab input.
+[Existing Neota Clients]: Targeting: Financial institutions wanting to build themselves but without legal expertise- identify specific clients from Innovation Lab input.
+[Clients purchasing Digital products first]: opportunities to develop relationships and cross sell products.
+[MVP clients]: - Strong leads at CS, DB- Existing purchasers from CC- Existing purchasers from Neota.
+[Client metrics]: - define our client metrics- including client feedback.
+[consider access to internal users]: .
+[consider UI vs Run The Bank (BAU) ongoing]: .[Individuals]: Participants [challenges/brainstorming]Profile: have strong opinions and like to share them; don't always feel heard; want an easy way to make money..
+[Corporations]: Represented by employees with decision powerProfile: Seek new insights; have improvement areas; want to optimize innovation costs..
+[Entrepreneurs]: Interested in creating startups and their own projects.[Dual Income]: both parents working eliminating time for teaching children skills. Full-time clients..
+[Single Parent]: Busy schedule. Limited time for interactions with children. Often later hours. Full-time clients..
+[Stay-At-Home Parent]: often drop-ins due to last minute events or weekly errand runs..[Internal Medicine]: 0-deathChronic Illness, complex medical history.
+[Pediatrics]: 0-18 years of age .
+[Primary Care]: 36 months to 45 years of age .
+[Pharmacy]: .
+[Orthopedics]: .
+[Radiology]: .
+[Respiratory]: .
+[Laboratory]: .
+[OB]: Pregnancy Health and Well Women.
+[Dermatology]: .[Who]: Medium-level car owners.[every consumer]:  as student.
+[small businesses]: as local shops.[Christians]: Give free will to any Christian that cant afford one.  At  least in my church - that will ikely keepo me busy - but even though this may drum up business I want to stay focused on the idea that I am doing this as a service because of my skills.
+[Church Leaders]: Offer to church leaders in my church to get feedback on questions I develop about why they don't have one etc..
+[University Faculty? - ]: older ones? - younger ones? - new families.
+[Ag Comm and Farmers]: same concept on some of these of startup or medium business with multi-needs - IP , biz org, IP.
+[Physician Estate Planning]: Also add my business planning skills for private practice - can talk with Sonny about issues they have - or other small firm docs I know??.
+[Startups and Early Growing Businesses]: .
+[Startups and Early Growing Businesses]: .[Mainly Women ]: .
+[People who love decoration and design]: .
+[Newly wed couples]: .
+[Mainly medium high and high social classes]: .
+[Interior designers ]: .
+[Older people or busy people who appreciate we will be the ones that buy and decorate their home ]: .[Equipment (chainsaw) manufacturers when a customer makes a purchase]: Constraints- corporate branding/layout- OSH training regulations.
+[Relevant vocational training institutions to target new entrants]: .
+[Potential Customers]: Insurance companies (US)ACCWorksafe.
+[Users]: Safety consciousWomenCustomers wishing to be empowered.[Freelance professionals]: .
+[Entrepreneurs]: .
+[Teleworkers]: .[Pregnant women]: Pregnant women are the main consumers this product is marketed to..
+[Wholesale companies]: A brick and mortar store or chain, such as Babies"R"Us, to sell our product..[Areas in developing countries without a power grid.]: .[]: Middle class customers with limited time.
+[]: Freelance bakers and their customers (mostly women aged 18-50).[Mass market ]: Specific segments- Businessmen- Working Professionals- Primary care givers- College students- Environmentalists.[Niche Market]: People who need cheap website services and do not need long-term maintenance.

@@ -1,4 +1,5 @@
 tensorflow
+textgenrnn
 keras
 gensim
 gunicorn

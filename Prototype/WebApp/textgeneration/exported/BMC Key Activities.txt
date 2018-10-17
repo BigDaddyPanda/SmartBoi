@@ -1,0 +1,672 @@
+[Production]: .
+[Problem Solving]: Working with clients to accommodate needs, but not all needs can/should be metWebsite design issues - website must work on phones as well as desktopsPerformance - choice of server backendSecurity concerns with processing payments.[Designer ]: .
+[Outsourcing ]: .[]: - Good customer service - Fast and efficient service - Excellent food quality - Qualified employees .[Craft Beer]: The focal point of the business. We will have 5 flagship beers of varying styles and bi weekly seasonal beers. .
+[Food]: We would partner with Barley Hops, an existing food truck, and have them operate a permanent kitchen at our brewery. They serve Asian fusion BBQ bowls and sandwiches..
+[Entertainment]: Host a weekly trivia night with prizes. .
+[Competitions]: Hold monthly local brewer competitions. The winner would have their beer featured on our beer list..[Advertising]: Private companiesPotential users.
+[Connect microchips-app]: Connect the info. received from microchip (is any parking zone free?) to the app.[Designing Modular Furniture]: .
+[Manufacturing Modular Furniture]: .
+[Advertising and Marketing]: .
+[Service]: .[Build QReca! Customer Engagement App Authoring Tool]: Adapt the current platform to the new specs =&gt; QReca! V2.0.
+[Build QReca! Customer Engagement Features]: Introduce all the features that have been detected into the authoring tool..
+[Build the QReca! Analytics]: Develop that aspect of the platform..
+[Build QReca! Delivery Mechanism]: Develop the renderer for delivering personalized content. Utilize FB API & HTML5 geolocation..
+[Payment mechanism]: Add the subscription rationale on the platform..
+[Marketing-Sales]: Marketing-Sales policy. How will we monetize the platform?.[IT]: .
+[Marketing]: Platform Promotion.
+[Platform Management]: .
+[Service Provisioning]: Knowledge Management.[Sales]: .
+[Team Management]: .
+[Specialized personal page.]: .[Grow Customer Base]: .
+[Deliver Quality Strategic Analysis & Solutions]: .
+[Engage Corporations and Government Agencies on Program Management Services Contracts and Subcontracts]: .[EFS Scoring]: .
+[Product Comparison]: .
+[Storytelling]: .
+[Group Accountability]: .[Establish partnerships with health care systems]: Systems must have HL7-compatible EMR and be interested in working with us.
+[Patient buy-in]: willingness to use the mobile app and create / upload data the 1st time.
+[Constraints]: 1. People would be hesitant in using the mobile app as most of them use 1-2 healthcare professionals and would not be interested in using mobile technology for medical needs2. Would be a barrier to entry for parents to initially create / upload health for all family members / kids, and would not use the solution and have the hospital HCPs take care of the admin work.[Merchandising]: .
+[Content Development & Design]: .[Discuss on the bus: verbal visual artistic prompts, news feeds, interactive research]: .
+[Regular commuter journeys]: .
+[Special expeditions]: .
+[Special events: idea, story, poetry jams]: .
+[Parked up: bus on location with community in focus]: .
+[Gamified conversations hosted by driver ]: .
+[Marketing campaign: create a buzz - the social commuter]: .
+[Shared breakfast / dinner for commuters]: .[Build Out App]: .
+[Continue Customer Validation]: .
+[Form Municipal, County, and State Partnerships]: .[Provide free testbed to use for everybody]: - on-site (fixed or changing location),- optional: by lending out devices.
+[Knowhow Transfer]: - Workshops (on ODL premises or off-site)- Build a knowledge pool of tested issues and how a certain problem was solved.
+[Maintaining the ODL]: .
+[Organizing the ODL]: .[1.) Cognitive development]: Skills to assess the cognitive aspects of functional activities and design an intervention plan..
+[2.) Motor Skill]: assesses what the person with the impairment needs to accommodate for the function loss.
+[3.) Development of Equipment]: specific tools according to what the customer is disabled from, to accurately event the accommodating tool so that it can provide usefulness for the patient..[Making the products in the Outlets & Factory]: .
+[Distribution to the outlets & stands]: .
+[Sales by stand, outlets & catering]: .
+[Buffet Restaurant Operations]: .[App development]: .
+[Partnering and integrating with existing mobile payment platform]: .
+[Business development ]: - growing merchant base.
+[Marketing]: - growing customer base.
+[Customer service]: .[Identify area where  distributed tank infrastructure would be implemented]: .
+[Gain access to properties where tanks would be located: EASEMENTS and timeframes for how long utility can have an easement]: .
+[How do we size the cisterns to the rooftop - adequate sizing - What is the stormwater storage need? What is the scale of the system?]: .
+[Installation - who installs?  Third party contractor?  Does third party maintain and/or operate the system]: .
+[Property and liability insurance - Whose insurance covers it?  Is it utility?  Is it property owner?  Third party?]: .
+[Do property owners need to provide any maintenance?  i.e., Notice clogging somewhere]: .[1)Provision of Inputs material for system installation 2)Ensure the supply and availability of spare parts and materials. 3) Transfer of technology through commercialization 4) Improving field layout, topography 5) Improvement in irrigation infrastructure  6) Providing Farm Service at Farmers door Step 7) Technical Backup to farmers  8) Quality assurance of products  9) Machinery rental services and spare parts  10) Management Practices at farm level 11) Farmer and technical persons  interaction 12) Field services Help lines  13) Guideline for the farmer in trouble shooting  14) Develop the Model farms and field demonstrations ]: As seeing is believing. Model farms will be prepared to show farmers the improved water productivity through conserved water. after adoption of the technology there will be a backup support for any kind of trouble shooting.   .[Advertising and promoting services]: .
+[Building partnerships]: - Continuously expanding over greater geographical area.[Craft Beer]: Will be the focal point to get customers in the door. After a lengthy interview process we will select a brewer as an employee.
+[Food]: Our company will offer a small menu of mid priced foods ranging from heavy entrees to light aps.
+[Customer service]: Employee cross training programs to create a "transparent" family environment. .
+[Entertainment]: Sports, music, trivia, tastings (pairings).
+[Community Involvement and Customer Experience]: The base of our existence.Fundraising, employee volunteer incentives, festivals, activity sponsorships (bike races, 5ks, etc).[BEFORE the events]: Consolidate the Collective.Get the allies.Get the initial money to start the operationsMake the year calendar with the eventsWrite, edit and publish the blog articlesSocial media activityWrite a Plan B course .
+[DURING the events]: Validate checklistMonitor the activitiesAssist the Master Indigenous if neededControl the event.
+[AFTER the events]: Evaluate the results and strategies applied.Get the feedback from team members, allies and clients.Reconsider improving areas.Applying the required changes..[Define protocols between patients and providers]: .
+[Collect data]: .
+[Host data on the cloud]: .
+[Create portal to subscribe to a patient]: .
+[Use algorithms to digest and understand the data]: .
+[Identify e-patient networks]: .
+[Process]: constantly and automatically accumulate personal data from a wide variety of devices (biometric sensors, ingestible / implantable devices, self-entry, etc.);store this accumulated data;run algorithms; create metadata;display information to the patient in a visualize dashboard; run tests with different tools.[Firm]: 1.Partner with NGO's, CSR Wings, Local Government bodies.2.Awareness of government Initiatives.3.Create Awareness on self-reliance.4.Research, Identify Solutions5.Deploy /Help Businesses.6.Hire, Train7.Make/Help Make Products8.Communications .
+[Products:]: 1.Production2.Operations3.Distribution4.Marketing5.Sales6.Aftersales.[Services]: - website - equipment verification development/engineering- Space renting- customer service/dealing with insuranceoutreach/marketing/promotion for the creatives- opening new markets/expansion.[People publish their pitch event]: .
+[Find experts for each event]: .
+[Open the feedback loop]: .
+[Reward the experts]: .[IT and Operations]: Data analysis & ProcessingBridge Companies&Individuals;Contact Partners.
+[Marketing]: Platform Promotion.
+[Platform Management and Customer Development]: Online communityFeedback surveyTestimonials tracking.
+[Service Provisioning]: Knowledge Management (information)Challenges (financial reward)Opportunity for investment (in start-ups).
+[Support ]: Support to entrepreneursSupport throughout the challenges.[most improtant things you must do for the business to work. ]: .[Dairy products]: .
+[Dairy ingredients]: For food manufacturers and agricultural use.
+[Sauces]: .
+[Recipees]: .
+[Beverages]: .
+[Nutritions]: .[Same as Brick School Model + blended and flipped classroom ]: .
+[Same as Brick Schools + online course production and management]: .
+[Academic business development (partnerships, business case development, etc), marketing and sales]: .
+[Academic business development (partnerships, business case development, etc), marketing and sales]: .[Sanitation Product Installation project]: .
+[Hygiene Education]: .
+[Material procurement]: .
+[Manpower training]: .
+[Sanitation systems definition]: .
+[Community/Beneficiary/Customer Mobilization]: .[Education]: raising awareness about different ways in which gardening can/cannot be sustainable.
+[Outreach]: .
+[Image acquisition]: user-submitted.
+[Lead generation]: .[Cooking]: prepare all the ingredients necessary to make the food and beverage, then cook it.
+[Packaging]: effort to make a garnish and decoration on the food to make it look cute.
+[Distributing]: hand over the products which is bought by the customer.
+[Marketing]: - Direct marketing, e.g. face to face selling- Online marketing, e.g. social media, delivery service.[Data Analysis Services]: Provide easy to use/flexible interface that fits any businessFind and bring to bear appropriate historical dataAnalyze dataReport easy to understand and implement results..[Companies to work]: All companies that deliver intangible services..
+[Share & Exchange ]: Sharing is for free at a hobby/passion level. People can consume and add to the shared topic. Exchanging comes @cost. The level of exchange is build up by intensifying the FUNdamentals of sharing and exchanging knowledge, time and experience of the topic, up to professional level. The exchange enhances and grows the intensity of the experience and the core group. .
+[Exhanging]: People with specific knowledge, (a lot of) time, specific competences or skills will exchange this and answer, repair or assist in need(s) for companions may deliver this service for points. The amount of points depends on the level of exchange.
+[Sponsored groups]: This can be universities, groups specialized in community activities.[Selling books and magazines]: .
+[Selling stationery ]: .
+[Selling Muslimah clothes]: .
+[Selling merchandise]: .
+[Produce multimedia and animation]: .[Fast Food & Fast Casual]: Pita Pal is positioning itself in the restaurant industry. However, its strategy is to develop an offer allowing at the same time fast food and fast casual features. Indeed customers are served within a few minutes but they spend more at a table than basic fast food customers do..[key activities]: social media, radio and television advert, face-to-face advert, awareness creation and door-to-door advert.[What are the key activities that must be accomplished to produce and deliver the value proposition?]: .
+[How can you validate that these are the key activities and that they can be accomplished?]: .[Establish contacts, verify business model, finde supporters]: .
+[Build marketing]: Logo is sponsored.
+[Build support]: .
+[Build training]: .
+[Form nonprofit association]: .
+[Crowdfunding]: .
+[Build digital channels]: .
+[Search leaders nonprofit association]: .[Retail]: Have the newest products available for sale (merchandising mix).
+[Problem Solving]: Help the customer choose which phone and plan best meets their needs.
+[Cross-selling]: For example - take a western union customer and sell them a cellular phone..
+[Up-selling]: Present higher end phones and features to customers initially looking for a basic phone..[Developement]: Actively develop two effective essential oil blends (one perfume and one cologne) that effectively repels mosquitos while smelling good..
+[Testing]: Test the recipe on multiple people to insure the spray is effective on a variety of people..
+[Supplies]: Buy glass spray bottles, witch hazel, and essential oils in bulk. Labels will be printed upon request through Maui High's ACOM department. The crates used to carry the bottles will be created by Maui High's wood shop class..
+[Orders]: Receive orders for product from distributors..
+[Delivery]: Deliver products to distributors.
+[Sale]: Sell product directly at local craft fairs.
+[Production]: Produce appropriate amount of bottle per order. To insure orders can be responded to quickly, there will also be a supply of sprays we have already made ahead of time. However, making bottles upon request avoids over-production..[Curate Service Providers' contact details]: .
+[Create Welcome Kit according to area]: .[IT Development/Solutions]: .
+[Training]: .
+[COD management]: .
+[Marketing]: .
+[Social Media Management]: .
+[Alerting and Route Management]: .
+[CRM ]: to standardise the way we deal with the customer.[Roasting coffee beans]: .
+[Setting up shop]: .
+[Autoservicio]: La aplicacion proporciona las facilidades para que los usuarios puedan usarla sin ninguna asistencia de terceros.[Website creation]: .
+[Collar production]: .
+[Relationship building]: .
+[Accounting system]: .
+[Company structure - B-corp]: .
+[Establish social media channels]: .
+[Write blogs]: .
+[Protect IP]: .
+[Write manuscript]: .
+[Dog publications - print & online]: .
+[Advertising - online, social]: .
+[Branding]: POP, tags, packaging.[R&D]: .
+[Platform Management]: .
+[Selling]: .
+[Zero Integration]: .[Platform Development]: .[Crucial is customer satisfaction leading to Word of Mouth]: .
+[Social Media Advertisement ]: .
+[Pre-Orders through Facebook]: .
+[Setting up Sales Tables]: .
+[Make Sure Excellent Quality]: .[Platform Development]: .
+[Feedback Management]: .
+[Concierge Onboarding]: .
+[Integrating other applications]: .[Online medical/ dental scheduling & booking system]: .
+[Online medical (health history) files for patients]: .
+[Prescriptions]: .
+[Medications sales]: .
+[Online patient billing]: .
+[Appraisal / rating of health care personel]: - Patients can appraise their doctors-- Patients can share their experience with doctors- Other patients can access these appraisal results so that they can make a choice on a doctor.
+[Bulk Discount on health products ]: .
+[Personalized health care management]: "Personalized health care": Patients may also receive appointment/drug-taking reminders, health care Apps or tips, which were specially designed for them..
+[For pharmaceutical & medical devices]: 1. Product promotion.2. Clinical trial recruitment..
+[For Doctors]: Doctors can easily follow up their patients (patient management).
+[Very Quick & Reliable service]: .[Platform Design, Development and Operation]: +Low fidelity MVP.
+[Marketing]: .
+[Sales (maybe some B2B integration is possible) ]: .
+[Data analysis]: .[Conduct trainings on preparation and use of green products]: .
+[Host demos at fairs and local events]: .
+[Visit  partner facilities to run demos / sign-up new clients]: .
+[Conduct outreach with existing clients to offer referral perks]: .
+[Conduct trainings for Key Partner clients / community members]: .
+[Run targeted online ads (FB, Google)]: .[Brewing Beer]: .
+[Events/Festivals]: .[Logistics]: .
+[Operations]: .
+[Marketing]: -Marketing Research-CRM Management-Brand Management.[Communication ]: .
+[T-shirt surveys]: .
+[Ensure customer satisfaction]: .[Races ]: .
+[Web site ]: .
+[Rating / Recommendation ]: .
+[R&D]: .
+[multi products ]: low cost cheap price .
+[Sales & marketing ]: .
+[advertising ]: .[Manufacturing]: Electronic components are manufactured in Tinkleman's manufacturing centers..
+[Gaming]: The Gaming business line represents 68% of Tinklemanâ€™s overall revenue and includes devices such as joysticks, etc. that provide a human-machine interface to popular gaming systems..[Produce cleaning products in quantities beyond what is needed by current cleaners]: .
+[Improve overall VV branding to promote sales]: .
+[Work with local merchants to stock VV products]: .
+[Register with online marketplaces to sell VV products online]: .
+[Innovate new products e.g. natural 'Clorox wipes']: .
+[Find relevant fairs and events and apply to exhibit at them]: .
+[Market products to existing and former clients]: .
+[Identify opportunities to buy ingredients in bulk to reduce production costs]: .
+[Conduct demonstrations at local retailers to attract consumers]: .[Doctor Visit]: .
+[Blood Test - INR]: Performed at a blood lab..
+[Doctor Review]: of Patient reported data..
+[adjust drug Dosage]: Based on patient coagulation exam (INR) Doctor can remotely adjust Dosage of the cumarinic drug..
+[Education]: Patient learns more about his condition and treatment..[Kay activities]: We would need to have practice regularly to get better and do well. We would need to get our name out there so do quite a bit of advertising. .[]: Local Marketing.
+[]: Logistic Management.
+[]: Catering Management.
+[]: Logistic.[Recommendations]: 1. Business Development &amp; Sales Management Infrastructure- Focus of management team on sales?- Sales management of women       - Sales training       - Peer / Community Recognition       - Role Segmentation       - Career Progression       - Sharing of Success stories        - Awards- Consider Big Issue &amp; Avon Models        - Sales incentives       - Team commissions        - Education Vouchers .
+[]: 2. Increase Sales and Market- Increase distribution channels       - Business to Business       - Remote vending facilities       - Target Male market and products- Research additional product needs      - Basic cosmetics      - Basic hygiene needs      - Natural remedies      - Novelty Contraceptives .[R & D]: .
+[Manufacturing and Distribution]: .
+[Demand Creation]: .[Website as Primary Platform]: .
+[Platform & Network]: Providing a network for interaction between film makers, companies and their target audience, freelancers and amateur customers.
+[Editors]: We could potentially partner with an editing service which would lend us some of their technology in exchange for promotion on the site  .[Production]: .
+[Marketing]: .[Manufacturing]: Device/kit assembly.
+[Installation]: .
+[Marketing & Sales]: .
+[Maintenance]: .
+[Data collection]: .[Human Resources]: -Manage salaries and pay grades-Track benefit plans.
+[Payroll Services]: .
+[Other Services]: -Retirement services-Time and attendance-Worker's compensation-Medical practice services.[Create Brand]: The Intra and inter island business travel and support services brand is at the heart of the model.
+[Acquire access to Aircraft]: .
+[Obtain Air Operator's Certificate]: .
+[Orientation in to business culture]: Training to build & strengthen brand.
+[Select FBO sites]: .
+[Pre-Approve / register minimum target number of clients]: .
+[Obtain and allocate capital]: 1. first round2. second round.
+[Negotiate land leases & purchases]: .
+[Build and outfit sites]: FBOs and site docks and passenger areas.
+[Sign contracts with and Integrate Service Partners]: .[System Integration]: AlgorithmsTelemetry Integration.
+[Codification]: - Research.
+[Relationships]: - Events- Feedback- Feedforward (360).[Distribution- Logistics]: Bringing products from source (Turkey) into markets in the USA using 3rd party logistics.  Also includes handling customs requirements, taxes, and duties..
+[Distribution- Marketing]: Promotions and marketing material for the designer brands that provides more information to consumers.  This includes providing infographics, video, social media, look books, press kits, GOTS tracking, and line sheets. The Connect One Threads website is also a marketing tool.  .
+[Distribution- Channels Acquisition]: This means finding partners in the supply chain for manufacturer sourcing, boutique retailers, and e-commerce retailers..
+[Distribution- Sales]: Includes creating transactions with consumers whether for retail or wholesale partners..
+[Distribution- Storage]: Storage and logistics for holding inventory and shipping them to end customers..
+[Connect One Brand Integration]: -Telling the story of organic cotton and textiles in Turkey vs. conventional methods-Active social media presence on blogs, twitter, facebook, to be a voice in organic textiles -PR Outreach for Connect One designers.
+[Direct Trade and Sustainability Advocacy for farmers]: -Direct trade with farming organization-NGO support for their efforts-Other challenges?.[]: Development, Modelling, Game Design, Testing, Reaserch, Marketing.[Determine Product]: Nail down the product which will be created with feature list and prototype.
+[Identify Target Market]: Work through the need then determine the target..
+[Secure Investment / Sponsorship Funds]: Find some money; Identify -start up expenses -ongoing expenses -strategic business model for expansion in nearby future -our financing types -amount of equity.
+[App Design, Development]: -Engineering-Programming-Testing-Evaluation-Assessment-Research.[Advertisers & Parents]: 100% volunteer powered events.[IT and Operations]: Data analysis & ProcessingBridge Companies&Individuals;Contact Partners.
+[Marketing]: Platform Promotion.
+[Platform Management and Customer Development]: Online communityFeedback surveyTestimonials tracking.
+[Service Provisioning]: Knowledge Management (information)Challenges (financial reward)Opportunity for investment (in start-ups).
+[Support ]: Support to entrepreneursSupport throughout the challenges.[Publicity]: .
+[Design a garden ]: .
+[Publicity]: .
+[Maintenance]: .[Promoting beekeeping with ergonomic modular bee-boxes ]: .
+[Community Building]: Along with exchange of bee boxes, promotion of other better farming techniques.
+[Mobile App promotion]: 1) Monitor Bee Boxes and alarm if problem arises2) Track Bee Box location3) Maintain bee health by data optimization4) Develop Beekeepers' skill set through community interaction.[Platform Development]: This is the main activity that we will be doing..
+[customer acquisition]: We might need to have a dedicated team for acquisition..[Underbond Trading]: Trading of Alcohol from Bond to Bond, i.e., from one Bonded Warehouse to another across Europe and UK through various trade organizations established all over the world..
+[Sales/Purchase of Alcoholic Beverages]: Purchase of Alcoholic Beverages from Manufactures and Distributors and selling them to Wholesellers and Retailers in UK and Europe, which includes obtaining a WOWGR Licence from HMRC. .
+[Trading of other Products]: Having a general trading licence based in UAE gives us the freedom to trade other products as well, from FMCG to Tobacco, which can be done using the Underbond Network and Partnerships with Bonded Warehouses. .[Production and sale of flat Steel products and structural sections]: .
+[Explotation and exploration of gold, silver and copper deposits]: .
+[Mining Iron core, metallurgical coal and steam coal]: .[Mobile Units with pre-cooling and cold storage facility]: S.M.A.R.T..
+[Community building ]: Along with pre-cooling, promotion of other better post-harvest techniques.[]: ccc.
+[]: wash and delivery clothes.
+[]: Sorting, segregation.
+[Fast reliable and quality service]: Save time and money. Collection and delivery within 24 hours (based on condition off peak hours/days).[intake new clients + assign to co-op members]: .
+[make schedules (monthly)]: individual cleaners' and overall.
+[communicate with clients re: feedback]: .
+[communicate feedback to co-op members]: .
+[calculate estimates for new clients]: .[]: Pandora's key partners would rely on social media sites since social networks are considered to be a powerful arena for online marketing. They provide a direct and targeted way to communicate with the relevant audience, and they require less spending than more traditional marketing techniques. Second would be through ads, such as a pop up that would appear on websites to grab a consumers attention. Third would music labels that manages bands or artists. .[Provide self-serve bowls]: .
+["Test"]: .
+["Make Your Own" protein shake]: .
+["Make Your Own" Juice]: .[Creative writing for daily deals]: .
+[Customer data management]: .
+[Advertising decisions]: .
+[email marketing]: .
+[scheduling]: .
+[sales]: .[The delivery service that is going to bring to us the product from China ]: .[Payment for Food/Drinks]: .
+[E-Ticket]: .
+[Wi-Fi Positioning]: .[Canvas1]: .
+[Cavas4]: -Build brand.-Marketing-Logistics-Distribution-Delivery .[IT and Operations]: Data analysis & ProcessingBridge Companies&Individuals;Contact Partners.
+[Marketing]: Platform Promotion.
+[Platform Management and Customer Development]: Online communityFeedback surveyTestimonials tracking.
+[Service Provisioning]: Knowledge Management (information)Challenges (financial reward)Opportunity for investment (in start-ups).
+[Support ]: Support to entrepreneursSupport throughout the challenges.[Key Activities]: To Develop Content for the Search Engine of Smart-teen App using the NATIONAL SEXUALITY EDUCATION GUIDELINES. Core Content and Skills, K-12Comprehensive content development using  the International Encyclopedia of Sexuality Volume,1-4 ( Francoer 1997)Design Centered One-on-one interviews with targeted users, parents and specialists in content generation for the AppDesigning and developing 3 in-house games for the AppOutsourcing, modifying and patenting 2 more games for the AppDeveloping the PrototypeTesting the prototype App and reviewing user responsesImproving the App and releasing the final App into the Market.[Product development/software programming]: .
+[User research]: .
+[Clinical trials (to optimize software for accuracy)]: .
+[Advertising]: .
+[Patent application and approval]: .[Content Curation]: Selection of best free learning resources available in Internet..
+[Global Consultancy]: Interviews with learning content and services providers and learning "consumers" that are aplying innovation and new technologies on learning, to detect new offers and new market needs..
+[Customized Consultancy]: Online attendance to any consultancy request related to training and learning, from residencial market and comanies. (Premium)..
+[Training]: Training related to innovation and new technologies applied to learning..[Athletic training]: .
+[Group exercise]: .
+[Nutrition planning ]: .
+[Operating 24-hour gym access ]: .
+[Fitness Assessments ]: .[Marketing]: .
+[Research and Development]: .
+[I.T. System development]: .
+[Insurance Covering]: .[Meditation]: .
+[Mindfulness]: .
+[Analyzing Personal Behavior]: .[Develop a marketable assembly product; Develop right licences; Improvement 1; Improvement 2; Plan of dissemination; Agreement with key actors]: .[IT]: .
+[Marketing]: Platform Promotion.
+[Platform Management]: .
+[Service Provisioning]: Knowledge Management.[Partnerships]: - Networks of universities, schools and colleges, or association of colleges- To support and promote the idea: Ministries of Education; Municipality; any GNO; Crowfounding; international funds as World Bank or MERCOSUR (groups of countries in South America); - Entrepreneurship Associations; Nacional and Internacional Foundations- Business Angels and other players that could finance startups and new companies- Partnerships with leading companies for their employees to devote work hours to assist in the project- Software and OS development companies (Microsoft, Apple, ...)- Media partners (journals, TV, radio, ...) to promote the course and the net.[Design products ]: Problem solving through design (to customers' viewpoint).
+[Examine materials]: To assure materials from legal sources.
+[Streamline processing]: - Ryohin Standards (Quality Standards)- Ryohin Keikaku Environment, Labor, and Safety management.- Major materials not used or controlled..
+[Simplification of packaging]: .[Story Design & Kit Building (Product Developers)]: .
+[Package & Delivery ]: .
+[Online Marketing]: .[Activities]: Vulnerability assessmentforensic analysisregulatory complaincedisaster recoveryhardningsecurity consultancysecurity auditpenetration testingbyod securitymobile monitoring toolscorporate training.[Selling]: .
+[Promoting]: .
+[Delivering]: .
+[Producing]: .
+[Buying]: .
+[Packaging]: .
+[Designing]: .[Support for People]: Community Social Work where and when people want itCommunity Social Workers who undertake creative and therapeutic conversations.
+[Newly Qualified Social Worker Academy]: Best quality community social work student placementsNQSW Academy with Assessed, Supported Year in Employment Best Quality Practice EducatorsMCA Training Centre of Excellence.[Understand Market]: .
+[Design liteasy device]: .
+[Write liteasy app]: .[Website]: Website available to display full menu for call in orders..
+[Request Board]: Chalk board inside restaurant for patrons to submit their ideas for new eggroll filling (meal or dessert).  They will be able to name their eggroll and if chosen, would be the 'eggroll of the month', during following month..
+[Dipping Sauce]: An assortment of dipping sauces will be available for eggrolls.  Not just the traditional options. Raspberry chipotle, queso, jalapeno ranch, caramel, etc..
+[Wall of Roll]: Where patrons can draw on or sign the wrapper that their eggroll came in and tack it to a designated wall.
+[Social Media]: Facebook and Twitter pagesHave a screen specific to visibletweets.com where people can tweet about the restaurant, using the restaurant's hashtag, and then see it visably on a screen in the restaurant location(s)..[Innovation]: Develop new products with new characteristics.
+[Strategy execution]: .
+[Customer service]: Because retailers are a critical element in the value chain in the sporting goods industry.[settlement experiments ]: .
+[Build up a stable team]: .
+[brand recognition, promotion]: .
+[Fundraising ]: .["Masterchef" cooking competition - recycled food]: .
+[Recycled food collection and distribution services]: .
+[Recruiting supplier/sponsor food chains]: .
+[Recruiting supplier/sponsor food chains - how?]: .[marketing]: .
+[documentation]: .
+[treatment]: .[Incoming Fund]: * Salary* Revenue.
+[Payment]: * Bank Wire/Device 2 Device* Auto split sale/commission.
+[Debit Card]: * Block/Unblock* Merchat/One time approval.
+[Loyalty]: * In form of virtual currency cashback.
+[Credit Delivery Platform]: * We do not offer credit ourself.
+[Direct Debit]: * Do we really need this?.[Production and Assembling ]: 1. SARA Monitoring Device- Bolus2. Automatic Feeding System.
+[Promoting Collaboration among Small-Scale Dairy Farmers into a Larger Farm]: .[Key Activites]: >Finding a print shop that will print high quality pieces at the lowest price.>Have appointments with clients.>Create the art.>Mailing out art.[Visit]: Already planned for the end of the month.
+[Buisness plan]: Assign Responsibilities.
+[Limited 510k vs. expanded]: .[IT]: .
+[Marketing]: Platform Promotion.
+[Platform Management]: .
+[Service Provisioning]: Knowledge Management.[Produce paid-for online training packages with added value (create and curate)]: .
+[Support paid-for content with free resources and content (create and curate)]: .
+[Networking]: .
+[Creating and managing website and online learning portal]: .
+[Keeping up to date with industry/technology]: .
+[Marketing (leading by example)]: .
+[Creating quality and shareable content]: .
+[Skype surgeries (1 hour)]: .
+[Create regular video case studies]: .[Promotion of the bracelet.]: .
+[Applied technology for the elaboration of the bracelet.]: .
+[Research development.]: .
+[Design, structure and functioning of the bracelet.]: .[Key Activities]: 1. Third party logistics- Blue Dart, Delivery, UPS and others.2. Quality Check.[Creating financial services]: .
+[Interpreting financial information]: .
+[Communicating results to clients]: .
+[Recommending financial products]: .[Problem Solver]: .
+[Network]: .
+[Production]: .[Production]: Producing the App..
+[Problem Solving]: .
+[Develpoment and updating]: .[finding out issues students and woman use over internet]: .
+[finding out best coders and computer science students.]: .
+[promoting the app]: .
+[coding and programming ]: .[Platform Management]: .
+[Marketing]: .[Software Development]: Building and refining website based on use patterns and feedback.
+[Customer Discovery]: Continuing to "get out of the building" and talking with customers and users. Using success stories as testimonials to further promote website..[Customer segment testing]: Adwords, reddit, etc to drive some traffic.WebAnalytics to analyse visitors behaviour..
+[Mailing list creation]: For Shoematch! newsletter.
+[Foot measuring instruction]: .
+[Getting producers behind our newsletter]: .[Garden gate open day(s)]: Participating community food growing groups will open their gardens to the public for visits..
+[Workshops]: Individual community food groups will have the opportunity to run workshops e.g. on gardening skills, cooking skills, or how to start a new garden.
+[Talks ]: Guest speakers will be invited to come and give talks on a range of issues pertinent to the role of food in environmental sustainability and socially justice .
+[Community meals]: One or several community food groups could take the opportunity to come together and prepare a community meal based on their own food production.
+[Children activities]: Ahead of the festival: there will be a children's competition to design the logo / festival poster / booklet. This will be done through local schools and youth clubs and will serve to engage them on the importance of food for themselves and the wider world.During the festival: individual groups will be invited to run children-focused fun activities.
+[Film showing]: Community showing of food-related documentaries - inspirational / awareness-raising.
+[Cooking bus ]: Making food fun in the local community.Targeting different groups.Cld be based in one of schools or community centres already linked to one of the growing projects..
+[Words of food]: Food is central to our lives and our language(s) is (are) peppered with it.Family workshop and competition.[Call Center & 24hr Email service ]: .
+[Business to business ]: Encouraging & advising how to sell our product .
+[Business to customer ]: Advertising to stool owners .
+[Networking ]: - Physical - Personal .
+[Research & Development ]: .
+[Design & Production ]: .
+[Brand Creation ]: .[Newly Qualified Social Worker Academy]: Best quality community social work student placementsNQSW Academy with Assessed, Supported Year in Employment Best Quality Practice EducatorsMCA Training Centre of Excellence.
+[Support for People]: Community Social Work where and when people want itCommunity Social Workers who undertake creative and therapeutic conversations.[]: Manufacture and Sales of Cars and Trucks.[Sport event organisation]: .[Ongoing activities]: MaintenanceRedistribution of power banks Marketi.[Recruit female millenials]: .
+[Recruit female godmothers]: .
+[Promote benefits]: .
+[Create trust]: Regarding the connection of female millenial & godmother.
+[Planning career path female millenial]: .[Hammersmith builds and designs inflatable structures for support or transportation over water, similar to white water rafts.]: .[Marketing ]: Will help increase profit for the company and appeal to consumers. .
+[Research and Development]: Significant resources must be invested into developing the chemistry needed to produce a gum that is non-toxic, can hold flavor, and detects alcohol levels. .
+[Social Media Campaigns]: We will spread the word about PartyStrips through word of mouth on various college campuses and social media platforms such as the Facebook and Twitter. .[Buying in Bulk]: Buy watches from the manufacturer in bulk to reduce cost per stock..
+[Cheap wrist bands]: Rubber bands instead of metal bands as it's cheaper to produce..
+[R&D]: Build new products, improve existing products.
+[Customer Support]: .
+[Sales and Marketing]: .[Entrepreneurship Education]: .
+[Entrepreneurship Mentoring]: .
+[Entrepreneurship Clearing House]: .
+[Entrepreneurship Research]: .[Streaming content]: .
+[Managing platform and apps service levels]: .
+[Negotiating content licences]: .
+[Producing content]: .
+[Marketing]: .
+[Developing/maintaining analytics]: .[Marketing]: .
+[Commercial]: .
+[Service delivery]: .[AWARENESS CREATION-VIA BILLBOARD,RADIO AND TELEVISION ADVERTISEMENT,SOCIAL MEDIA]: .[Develop an efficient and friendly user app]: .
+[Create a scalable and modular design]: .[Activities]: -Cocoa plants, recollection and processing.-Fruit recollection and processing to produce pulps.-Chocolate production.-Packing of the product.-Distribution and sales.-Marketing of the product.-Post-sale services..[Booking Tickets]: Our daily activities are the booking of tickets and the  reserve of preferred seats for our customers in any of their preferred transport company..[IT]: .
+[Marketing]: Platform Promotion.
+[Platform Management]: .
+[Service Provisioning]: Knowledge Management.[Interview grocery store managers ]: .
+[Distribute waste ban fliers ]: .
+[Interview produce markets ]: .
+[How many pig farms?]: .
+[Data analysis for ones that make more than $X]: .[Selling]: - Selling - Create new concept - Finding new flavor .[Fast turn around]: .[Additions]: - Profiling- website maintanance and upgrades- costumer data management.
+[Merchant]: - Email Marketing- City Planner- Scheduling- Editorial Content- Contract Management (Acquisitions of companies and negotiations of partner setups)- B2B Sales Forcenv.
+[Merchant]: - Selling and Fulfillment Platform- Effective Advertising (creative writing for daily deals)- Fast Build Prospect List.
+[Merchant]: - effective advertising- fast build prospect list- sell & fullfilment platform- offers a connection to the right client base- opportunity to generate new clients.[IT]: .
+[Marketing]: Platform Promotion.
+[Platform Management]: .
+[Service Provisioning]: Knowledge Management.[Instruction]: .
+[Marking]: .
+[Credentialing ]: .[Development]: Develop the Revenue Management System.[Sportevent organisation]: .
+[Helping people to get in shape]: .[Delivery]: 1. Milk from farmers2. Ready-to-use product delivery to shops.
+[To make ready-to-use products]: .[Additions]: - Profiling- website maintanance and upgrades- costumer data management.
+[Merchant]: - Email Marketing- City Planner- Scheduling- Editorial Content- Contract Management (Acquisitions of companies and negotiations of partner setups)- B2B Sales Forcenv.
+[Merchant]: - Selling and Fulfillment Platform- Effective Advertising (creative writing for daily deals)- Fast Build Prospect List.
+[Merchant]: - effective advertising- fast build prospect list- sell & fullfilment platform- offers a connection to the right client base- opportunity to generate new clients.[Producing]: Pudding with different kind of flavours.
+[Marketing]: .
+[Innovation]: FlavorsPackaging.[Catering-(Food,Drink,Decor,and servers)]: .
+[Bar tending ]: Assorted drinking selection served at request..
+[Event Planning ]: Organizing,coordinating, and marketing events).
+[Dj service]: High quality Sound, and Music selection .[I don't go out of my way to "insult" religions, but I'm happy to provide criticisms. Link: http://amzn.com/0956427685]: .
+[People are posting pictures of the damage.]: .[Word of mouth]: .[Problem solving ]: Service eliminates the enduring task of menu translation possibly wasting labour skills, time and money.[Patient Care]: Monitoring of the patients of their health and comfort.
+[Physical Therapy]: Movement of the patients to help return to a normal state.
+[Training]: New workers that has to go through a process to obtain the knowledge of the facility.[IT]: .
+[Marketing]: Platform Promotion.
+[Platform Management]: .
+[Service Provisioning]: Knowledge Management.[Key Activities]: Photo Shoots and Video Shoots for Campaigns for Companies.[Purchase Materials]: .
+[Produce Product]: .
+[Manage Social Media Sites]: .
+[Manage Website]: .
+[Communicate with Store Management]: .
+[Sell to various customers]: .[Marketing: Travelers]: let travelers know about the site.
+[Marketing: Locals]: promote offers by local people.
+[Marketing: Professional Guides ]: convince Guides to enroll in homepage.
+[Provide platform]: develop and improve market place for offers and requests.[HFOG Nodes Development]: .
+[PHA nurse subcontracting & certification ]: .
+[Non-Intrusive Sensor Pool Approval]: .
+[Web Interface for PHA Alarm]: .
+[Management of SME & Key Resources]: .[Private Label Brand]: EquateGreat Value.
+[Information Systems Maintenance]: SMARTConnexusWire.[Key Activities]: - Supporting- Problem Solving- Troubleshooting- Diagnostic- Repair- Replacement- Test- Shipping.[Services]: -zero turn mower-push mowing-weedwacking-bagging grass/leaves.
+[Sales]: Meet with customers to check out location, talk with customer, push seasonal contract.
+[Quality control]: optional surveys for our clients to complete monthly to help us improve our services based on their satisfaction.[Implement the application infraestructure]: Developing the web and mobile application, test and launch it.
+[Implement the fisical infraestructure]: Implement the sensors in the ground conect them to the internet and start getting data.[VW Value Proposistion Requirements]: VW strives to offer consumers a combination of enduring value, innovative design, and everyday motoring pleasure..[Building partnerships]: Public entities, Schools, enterprise and families interested in financial literacy and other foundations. .
+[Volunteering]: coordination and training of volunteers. .
+[Financial Contents in games in virtual and personal games]: .[Marketing]: .
+[Sales]: .
+[Training]: .
+[R&D]: .[Marketing]: .
+[Software development]: .
+[Design]: .[Determine Product]: Nail down the product which will be created with feature list and prototype.
+[Identify Target Market]: Work through the need then determine the target..
+[Secure Investment / Sponsorship Funds]: Find some money; Identify -start up expenses -ongoing expenses -strategic business model for expansion in nearby future -our financing types -amount of equity.
+[App Design, Development]: -Engineering-Programming-Testing-Evaluation-Assessment-Research.[advertisement and promotions through graphic interface and mobil app]: .
+[Delivering and servicing a low-cost network of charging stations]: .
+[Education and emission reduction]: .[]: We must keep getting newer things to bring interest to more customers.[Raise Capital]: .
+[Crowdfunding campaign for capital and publicity]: .
+[Turn wireframe into rendering]: .
+[Start background PR]: .
+[Find development shop and get pricing]: .
+[Find graphic designer]: .
+[Learn more about GOOGLE products]: .
+[Customer Discovery research]: .[Head Hunting]: .
+[Research]: .
+[Human Resource Training]: .
+[Communicating with Customers]: .[YooMoo have a blog on their site which is updated regularly with their key activities, they also run a number of yogurt bars and introduce new flavours to the market via supermarkets.]: Key activities include:- Sampling tours, allowing customers around the country to sample new flavours.- Competitions.- Offering discounts.- Setting up new yogurt bars.- Introducing new flavours..[Production ]: - Composed food dishes created from the inputs of raw food products.- This activity of high quality food production is the core business activity of Asian Flame and requires management's constant attention to maintain quality control and the high level of technique execution, which is a distinguishing factor for the company.
+[Problem Solving]: - Food service is a constantly changing activity with vast number of contributing factors to its successful completion. Timing, temperature, accuracy, availability of offerings, clear communication, and teamwork are all factors that must be managed in sync with one another to provide quality service to each and every customer..[Activities]: - Follow the users interactions and control- Contact with the different companies that want to promote - Give prizes .[Writing Books]: .
+[Writing Articles/Updating site]: .
+[Marketing]: Twitter, FB, Blogs.[Aggregate New Customer Data]: .
+[Test Web Pages Catering to Different Users]: .
+[Calendar Events]: .
+[Tax Data Segmentation]: Can we get tax/city admin data to make inferences about who our most viable customers might be?.
+[Scrape Yelp/Open Table/other? websites]: .
+[Show Data / Story Telling]: .
+[Analyze neighborhoods by when they were developed]: Older neighborhoods have more restaurants that have been grandfathered into old/very cheap trash contract. Might be good to focus on getting restaurants in new neighborhoods.[System integration]: Imaging system development to provide tag recognition & decoding.
+[Tag development]: Develop photonic coding scheme & tag delivery formats (paints, stickers, appliques).
+[Image analysis & data analytics]: Develop software for tag classification;Data harvesting &amp; analytics on identified objects &amp; subjects.[1- Medicinal awareness booklet
+2- Medicinal Discussions & Inquiries website
+3- periodic live Events 
+4- Social Media Adas ]: What Key Activities do our Value Propositions require?Our Distribution Channels?Customer Relationships?Revenue streams?.[Which activities do DD really need to excel at while serving their customers?]: a) Marketingb) Websitec) Great customer serviced) Dedicated cooking and serving e) Customized designs to customers' needsf) Design options for franchises - great layouts, color schemes, graphics and textures .[Key Activities]: - Cooking- Packaging- Driving- Selling- Ordering Design.[Recruiting More Potential Hosts]: The more the registered hosts and their spaces, the more the freedom of choice for guests.
+[Online-based Advertising]: A great way to boost their awareness and customer consideration level.
+[Offline-based Advertising]: Examples would be bus/metro station, airport, outdoor billboard .
+[Marketing via Traditional Printed Sources ]: .
+[Leveraging Web Search Engine]: Search history data from Google, Yahoo, Bing can be used to spot potential new users.
+[Collabo with Celeb Agencies]: Endorse big-name celebs: a great way to hype up and deliver credibility.
+[Product Segmentation]: A variety of staying options can be offered by budget, region, season, activity, occasion, features and many more .
+[Platform Update and Maintenance]: Homepage gotta stay fresh to attract more customers.
+[Customer Service]: Since it is C to C platform, it can easily get into hassles of agent theory: settling disputes down between parties is crucial.
+[Visual Intuitiveness]: Sexy photos and videos of rental spaces can boost sales.
+[Local/regional Event Sponsorship]: .[Content creation]: .
+[Marketing]: .[Logistics]: .
+[Marketing]: .
+[Laundry Outsourcing]: .
+[IT Engineering]: .
+[24 Hour Customer Support]: .[Jewish Learning]: .
+[Niche Tracks]: BusinessArts & Entertainment.
+[Giving Circles]: Using Giving Circle Express.
+[Shabbat]: Livnot in Tzfat.[Package it]: Liason with farmers to protect the forestBuy from farmersGet into bottlesSell ourselves?Let others sell?Create own brand?Organic certification.
+[Understand Bee Populations and Environmental impact of honey farming]: .[What key activities do our value propositions require?]: .
+[Platform Development]: .[Wide selection of sleeves]: .
+[Ability to personalise sleeves]: .
+[Ability to deliver in a short time span]: .
+[Delivery to either funeral home, personal home or both]: .
+[Distribution Logistics]: .[]:  we deliver excellent quality, waterproof, lightwieght mummy bags at affordable prices. ease of being able to put all the things they need for their babies in one bag, without it being to heavy and un-organised. We are offering one product in a different variety of designs to only one segment; which is the mums. The ease to be able to go out anywhere, anytime, without worrying about trying to find something in quick need. To make their travles more efficient without trying to remember in which side of the bag they had put a specific thing. .
+[]: The production of the actual product, valid staff training including customer service and health and safety.[Main Activities]: One of our main activities is creating a web page were our consumers will be able to purchase our produc. Another important ectivity is to create relations with distribution companies such as DHL..
+[Other Activities]: Other important activities are to creat relations with open TV channels like channel 5,mainly, because is one of the most watched channels in Mexico.Another activity is tohave representatives that go talk to the principal and explain how our product works..[Sharing]: In this basic level of the network people share their passion and interest for a specific topic, which results in growing knowledge and fun in the topic.
+[Exhanging]: People with specific knowledge, (a lot of) time, specific competences or skills will exchange this and answer, repair or assist in need(s) for companions may deliver this service for points. The amount of points depends on the level of exchange.[For Medical Device Companies]: i. Promoting and integrating with certain medical device brandsii. key for customer relationship and revenue stream from med device companies.
+[For pharmaceutical companies]: i. Promoting and possibly selling specific brands of medicinesii. Key for revenue stream from and relationships with pharmaceutical companies..
+[For Doctors/Hospitals]: i. alert doctors when (diabetes) patients have outstanding needsii. key for customer relationships with hospitalsiii. key for distribution through hospitals/doctors' prescription.[The product]: The main thing and we always work to improve..
+[The training for the workers]: Make training for workers to know how to recycle piezoelectric to use it in another shoes..
+[Advertisements]: We try to make advertisements on Google, Facebook and TV. .[Encouraging Students to Ask Questions]: By reducing the participation barrier, students will ask more questions..
+[Track Most Common Questions]: We will record a full history of questions asked in class, including the most common unresolved questions..[Raise awareness]: .
+[Improvement of the payments sharing methodology]: .
+[Development of the patform]: .[SHARING]: .
+[NETWORKING]: .[Food Scientist]: - Natural preservatives- High pressure packaging to reduce oxygen exposure.
+[Problem Solving]: - R&D to keep avocado fresh longer (natural preservation).
+[Online Presence]: - Create online community through blog & forum.[R&D ]: Product developmentTrials.
+[Production]: New add on component.[1.Survey customer base, parents, educators 2. develop platform (low fi prototyping) 3. delegate responsibilities among team members 4. advertisement 5. marketing]: .[Distribution Channels]: -Website-App.
+[Platform/NETWORK]: (Niche Market).
+[Revenue Streams]: -Advertisements-Affiliate Marketing with partners.
+[Customer Relationships]: -Catering towards exact measurements-Forwarding hem to reliable companies.[Baking]: .
+[Selling products ]: .
+[Offering service]: .[Logistic/Delivery]: .
+[Marketing]: .
+[relationship management]: .
+[payment processing]: .
+[Data management]: .
+[Apps Management]: .[How]: -Design-Consultation-Production-Logistics.[recreational sports activities]: The American Society for Play in Engineering is an American professional association representing the health and wellness of engineers. .[Monetize free spaces]: .
+[Integrate people]: .
+[Link landlords to tenants]: .
+[Provide third party services]: .
+[Monetize production]: .
+[Provide natural food with fair prices]: .[Well-established and Strong Key Activities]: -Sustainable online platform, great connections-Original content, content acquisitions-Stronger bonds with partners-Develop innovations and training toward objectives.-High user interfaces and technologies-Merchandise online site-Delivery of DVDs by drone.[One-on-One Meetings to talk about WOL]: .
+[Talks and Keynotes with Experienced People]: .
+[WOL Circle Kickoff Events]: .
+[WOL Pilot Projects]: .[Marketing]: Social MediaDoor to doorE-commerce.
+[Production]: Choose the materials, like :1. Organdi2. Crepes3. Wolfis4. etcChoose the style of hijabHijab be sewnPut the price tagPackaging.[Concept and planning]: The Zee.do Brand Games concept.
+[Development Work]: Technical setup and implementation.
+[Sales & Marketing]: Acquiring sales and working with customers.[Research ]: Particularly land reform research and self sustainability. 3D Printers and future technologies.
+[Build Model of Community ]: This will be done with a 3D Printer .
+[Raise funds]: Collection TinsA concert possiblyAn open dayFo fund me stylle funing page Donations from donors .
+[Business Plan]: Make a business plan for funding and a guide to the way the organisation will go. .
+[Documentary ]: This will be something David leads .
+[Focus Groups]: A collection of data via focus groups will happen. .
+[Surveys ]: The idea is to do these on trains with permission. On the street and round doors. In universities too. .[Screening]: Microorganism/enzyme screening.
+[Fermentation]: Scaling up fermentation and separation process.
+[Polymerization]: Scaling up polymerization process.
+[Automation]: Software and Hardware.[]: Collecting Waste.
+[]: Recycling/Production.
+[]: Selling Fertilizer/Animal Feed.[Make]: Consciousness about that every action we make can contribute against corruption.
+[gather money]: .
+[Talks]: about education and culture in our country and how to avoid corruption attitudes.[Getting the host to publish dining events]: .[Equine Activities]: .
+[Problem Solving]: .
+[Common Sense]: .
+[Networking]: .[Keeping the customer connected]: .[B2C network]: .
+[caterings]: .
+[Website]: .[Week1-2 Business Model Summary]: 1. Have defined and qualified the business opportunity we are addressing, market context (increase in regulatory enforcement, competitors)2. Have identified the products we are building, high level understanding of the products' processes and quick viability assessment, and a go to market approach, pricing strategy)3. Approach to product development4. Have defined the role of the partners and have signed LOI agreements in place- checkpoint.
+[week 4-7 MVP with 1-3 clients with CC/Neota together]: #Product/App MVP- Build/Measure/Learn loops (with in-app feedback feature) focused on products- will require fee-earners time#Platform MVP:- Build/Measure/Learn loops focused on the user experience (manual process first, then service provisioning, platform promotion)- checkpoint.
+[week3-5 Design Thinking, Client-centric needs: MiFID2 lessons learnt workshop]: with CC and Neota participants to identify anything else we need to consider in new business model.
+[week 3-10 Business Plan]: - Have business plan signed off and funded (inc org structure, operating expenses, pricing strategy update)- Revised proposed Joint Stock Venture (inc participation terms and deal terms to be resolved including exclusivity terms, and governance from CC/Neota)- Have secured 1st client and pipeline of 5-10 prospects- checkpoint.
+[week3-5 Design Thinking, Client-centric needs: Sales Page to register interest]: - to test if Digital Products sales would be of interest and test Value Proposition attraction.
+[Build & Launch]: - revise support model for scaled support- product release process (in particular QA/Testing of legal logic).
+[week3-5 Design Thinking, Client-centric business model]: - speak to existing MiFID II app clients to brainstorm improvements to that app and extensions laterally to other fin/reg product areas- speak to clients first to simply ask what they want and also get their feedback on our product ideas, prioritised and assess opportunities size. (opportunity with CS on 24/04, need CC lawyer to attend with Neota)- identify Products needed & prioritisation based on draft selection criteria- initial Product Vision & Roadmap (for apps) considering reg timelines- checkpoint.[]: P..?? (2417)installed base follow-up.[Marketing/Sales]: - Onlinemarketing and creating awareness- Achieve going viral with a video to receive huge awareness.
+[Updates of the Manager Diet]: - Constant new upgrades of the diet plans by a fitness expert & nutritionist- Variety in nutrition to keep people actively involved and not getting bored of the meals.
+[Customer Care]: - Social Media Manager to engage with the customers and motivate them to dedicate to the Manager Diet- Create a community to build trust.[Content development]: .
+[Recruit instructors]: .
+[Support channels: In-person, phone]: .
+[Update internal database of technical videos]: .
+[Partner for content development and maintenance]: .
+[Learn what the customers need most help with]: .
+[Train the instrutors]: .[]: Teaching.
+[]: Student Performance.
+[]: Evaluation.
+[]: Graduation.
+[]: Education.[Venue Preparation ]: Fan Friendly & Atmosphere .
+[tennis Matches]: .
+[Fan Activities]: .
+[Transport Arrangements]: .
+[Event Promotion]: .
+[ ATP/WTA Backing]: Attract/get top players for the event.[6. NEED HELP WITH YOUR CANVAS?]: Just click on the question mark in the upper right of each section. This will provide you with questions to ask yourself..[Marketing]: .
+[Research and Development]: .
+[I.T. System development]: .
+[Insurance Covering]: .[What program and non-program activities will your organization be carrying out?]: Program: Providing electricityNon-program:  School for child and adult instruction, laundry, convenience store,  refrigeration, water-purification, etc. .
+[]: Consulting with customers to install their systems and determine best way to maintain them.
+[Business center]: Access to computers and printers so users can access to information available on internet..[Improving quality of the solar cells ]: .
+[Improving tracking systems ]: .
+[Providing the chemicals for the industry]: .[Production]: Development of new technology.
+[Platform/Network]: Contact partnersBuying old tractors.
+[Problem solving]: Training of employees.[R&D]: Encourages app and product development. Aims to create a more useful and reliable smart watch that can seamlessly fit in to customers' lives.
+[Provide with more Integration and Platforms]: Connections with cars, thermostats and home alarm systems. Aims to be compatible with different aspects of customers' lives..
+[Allow Customization of Product]: Easy access to all Pebble apps, including apps created by customers. .
+[Maintain Affordability]: .[Sales call]: .
+[Online marketing campaign]: .
+[Fam Trip]: .
+[Promotional Activities]: .[Manage presence / open hours]: .
+[Deliver projects]: .
+[Professional Environment & Network]: .
+[Attract funds and investors]: .
+[Find customers]: .
+[Attract paying and nice co-workers]: .
+["Labs"]: Creative labMedia LabEdu LabFab Lab.
+[Identify the right structure]: No structure ?Association Loi 1901Association in SwitzerlandSCOPother.[Mothly Athlete Profile highlight]: - Subscription based service to highlight individual athlete in each sports categorgy.
+[Monthly Product giveaway]: - Company to sponsor giveaway products in return for product review/promotion from users.[BOP Urban  Cook Stove Market]: Suppy the BoP urban low to middle income homesteads with ethanol gel fueled stoves and gel.Total market size is 0.9million households. Target 15% 135,000 homesteads in 2 years..
+[Importation]: 1. Importing stoves from China.2. Importing ethanol gel from Arusha Tanzania..
+[Storage & Warehousing]: Warehousing and distribution of stoves and gel..
+[Hotel & Restaurants]: Supplying gel..
+[Government Lobbying]: For removal of excise duty on technical alcohol for local production of ethanol gel. For removal of import duty for stoves..
+[Key Association Activities ]: Kenya Association of Manufacturers. KAM. KEREACCAK.
+[RBF Programme]: Supply stoves and gel to MFI's and SACCO's though RBF Programme 2015-2018. Target 25,000 stove..
+[Production of Ethanol Gel]: 1. Premium Quality (Hotels & Rest.)2. Cooking Fuel3. Biomass lighting fuel.[Distribution Channels]: -Website-App.
+[Platform/NETWORK]: (Niche Market).
+[Revenue Streams]: -Advertisements-Affiliate Marketing with partners.
+[Customer Relationships]: -Catering towards exact measurements-Forwarding hem to reliable companies.[Well-established and Strong Key Activities]: -Sustainable online platform, great connections-Original content, content acquisitions-Stronger bonds with partners-Develop innovations and training toward objectives.-High user interfaces and technologies-Merchandise online site-Delivery of DVDs by drone.[6. NEED HELP WITH YOUR CANVAS?]: Just click on the question mark in the upper right of each section. This will provide you with questions to ask yourself..[]: EngineeringManufacturing - QCDocumentation.[What needs to be performed well]: .
+[Identification & Closing of Capability Gaps]: .
+[Continuous Learning]: IntegrationTestingDeploymentDeliveryReflectionData (scientific method).
+[Up-lift]: Knowledge, Skills and Attitudes.
+[Engineering]: inc. automation.
+[Soft skills]: Negotiation, persuasion, communication, nurture.
+[Team building]: On-boardingForming/Storming/Norming/PerformingPsychological safety.
+[Value Stream Mapping]: .
+[Evidence-based Decision making]: MeasurementTransparencyFeedback controlReasoning / Meaning.[1.Platform/Network 2.Publicity]: .[Validate User Problem]: @Shelter, ask pet owners what they want to know.
+[Agile development of App]: 1. Focus on Pet Social Connection2. Add Veterinary Service, etc after .
+[Leverage relationships in NYC Metro Area]: .
+[Validate Veterinary Participation ]: Go to veterinary businesses and determine if they would be engaged in this process.
+[Create a website/survey for pet parents]: 1. Determine pet parent need2. Use Google/Twitter Analytics to determine source of visitors to website3. Share website/survey on various platforms.[Easy for Langkawi's tourist]: -Facilitate to purchase ticket-More efficiency -Less more time .[Helpdesk]: .
+[Acting on feature and bug requests]: .
+[Providing relevant knowledge]: eg through web and social media content.[Google Adwords]: .
+[Building and maintaining the search infrastructure]: .
+[Promoting the platform to new users, content owners, and advertisers]: .[TO SUCCEED, WE MUST:]: â€¢ Do excellent work every time on every project.â€¢ Operate efficiently and effectively â€“ track performance metricsâ€¢ Be on time / on budgetâ€¢ Maintain close communication with the Customer(s), workers, subcontractors, suppliersâ€¢ Maintain excellent books / job costing (know where we are financially at all times! â€“ no surprises!).[]: Monitoring Activity.[]: Relationships with:Bank ManagerMovie distributors Food and beverage suppliersLocal Council Local business leaders and community.[Money management]: .
+[Customer relations- cost to travel and make customers]: .
+[Production]: .[BAT]: - Buy the BATs from ALTAEROS- Engineers to set up the battery and wifi capability (and any other additional services)- Design, setup, and deployment of the kiosk-like charging stations- Community outreach and marketing to get the funding for the BATs and other workers- Partnering with companies with satellite capabilities when appropriate.[Network related activities]: I would be networking with other merchants, customers, firms looking to sell stocks and dividend reinvestment stocks. .
+[Problem Solving]: I would focus on the problem of investing with little money.
+[Outsourcing ]: Outsource customer service work.[IT]: .
+[Marketing]: Platform Promotion.
+[Platform Management]: .
+[Service Provisioning]: Knowledge Management.[Hub Project Generation]: .
+[Kit Content Generation]: .
+[Classroom Simulation Workshop]: .[]: P..?? (2417)installed base follow-up.[Fundraising&Resource Mobilization]: With traditional and new donors. We want "new money on the table" and not divert current funding to this mechanism.
+[Establish the entity & infrastructure]: .
+[Launch calls for proposals]: .
+[Screening, vetting, prioritizing&selecting successful proposals]: .
+[Accompany each process]: .
+[Ensure continuous learning and reflection opportunities]: .
+[Regular reporting, demonstrating success]: Challenge: CB is not a linear developmentOpportunity: choose some reliable cases (low-hanging fruit) for the pilot phase to demonstrate successful progress at an early stage.
+[Change management!]: For ICRC, IFRC and NS leadership & staff. The new way of working will introduce Big Change to the current business-as-usual approach. Roles and responsibilities will change, and new players will be coming in.[Week1-2 Business Model Summary]: 1. Have defined and qualified the business opportunity we are addressing, market context (increase in regulatory enforcement, competitors)2. Have identified the products we are building, high level understanding of the products' processes and quick viability assessment, and a go to market approach, pricing strategy)3. Approach to product development4. Have defined the role of the partners and have signed LOI agreements in place- checkpoint.
+[week 4-7 MVP with 1-3 clients with CC/Neota together]: #Product/App MVP- Build/Measure/Learn loops (with in-app feedback feature) focused on products- will require fee-earners time#Platform MVP:- Build/Measure/Learn loops focused on the user experience (manual process first, then service provisioning, platform promotion)- checkpoint.
+[week3-5 Design Thinking, Client-centric needs: MiFID2 lessons learnt workshop]: with CC and Neota participants to identify anything else we need to consider in new business model.
+[week 3-10 Business Plan]: - Have business plan signed off and funded (inc org structure, operating expenses, pricing strategy update)- Revised proposed Joint Stock Venture (inc participation terms and deal terms to be resolved including exclusivity terms, and governance from CC/Neota)- Have secured 1st client and pipeline of 5-10 prospects- checkpoint.
+[week3-5 Design Thinking, Client-centric needs: Sales Page to register interest]: - to test if Digital Products sales would be of interest and test Value Proposition attraction.
+[Build & Launch]: - revise support model for scaled support- product release process (in particular QA/Testing of legal logic).
+[week3-5 Design Thinking, Client-centric business model]: - speak to existing MiFID II app clients to brainstorm improvements to that app and extensions laterally to other fin/reg product areas- speak to clients first to simply ask what they want and also get their feedback on our product ideas, prioritised and assess opportunities size. (opportunity with CS on 24/04, need CC lawyer to attend with Neota)- identify Products needed & prioritisation based on draft selection criteria- initial Product Vision & Roadmap (for apps) considering reg timelines- checkpoint.[IT and Operations]: Data analysis & Processing; Bridge Companies & Individuals; Contact Partners.
+[Marketing]: Platform PromotionCustomer & Participants Database management.
+[Platform Management and Customer Development]: Online communityFeedback surveyTestimonials tracking.
+[Service Provisioning]: Knowledge Management (information)Challenges (financial reward)Opportunity for investment (in start-ups).
+[Support ]: Support to entrepreneursSupport throughout the challenges.[]: Key activities at LHA is keeping parents well informed and comfortable with the treatment their children are receiving while they are working. Being well  informed and utilizing new and advanced development and enjoyable learning..
+[]: Needed activities for success- marketing, supplying, updated equipment, customer service. .[Providing Healthcare]: PediatricsGeriatricMiddle Age PatientsVeteransActive Duty.
+[Well Baby Exams]: 0 - 2 years of age .
+[Laboratory]: Genetic testingAnnual Military LabsPregnancy TestsNew Born screening.
+[Sports Physicals ]: 3 years of age and up (School Age Children).
+[Immunizations ]: NewbornPediatrics 0-2 years of ageChildren 3 -  18Adults 19-45Geriatric populationAllergy Shots .[Easy to use]: .
+[Free use of app]: .
+[Can estimate received qualty of washing]: .
+[Unlike]: Standard to guarantee the service qualityTechnical supportService to customers, rather than customers come find to us!.
+[Customer payment&comment;]: .
+[Activities, Intent, Needs or Wants]: Order car-wash service through Internet system, especially in big city,  we send service to customers.[Creative writing for daily deals]: .
+[Customer data management]: .
+[Advertising decisions]: .
+[email marketing]: .
+[scheduling]: .
+[sales]: .[Free E-book]: Simple Free ebook on all websites to get peoples email addresses then I can follow with some more content or sales material -- many people use this with "ebooks" they through together with some content but is really just a 30 page advertisement of services and maybe some supporting material why the service is important to add crediility.
+[CLE based on my past expertise in stuff]: What other AS business value propositions can I offer other law firms? to enhance my brand.Think about what I did in consulting - CLE that comes out of Material I initially publish on my site?  have my site become the educational page like extension.
+[Forensic analysis]: This would be a new way to look at business breach of contract and other business damages at least the term would be new in the eyes of many lawyers - this could market my other services as consultant or highlight my business.[Promotion]: .
+[Sponsoring Charities]: .
+[Sponsoring other companies]: .
+[Designing and producing products]: .
+[Interior design management]: .
+[Renewing catalogues (online and not)]: .
+[Shop for fabric and material]: .[Designing and producing the simulator or game or both]: .[Introductions and facilitation]: .
+[Community building]: .[Response to feedback]: We will be actively responding to feedback and amending our product as needed.
+[Website]: We will need a platform to distribute from, and possibly means of advertising said platform..
+[Crowd funding]: We plan on raising additional fund for the project via crowdfunding.[Lease and install Solar Panels]: .[]: Research.
+[]: Supplier acquisition .
+[]: Creating the app/website.
+[]: Marketing, promoting.
+[]: Customer support.
+[]: Support local community.
+[]: Authentic home-made goods for people with limited time.[Customer relationsihp ]: -Problem solving-Maintenance  -Software-Platform .[Production]: .
+[Problem Solving]: Working with clients to accommodate needs, but not all needs can/should be metWebsite design issues - website must work on phones as well as desktopsPerformance - choice of server backendSecurity concerns with processing payments.

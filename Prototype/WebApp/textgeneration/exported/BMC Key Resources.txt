@@ -1,0 +1,554 @@
+[Intellectual]: We own the domain name and hosting.
+[Human]: Knowledge of how to build and design websites, working with clients on specifications.[Printer]: .
+[Paper]: .
+[Designer/Engineer]: .[]: Food providers .[Brewing Equipment]: Kegs, fermenters, bright tanks, walk in cooler, mash ton, brew kettle, boilers, glycol unit, refractometers, and a grain mill .
+[Kitchen Equipment]: Smoker, stove, oven, grill, pots, pans, and cooking utensils .
+[Staff]: Brewers, bartenders, distribution/marketing, and cooks. Brewers and bartenders provide local distribution.   .[Government aids]: .
+[Private innvestment]: .
+[Business ads]: .[Phyiscial]: Infrastructure: megastores, actual furniture, Trucks, lifting equipment, Tools.
+[Labor]: Skilled Personnell.[QReca! Customer Engagement App Autoring Tool]: A drag-and-drop authoring tool for building customer engagement appsRapid and Easy development - No IT Skills needed.
+[QReca! Customer Engagement Features]: List of features (some of them):vCardWebPage Editor + FB Sharing + Page LikePhoto SliderGoogle Map + Navigation InstructionVoucherYoutube/Vimeo videoPaypal buynowPaypal donationSlideshareEventClick-2-CallRating (Polls Ï€Î¹Î¿ Î³ÎµÎ½Î¹ÎºÎ¬?)Feedback FormOpen new webpage (redirection) ?Link with another App.
+[QReca! Analytics]: 1) Traffic monitoring of the microsites (visits, unique visits, location of visit, device, OS)2) Age distribution of the visitors3) Current location distribution of the visitors4) Gender distribution of the visitors5) Native language distribution of the visitors6) Language skills distribution of the visitors.
+[QReca! Delivery Mechanism]: Deliver content based on the location and the demographics of the visitor.
+[Sales Network]: How are we going to detect and contact clients - need of high convergence rates.[Intellectual Resources]: Partnerships and customer databases.
+[Human Resources]: Platform Designer & Back-Office.
+[Google Analytics]: Platform Monitoring.[Online market]: .
+[Experience]: .
+[Material]: Someone buying the t-shirts.
+[Stakeholders]: .
+[People's petitions.]: .[Innovative Research Capabilities]: .
+[Networking Opportunities with B2B]: .
+[C of C Engagements, Professional Associations, IMC, AMCF, AMA, Referrals and Web Presence]: .[Gamification Platform]: .
+[Habit Tracking Platform]: .
+[Customer Data]: .[HL7 standard]: .
+[Phone privacy tools]: - need to be able to meet HIPAA regulations- will likely need to consult with Health IT / legal experts.
+[Optical Text Recognition Software]: http://www.free-ocr.com/.
+[Phone multimedia capabilities]: - Photography/scanning- Hardware to communicate between EMR,  the phone and/or the cloud.
+[EHR specific technical experts]: - Advise on the architecture of the EHR and how to integrate software.[Phisical Fullfilment Centre & Warehouse]: (bahan diskusi) Apakah model bisnis nya market place atau konsinyasi dengan beban fulfillment centre.
+[Human Recources]: .
+[Frontend, backend Web & Application Developers]: .[Our Knowledge Base]: .
+[Strong Customer Interest]: .
+[EM Needs/Wants This]: .
+[Existing relationships with local Emergency Personel]: .
+[Funding for Dev]: .[Hardware/Software]: - Testbed: Devices, Workstation(s)- Network gear: (Wifi/Femtocell/Router) - Testing tools.
+[Technical "Housekeeping"]: - Initial Setup- Maintenance- 1:1 Support.
+[Housing]: - Storage, Furniture, Transport/Flightcase- Security.
+[Energy]: .
+[Legal terms & conditions]: .
+[Contract]: .
+[Insurance]: .[Workshops]: .
+[Seminars]: .
+[Support Groups]: .
+[Facility Tours]: .
+[Advising Centers]: .[High Quality raw materials]: .
+[Their Chefs and The Secret Recipe]: .[Business dev/account managers]: .
+[Developers]: .
+[Customer service]: .[Tanks/Cisterns as well as vegetation based GI (note that vegetated infrastructure not eligible for capital leases)]: .
+[Management technology to hold water during rain and release capacity before a rain event. ]: .
+[Aggregation contract (Capital lease contract is one example)]: .
+[Capital funding through bonds that can be used to pay for distributed system]: .
+[Can utility own just the management technology and turn over the ownership of the tank to property owner?  Is technology owned by the utility like water meters are owned by a utility?]: .
+[What is power source for cisterns?  Need access to power supply or go with batteries?  What is replacement for batteries?  If power supply, who pays for line for power?  How do we access line?  Cell or wi-fi based]: .[1) Supplier for  Material, inputs, spare parts  2) Technology infrastructure  3) Service providers   4) Filed  engineers for design and management  5) Ware houses  6) Financial Institutions 7) Land Resources ]: Resources will be generated through sales of service and materials. financial institutions will also be given proposals for projects.   .[Gym Rosters]: (to get in touch with potential partner gyms).
+[Website and eventually an app]: .[Supply Chain Channels]: .
+[Planning Startup]: -Exhausting market research-Advice and consultation with experts-Business Plan.
+[employees]: .[Master Indigenous]: Indigenous who wants to be responsible for the activities at the events.Indigenous who dance traditional steps, who cooks authentic food, who sales crafts, etc.
+[Team members]: Event ManagerPhotographerMarketing directorFundraising directorOperational DirectorStaffing directorOthers.
+[Mentors / Coach ]: .
+[Data bases]: Data base of Masters Indigenous Data base of clientsData base of sponsors.
+[Money]: Money from the ContestDonations.
+[Digital presence]: WebsiteSocial MediaBlog.[Health / Patient advocates and evangelists]: .
+[Cloud storage]: .
+[Personnel]: .
+[Sales Force]: .
+[Intellectual Property]: .[Firm:]: 1.NGO's Data2.Reach to Community3.Community Individuals4.Communications5.Natural Resources6.Business solutions.
+[Products:]: 1. Raw- Materials2. Finances3. Production Equipment4. Operation facilities5. Warehouse6. Packaging facilities7. Human Resources.[]: -human engineering-partnerships-space/office- drop off location-financing.[Experts Pool]: .
+[Rewards]: .
+[Software Platform]: .[Intellectual Resources]: Partnerships and customer databases.
+[Human and Support Resources]: Back-officePlatform ManagerHigh-quality teams.
+[Operational Resources]: Data analysis and processingData storageIT systems.[what are the most important assets required to make the business model work]: .[Farmers & farms]: .
+[Cows & milk]: .
+[Factories & factory workers]: - For producing and packaging products.
+[Assets ]: .
+[Partnerships]: .[Same as Brick School Model]: .
+[Information Technology (IT) infrastructure - includes hardware and software needed]: .
+[Academic business development apparatus. Includes: office space and human resources in brand management/ marketing, business development, legal, etc.]: .
+[Academic business development apparatus.]: .
+[Intellectual property (copyright materials)]: .[Sanitation Specialist]: .
+[Sanitation Technology]: .
+[Material of Construction]: .
+[Community Workers]: .[Hosted resources]: .
+[Game engine]: .
+[Test devices]: .[Labor]: -chef-delivery man-production crew-marketing crew.
+[Material]: -rice-dishes-vegetables-fishball-mushroom-fruits-yakult.[Our Assets]: 1.  Database2.  Hedging research3.  Programming capabilities4.  Concept version of HedgeSmart app5.  TechLaunchAZ licensing agreement.
+[TechLaunchAZ]: License agreementLocal I-Corp experienceNetwork of local contactsAdvisory pool.
+[U of A Resources]: 1.  University reputation2.  Alumni loyalty3.  Access to agricultural extension specialists and contacts4.  Computational and IT resources.[Community members]: All active community members! Savvy community members or professionals in the network exchange their knowledge, time, competences and skills to support and provide others and grow in the community.[Intellectual Property]: .
+[Shareholders]: .
+[Authors]: .
+[Graphic Designers]: .[Store]: Certainly one of the most important resources is the store and its location. Indeed a Main Street located store should emphasize attractiveness and meet peoples most visited places..
+[Human Resources]: Pita Pal expects to achieve 100% customer satisfaction. To fulfill this achievement it should count on its staff and employees. So another key resource is a well formed human resource sensitized to this customer satisfaction issue..
+[Financial Control]: A major key success factor for Pita Pal is a strict financial control. Thus a control management expert should be a key resource for the company..
+[Food]: Ones again, Pita Palâ€™s positioning on fresh, good quality food makes food resources a key resource also. The choice of the food, sold to its customer, should be strategic.[resources]: FriendsFinancesCommunitiesPhysical and intellectualsHuman.Research using various channels available.Internet..[What are the key resources that you must have in place, or have access to, in order to produce and deliver the value proposition?]: .
+[How can you validate that these are the key resources, and that they will be available to you when you need them?]: .
+[Will these resources allow you to gain and sustain a competitive advantage over your competitors?]: .[Existing registered trade mark "eStartup" in Switzerland]: Verify need/possibilities in Asia.
+[Digital channels, technology]: .
+[Membership database]: .
+[Training camp per region]: Each region needs a training camp.[Brand Recognition]: - Verizon (Carrier)- Manufacturers of individual phones (Motorola, LG, Samsung, HTC, etc.).
+[Western Union]: Global Money Transfer Capabilities.
+[Customer Base]: Retain loyal customers.[Wholesalers]: .
+[Spray makers (us)]: .
+[Distributors]: .[Curators]: .
+[Site Designers]: .
+[Information editors]: .[Talents]: .
+[Network Infrastructure]: .
+[Technology]: .[Farmers]: .
+[Coffee vendors]: .[Web programmer]: .
+[Graphic/Web designer]: .
+[IP attorney]: .
+[Illustrator]: .
+[Materials supplier]: .
+[Managerial accountant?]: .
+[Printer]: .
+[Post Office]: .[Technology Platform]: .
+[Sales Staff]: .
+[Patents]: .[Energy Utility Intellectual Property]: Key resources have experience in energy utilities..[Word of Mouth]: .
+[Social Media]: .
+[Customer Advertisement]: .
+[Positive Feedback/Positive Responses]: Negative Attitudes will hurt word of mouth reputation.[Development Management]: JIRA - Issue LoggerConfluence - DocumentationBamboo - Build Server.
+[Infrastructure]: Route53Elastic Load BalancingElastic Cloud ComputeRel. Database Service.
+[Technology Stack]: NodeJS, Angular, MySQL.[Mentors]: .
+[Production team]: .
+[Marketing & Sales]: .
+[Legal]: .
+[Distribution]: .
+[Design]: .
+[Support from hospitals/doctors, and insurance companies]: .[IP]: +Product Features+Technology&algorithm;+Design, Trademark+Source Code.
+[Infrastructure]: +in-house software software+server+data center.
+[User Data + Location based Travel Info]: .
+[Brand]: .[TURI Certification - UMASS Lowell]: .
+[Co-op members / Cleaners]: .
+[Cleaning products]: .
+[Brazilian Women's Group space and resources]: .[Brewing Knowledge]: .
+[Networks in Industry]: .
+[Organizational]: People with experience and knowledge of the industry (Bartenders, Bar Managers, Liquor Reps, brewmasters, distributors).
+[Intellectual]: (Branding, MOBTOWN (the name).
+[David (Master Brewer)]: .
+[Ingredients]: .[Human:]: Mkt, driving, IT, Oper.,.
+[Physical:]: -Bio Food Products;Cars (leased);-Warehouse (storage purpose);-.
+[Intellectual:]: -Copyrights-Partnerships.
+[fruits and vegetables]: .
+[warehouse ]: .
+[website]: .[Cannon 7 D]: .
+[MacPro desktop]: .
+[PHotoshop]: .
+[Photoshop]: .[Human resources ]: ( tech - Sales - pr -social media marketing - website app ).[Manufacturing Plants]: Tinkleman has successful electronic component manufacturing plants located in China, Indonesia, and Mexico..
+[Regional Sales Office]: Tinkleman has regional sales offices throughout Europe and North America..
+[Brick and Mortar Stores]: Tinkleman has store locations throughout their market area..
+[Online Retail Sales]: Tinkleman supports on-line sales for their consumer and corporate sales..
+[Employees]: Tinkleman has 450 employees..
+[IT Staff]: -       15 developers - 15 data center staff - 3 project managers - 3 quality assurance - 7 business analysts  - 7 managers 20 IT staff have come from a recent acquisition 30 of the staff are operations for business units .[Product recipes]: .
+[Co-op members]: .
+[Social mission]: .
+[Production space (Brazilian Women's Group)]: .[Patient Smart Phone]: either an iPHONE or ANDROID phone.
+[Carrier subscription for phones]: in the US, it would be a mobile carrier such as ATT, Verizon, t-Mobile... but less expensive providers would also work as the most important part is the data connection.  A data only plan is also an option.
+[Hosting Envinment]: There are several option here. HIPPA compliance would be mandatory in the US. However, the brazilian version of system could run on non HIPPA complian systems, which are less expensive and more flexible..[Key Resources]: Our key resources would be gear & a field.We would do ads. To get profits we would sell accessories. .[]: Point Of Sale.
+[]: Brand Image.
+[]: Secret Recipe.
+[]: Storage.
+[]: Warehouse Farm.
+[]: Competitive Price.[Resources]: - Community women- Financial resources- Fertility training providers- Product suppliers- Vending machinesData collection: support business case   - Fertility impact   - Customer feedback .[Manufacturing]: .
+[Brand]: .
+[Supply Chain]: .
+[Patents and other IP]: .[Music]: We need to find an easy, effective, and legal way to add music to a video.
+[Editing Technology]: Rather than designing an editing platform ourselves, it would be ideal to integrate another company's software here.[Recepies]: .
+[Brand]: .[Sort the warehouse]: Inventory.
+[Sales force]: .
+[Manager]: .
+[Logistic Manager]: .
+[Theme parties ]: .
+[Build a team ]: .
+[Work with a budget ]: .
+[Minimize costs]: .[Digital sensors]: Water, moisture, light sensors.
+[Arduino]: .
+[Control mechanism]: Irrigation controller.
+[Microcontroller]: .[Resources]: FinanceBrokersAccountingIT SoftwareFranchises.[Fixed based operations (FBO) facilities]: Buildings, docks (fixed and floating), etc..
+[Company Website]: .
+[Partnership contracts]: Contracts with FBO up-sell services providers / partners.
+[Branding]: Creating a Brand under which to bring all business services to create a Business inter and intra island travel and support eco system.
+[Investment Capital]: First Round seed capital to perform customer development (validation exercise)Second Round Venture Capital for Building of FBOs and procurement of key resources as well as staff..
+[FBO land leases and contracts]: Morandum of Understanding (MOUs) required prior to second round financing.
+[Customer Letters Of Intent (LOIs)]: To improve valuation in order to raise second round funding from Venture Capital sources. .[Fixed]: ComputerPeripheralsCollaboration space.[Digital Footprint]: Video of organic cotton farmersCatalog of designersCatalog of servicesInfographic of cotton supply chainGOTS Certification APIBlogFacebook PageTwitterPinterestPR Networks.
+[Marketing material]: InfographicLook BooksPress KitLine SheetsFlyers/Brochures.
+[Social Capital]: Relationships with Retailers and eCommerce PlatformsRelationships with organic clothing manufacturers and organic cotton farmers.
+[Distribution Knowledge & Resources]: Customs, Duties, Taxes3rd Party LogisticsWarehouse.[]: Android Platform, IOS platform, hardware, software, money.[Multiple Resources]: Human -design -programmingIntellectual -patents, etcFinancialSalesTechnology -Hosting -Server -3rd party services -app accounts.[Intellectual Resources]: Partnerships and customer databases.
+[Human Resources]: Platform Designer & Back-Office.
+[Google Analytics]: Platform Monitoring.[Payment notes]: .
+[Promissory notes]: .
+[Bills]: .[Physical]: Raw material for Bee Box: wooden sheets, ventilation unit, cooling system, aurdino sensor, meshes, solar battery, checkmite strips.
+[Human]: 1) Carpenter2) Distributor3) Field Sales Agent.[Team]: Product Owner, Developers, UX Designers and Growth Hacker.[Licences and Banking]: General Trading licences based in Trade Free Zones in UAE which in turn gives us Banking and Tax Freedoms. .
+[Financial Backing]: Good Financial Backing to buy your own stock Pre Season and stock them in Bonded Warehouses so you can have best and Competitive Rates in the market. .
+[Team of Traders]: A good team of Traders who can execute Underbond Trading using various online Portals and Websites and travel at the same time to various exhibitions and conferences across the world to increase and expand the business. The should have knowledge of International Trade including Logistics and Customs Procedure and Freight Forwarding..[Raw materials: Steam coal, iron core, metallurgical coal]: .
+[Equipment and specialized machinery]: .
+[Factories, mines and distribution partners]: .[Physical]: Raw materials: Refrigeration units, mobile units, pre-cooling units, washing mechanism.
+[Human]: Field Sales AgentsManufacturing EngineersTruck Drivers.[Convinience ]: Partnership with major grocery store retailers and have an interlinked debit client card allowing customer amounts to be loaded with laundry credit on purchase of grocery items. Allows customers to save subtly for their laundry .
+[Man power]: Efficient, realiable. As this is a service business, key resource would be man power which will be responsible for providing quality service..[Co-op members]: .
+[Homemade non-toxic products]: .
+[Existing clientele]: .
+[Universities (Tufts, UMass Lowell)]: .[Local farmers]: .
+[grocery stores]: .
+[wholesalers]: .
+[farmers markets]: .[detailed customer databases]: .
+[powerful vendor]: .
+[creative publisher]: .[Adobe Captivate for elearning]: entrepreneur customers near and far - can do free learning or costs programs that lead them to be better entrepreneurs and want my other services.
+[LivePlan for business plan help]: integrates with quickbooks planning and then goal setting and progresshttps://www.liveplan.com/.
+[LaunchPad Central]: for beginners before they get too far into service they can get a feel for the canvas idea using canvanizer and udacity course-- then move up to liveplan..
+[Canvanizer]: Startup in my services then move to lauchpad .[Our key resource is going to be the web page that we will create]: .[Silicon Wristbands]: .
+[NFC/Wi-Fi - Chips]: .
+[Software]: .
+[Human Resources]: .[canvas4]: -Food &Drinks;-Machine / Equipment-Employee .[Intellectual Resources]: Partnerships and customer databases.
+[Human and Support Resources]: Back-officePlatform ManagerHigh-quality teams.
+[Operational Resources]: Data analysis and processingData storageIT systems.[Key Resources]: ServersComputersProgrammersMarketing ExpertsDistribution Partners.[Capital]: For research, development, and advertising..
+[Intellectual property rights]: Patents.
+[Clinical trial rights]: Approval to test diagnoses in clinics.
+[Infrastructure]: Employees (software developers, advertisers), computing power.[Human resources]: Content curator, community manager, digital marketing specialist, technician. Financial and legal services will be outsourced..
+[Digital resources]: Webpage, blog, incloud social learning platform..[Cardio Equipment ]: Includes state-of-the-art treadmills, ellipticals, stationary bikes, stair-stepper,  and a rowing machine..
+[Free Weights, Benches, Squat Racks]: Includes a complete set of dumbbells, two squat racks, and five benches. There is also an inclined bench and a pull-up rack..[Online healthcare Marketplaces]: .
+[Highly skilled doctors]: .
+[Accessible medicines and health services]: .[Human]: - Software Engineers- Cognitive Researchers - Meditation/Mental Health Experts.
+[Physical]: - Smart Phones.[Agreement with association; Fab Lab; New sensors; Desing;  Software and App developer]: .[Intellectual Resources]: Partnerships and customer databases.
+[Human Resources]: Platform Designer & Back-Office.
+[Google Analytics]: Platform Monitoring.[Raw/ Natural materials]: .
+[Recycled materials/ Bulk materials]: .
+[Specialist designers and manufacturers]: .[Digital Marketing Team]: .
+[Product Development Team]: .
+[Digital Platform Developers]: .[Resources]: Open Source toolsFew purchased toolsPowerfull workstationsHigh speed InternetCloud ServerOn site resources.[Technology]: .
+[Brand]: .
+[Design]: .[Natural Networks of Support]: Staying Well in Calderdale community supportNatural networks of support in the communityFamily networks of support.
+[Interventions]: Small Grants to sustain independenceCarers Support Plans & Emergency Back Up PlansCommunity EquipmentCalderdale Urgent Home Support ServiceEquipment and minor adaptationsTelecare.[APP Engineer]: .
+[Hardware Engineer]: .
+[Printer Knowledge]: .[Equipment]: Fryers, ovens, microwave, stand up freezer/fridge. Items needed will be based on extensive R&D..
+[Food Vendors]: Companies such as Cisco often have resources available (such as food shows, knowledgeable staff, etc) that can help in the idea stage of menu and dish creation..
+[Financial]: Bank and personal investors who have an interest.  Several, current, personal investors who are interested. .
+[Staff]: Prep, serve, counter. Entergetic and apart of the 'culture' in the area..[Manufacturers]: .
+[Financing]: .
+[Human capital]: .[People]: visionaries, system experts, participants...... .
+[Money]: .
+[Farmland]: .
+[customer communities]: .
+[physical recourses]: .
+[Designers & Creative people]: .[Human resources]: .
+[web page]: .
+[transport service(car)]: .
+[office]: .
+[equipments]: .[Regional Bank Compliance Officer]: .
+[IMEL]: .[Manufacturing facilities]: .
+[Sales People]: .
+[Collaboration with Veterinary Hospitals]: .[Key Resources]: >Human Resources: Watson Mere to create the art>Printshops>Transportation>Delivery.[Rick Daniels]: .[Intellectual Resources]: Partnerships and customer databases.
+[Human Resources]: Platform Designer & Back-Office.
+[Google Analytics]: Platform Monitoring.[Computer]: .
+[Phone]: .
+[Apps and editing software]: .
+[Brand]: .
+[Partnerships/contacts]: .
+[iPad/iPad Mini]: .
+[Social media connections]: .[Product Patent.]: .[Key Resources]: 1. Large Variety of products2. In-house team3. Vayloo Technologies (own design frames)4. Domain name (lenskart).[CPA certification]: .
+[GAAP]: Updated on tax laws.
+[Computer equipment]: .
+[Regus office space ]: .[Intellectual]: .
+[Design]: .
+[Physical]: .
+[Financial]: .
+[Human]: .[Human]: Creating, developing and updating the App..
+[Intercellectual]: Brand, Patents, copyrights, data and technology.[employees]: .
+[server networks]: .[Mobile App]: .
+[Website]: .[Innovative Business Professionals]: .[Physical resources ]: May include manufacturing, facilities, buildings, vehicles and systems .
+[Key Resources ]: The manufacturing of the stools that fit to our cushion .
+[Research Team ]: .
+[Staff ]: .[Natural Networks of Support]: Staying Well in Calderdale community supportNatural networks of support in the communityFamily networks of support.
+[Interventions]: Small Grants to sustain independenceCarers Support Plans & Emergency Back Up PlansCommunity EquipmentCalderdale Urgent Home Support ServiceEquipment and minor adaptationsTelecare.[Worldwide]: 57 Research and Development centres41 warehouses73 production plants2,01,000 employeesAnd additional assests and net cash.[Sports equipment]: .
+[Human resources (coaches, instructors)]: .
+[Webpage (platform)]: .
+[Mobile Application]: .[Mobile application]: .
+[Proprietary power banks ]: .
+[Charging/renting stations]: .[Intellectual]: .
+[Human resources]: .
+[Participants]: .
+[Come & Stay coordinators]: .
+[Selection team]: .
+[Financial resources]: .
+[Godmother]: .[Key resources include: â€¢Existing product models â€¢Rafting materials]: .[Research and Development ]: Conduct research to make sure that PartyStrips work effectively (from a chemical standpoint), and further develop PartyStrips to make them appealing to consumers..
+[Manufacturers]: Companies will be needed to help manufacturer and package the product. .[Mobile Application]: .
+[Watch Your Fitness Website]: The main page, the forum and the web store.[Business Advisory Board]: .
+[NACCE]: .
+["Pow-Wow" Network]: .[Content]: .
+[Relationship with license holders]: .
+[Creative talent]: .
+[Awards]: .
+[Consumption data]: .
+[Suggestion algorythm]: .
+[Brand]: .
+[Distribution platform and apps]: .[Private investment]: .
+[Business ads]: .[Human Resources]: .
+[Travel guides]: .
+[Back-office]: .[friendship,starts with a first step]: ONLINE,BLOGS,COMMUNITIES,REPORTS,RESEARCH USING VARIOUS CHANNELS.[Human]: Caregivers, doctors and patients could bring their point of view being so helpfull..
+[Financial]: To support the initial R&I costs..[Resources]: -Grinding machine of cocoa-Oven-Molds-Technology.-Human resources.-Knowledge resources.-Publicity.[Human resources]: We depend on the wide range of employees to make outreaches, convince our customers and also assist them..[Intellectual Resources]: Partnerships and customer databases.
+[Human Resources]: Platform Designer & Back-Office.
+[Google Analytics]: Platform Monitoring.[Existing brochures ]: .
+[references]: .
+[experience ]: .
+[track record ]: .
+[community members who shop at grocery stores]: anchors in the community.[Ingredient]: - Main resource is ingredients (flavors) - Employees- Concept - Place (location).[Cheap airports]: .
+[Used airplanes / Single Model]: .
+[Cheap pilots]: InexperiencedNo union contracts.[Consumer]: - Creative and Publisher- Email Database (databases allow customization of offers for the clients).
+[Merchant]: - Merchant Database and Sales Force- Software Developers and Web platform.
+[Additions]: - Team members are vital for their creativity and innovation- Financial resources are also necessary to continue to expand and serve clients in the best way possible.[Intellectual Resources]: Partnerships and customer databases.
+[Human Resources]: Platform Designer & Back-Office.
+[Google Analytics]: Platform Monitoring.[Building, infrastructure and land]: .
+[Instructors/ Professors/ TAs]: .
+[Back office HR support]: .
+[Facilities Staff]: .[Training Employees]: Training the employees in Revenue Management.
+[IT]: Excellence support of IT.[Sports equipment]: .
+[Human resources (coaches, instructors)]: .
+[Webpage]: .
+[Mobile Application]: .[Farmers]: Cows to get milk..
+[Employers]: People all over the world who works in Arla. (~19.000).
+[Trucks]: .
+[Logistic Infrastructure]: .
+[Warehouse mechanisms]: .[Antitrust law Expert]: This is more of a consulting thing because it would take forever to build up a law practice specialty to get any real cases -- better to get some notoriety on this (need to fill in key activities and resources for this to happen) and get expert witness cases..etc.   OR protecting antitrust cases by publishing some economics of antitrust where I analyze cases and add my opinion?? maybe an ebook on this issue where I analyze some key cases in subject matter areas that I want to be an expert witness â€“ will need to get at the experts testimony somehow â€“ from westlaw or get someone who has westlaw access â€“ or other service that has these documentsâ€”google??)  and give my analysis of what could have been done better as a portfolio to show others how I critique cases and my ability to critically evaluate and forensic evaluation. -- Kind of my "Case briefs" as I would handle them..as an ebook. but really a portfolio idea but it could be published by me or in journal??.
+[Trademark and Copyright law expert - for consulting as well as law firm]: I can write some journal articles. Combining my economic expertise adding to current  combining my economic expertise adding to hurt knowledge level of law journals / trademarks with my expertise in Econ and relevant markets also HSUS WOULD BE GREAT FIRST CASE TO GET A REPUTATION.[Consumer]: - Creative and Publisher- Email Database (databases allow customization of offers for the clients).
+[Merchant]: - Merchant Database and Sales Force- Software Developers and Web platform.
+[Additions]: - Team members are vital for their creativity and innovation- Financial resources are also necessary to continue to expand and serve clients in the best way possible.[Ingredients]: .
+[Financing]: Capital.
+[Suppliers]: .[Food]: .
+[Capital]: .
+[Employees]: .
+[Marketing intelligence ]: .
+[Technology]: .[12 December at 07:28 Â·  Adaptive CrossFit athlete Zack Ruhl.  Insta: @pitbullruhl @bossfit_insta]: .
+[Attention Admins!!? . . . Kew Gomez Bulanadi This Person Is Not A Good One For The Groups Record. Kick Him Out Please? TY.]: .
+[Hideo Kojima leaves Konami and teams up with PlayStation for a new console exclusive]: .[Camera Gear]: Stabilizerscleaning equipment.
+[Transport]: Reliable car to reach venues.
+[Website platform]: .
+[Camera & Lens]: .[Intellectual ]: Proprietary translation knowledge would be ensured through long-term partnerships with high quality translation agencies .
+[Human]: TransMenu founder team: Multinational & Multilingual employees Excellent academic backgrounds Great social skills dealing with clients on a daily base .[Training]: New workers that has to go through a process to obtain the knowledge of the facility.
+[Healthcare Professionals]: Workers who ensure patients are in proper care.
+[Hiring]: Invitation of potential workers for the facility.[Intellectual Resources]: Partnerships and customer databases.
+[Human Resources]: Platform Designer & Back-Office.
+[Google Analytics]: Platform Monitoring.[BorrowLenses.com
+A site that allows users to rent camera gear for cheap without buying the product]: .
+[Flickr.com]: Social Media Site for photographers, access to pools of different styles of photography, and photographers, for potential clients or employees.[Fabric]: Decorative and Sherpa (absorbent material).
+[Sewing Machines]: .
+[Thread]: .
+[Cork]: .
+[Velcro]: .
+[Glue Guns]: .
+[Packaging Material]: .
+[Card Reader]: .[Community of active Locals]: - locals that want to provide offers.
+[Programming]: - market place for offers and requests- matching- communication- payment.
+[Marketing]: - strong marketing activities.
+[Contact to B&B and Hotels]: .[Financial Services]: .
+[Physical Resources]: .
+[Online Resources]: .[Key Resources]: - Human Resources (call center personnel, Technicians)- Test and diagnostic equipment- spare parts.[Trailers]: to move our equipment.
+[Mowers]: .
+[Weedwacker, blower]: .
+[iPad]: -point of sale receipts with square. -client satisfaction surveys.
+[employment and independent contractor contracts]: .
+[Customer service/sales agreement contracts]: .
+[franchise contracts]: .[Ground sensors infraestructure]: Includes sensor er spot, gateway, Wifi modem.
+[Internet]: .
+[Mobile and web aplication in cloud]: .[Volkswagen- The Corporation provides the following: ]: America Inc., for VW makes the product. They have one of the most fuel-efficient, eco-friendly lineups on the planet with VW Fleet, Dealerships, German-engineering, Investor Relations, and Sponsorship's (like with Nascar), and Financial Services..[Game designer/developers]: .
+[Human resources]: Judit- HungarianVinod- SingaporeKanatanach- Advisor social enterprises. Thailand.Ignacio- Communication consultant EspaÃ±aLaura-Finances. Colombia.[Tech]: Mask setup, user interface.
+[Social Media Integration]: .
+[Industry Partnerships]: .[Technological infrastructure]: .
+[People]: .
+[Mana]: .[Other Universities already teaching shown on Steve Blanks website]: .[Multiple Resources]: Human -design -programmingIntellectual -patents, etcFinancialSalesTechnology -Hosting -Server -3rd party services -app accounts.[Intellectual]: Creation/Implementation of a business method which will benefit the environment and provide solutions for improving infrastructure and lowering emission.
+[Education]: .
+[Intellectual ]: Was removed.[]: Most important assets would be up to date equipment and loyal members.[Developers to create the site]: .
+[Sales personnel]: .
+[Web hosting]: .[Human Resources]: .
+[Ambience]: .
+[Telecommunications]: .[YooMoo's key resources are the high quality British milk which they pride themselves on and the fresh produce used for toppings in their yogurt bars. ]: .[Physical Resources]: - Kitchen Equipment- Furniture - Glass and table ware- Menus- Inventory- POS systems - Fire Suppression systems- Any physical item that contributes to operations .
+[Human Resources]: - Trained Servers- Trained and certified Chefs-Owners/Managers .[Resources]: - Human Resources- Technic experts- Material Resources.[Book Writer - Myself (outsource?)]: Currently myself. Someone able to write a book from beginning to end..
+[Article Writer - Myself (outsource?)]: Keep site up-to-date.[Existing Materials on CERO]: .
+[Stickers]: .
+[Existing Customers]: .
+[Mailing Lists ]: .
+[Referrals]: .[Know-how]: Patent, imaging trials.
+[R&D capability]: Expertise in application & software development  .
+[Partnerships]: Establish strategic partnerships with camera & pigment suppliers.[Humans: 
+1-App developers 
+2- web developers 
+3-therapeutic Specialized 
+4-hardware engineer 
+5- programmer Financials:
+1- Components
+2- manufacturing
+3- workers' salaries 
+4- online campaigns
+5- Marketing 
+6- devilry costs    ]: What Key Resources do our Value Propositions require?Our Distribution Channels?Customer Relationships?Revenue Streams?types of resourcesPhysicalIntellectual (brand patents, copyrights, data)HumanFinancial.[What resources do DD use to create value?]: a) Sales peopleb) Company websitec) Patent/Brandd) Retail staffe) Franchisesf) Trucksg) Other transportationg) Store set-uph) Buildingsi) Machinesj) kitchensk) Utensilsl) Point of sales systemm) Stores,social media,referralsn) Human resourceso) Cooks, servers, cleaning staffp) Administrative staff.[Key Resources]: - rattan- plastic bowl- coconut leaf- fish- healthy food.[Airbnb]: The brand itself carries a huge value and future potential.
+[Network of Hosts]: The more the hosts, the more choices to choose from for customers.
+[Guest Information]: Profile info and usage patterns enables Airbnb to recommend better customized stay options to customers.
+[Tech-savvy Professionals]: Tech, online experts who are able to maintain and deliver an user-friendly website.
+[Creative Human Capital]: Creative, innovative professionals who can deliver hip, sexy and intuitive images of airbnb via design, homepage, ad/commercial, public relations.
+[Online Payment Channels/mediums]: 100% online-based transactions: it has a fast and smooth online system which facilitates overall transactions.[Content IP]: .
+[Selling to HR]: .[Smart and Efficient Logistics Services]: To achieve on-time pick up and delivery.
+[Design and Ease of App Usage]: Appealing and user-friendly app.
+[Drivers and Vehicles]: .
+[Employees]: In-company and by temporary contracts (?).[Participants]: .
+[Revenue]: .
+[Contributions]: .
+[Exisiting infrastructure in Israel]: .[In Sumbawa]: Community ManagerHoney collector / mini-van driverAdmin person - comp. finances, logistics.[What Key Resources do our Value Propositions require?]: .
+[Creattle Platform]: .[Manufacturing of the sleeves]: .
+[Sales, Advertising, Marketing, Product Design Team(s)]: .
+[Website Development]: .
+[Material - wood or fabric?]: .
+[Financing]: .
+[Storage for sleeves]: .[]: High quality material, well trained staff, the right amount of money to start up the business. Billboard, TV, Radio adverts. . Each product comes with a 1 year warranty, which allows customers to change the product as many times as possible, depending if the product is faulty and if so, how faulty. When a customer purchases a product, they are given a card of which they can earn points depending on which store they purchase the mummy bag from. First time offers, club-cards, vouchers. Savings and bank loans. .[What key resources requires our value proposition?]: staffFactory Facilitiesfinancial guaranteesWorking CapitallocalchemicalsExclusive contractmanufacturingProduct delivery.[Community members]: All active community members! Savvy community members or professionals in the network exchange their knowledge, time, competences and skills to support and provide others and grow in the community.[Hardware to sync with app]: i. Needed for seamless diabetes management in the full versionii. key for customer relationship with patients.
+[FDA approval]: i. For automatic insulin administering, etc.ii. essential for becoming trusted by patients, doctors, and companies..
+[Large user base]: i. For initial "skinny" version to attract hospitals and companies to our softwareii. Essential for transition to full version and larger revenue streams/relationships with hospitals and companies.
+[Doctors willing to prescribe Ola system]: i. Needed for distribution of full Ola system.[shoes.]: .
+[piezoelectric circuit.]: .
+[workers in the company.]: .
+[partners.]: .
+[machines.]: .[Students / Classrooms]: Specifically, schools that allow their students to use technology in class..[People]: .
+[Reputation]: .[STAR rookies]: .
+[STAR selection]: .
+[STAR care kit]: .
+[STAR coaches]: .[Intellectual Property]: - Brand (trademark)- Patents.
+[Capital]: - R&D to preserve avocado.
+[Human]: - Food Scientist- Engineer.
+[Physical]: - Manufacturing Facility- Avocados.[Technology knowledge]: .
+[Data]: .
+[Cloud platform & App]: .[Internet, web-based platform centered around a company web site.  Social media (including blogs), staff.]: .[Key activity requirements]: Website and App.
+[Intellectual ]: Brand knowledge, partnership, customer database.
+[Financial Resources ]: -Startup for website.[Barista]: .
+[Purchasing products]: .
+[Staff]: (Efficient, customer-friendly).[App Stores]: .
+[Web Developers]: .
+[SW resources]: .
+[Data storage]: .[How]: -Raw Materials-Designers with CAD capabilities-Web services (cloud, website)-3D printer.[fundraisers]: public spanking of STEM professionals.[Local implementation - by city or region]: The project needs adaptations and transportation partners in each city.
+[Servers implementation and maintence]: .
+[Web UI development]: .
+[Mobile developments]: .
+[Support]: .
+[Comprehensive documentation and FAQ]: .
+[Billing partners (credit card, paypal)]: .[Variety of resources]: -High-quality IT infrastructures, storage facilities and machines. -Great bonding with partners-Have patent, copyright and trademarks for all their contents.-Produce new contents with local companies in other countries.[Transportation]: - Motorcycle.
+[Marketing]: - Laptop- Camera- Handphone.
+[Production]: Taylor.[The team]: Own team and the development team. .[Microorganisms]: Protein/enzyme expression database.[]: Recycle Machine.
+[]: Wasted bread.
+[]: Fertilizer & Breeder Expert.[From ]: Our followers and anyone who wants to support us.
+[]: Donations.[Hosts in cities]: .
+[Tech platform]: .[Buck Brannaman]: .
+[Horses]: .[Cars]: .
+[Equipment]: .[Physical shops]: .
+[Man power]: .
+[Prosperity and Brand]: .[Consultant Laura Collins, to help complete Business Model Summary (4-6 weeks)]: (PM consultant with fintech background at DB). Â£650+vat/day, max 28d estimated so Â£18,200+vat in total, Â£9,100+vat to each party.
+[Legal Expertise for Design Thinking phase, meet clients]: Provide legal expertise and understanding of client needs.
+[Legal Expertise to develop MVP products]: - CC to agree model to make lawyers time available to product development- if available, assign LSC resources to shadow/contribute.
+[Put our global network to work: CC internal survey globally]: - use Innovation Lab "challenge" to engage fee-earners internally and feedback at scale on following:# improvements to existing apps# potential new products that could be similarly packaged on this solution# potential existing clients or leads that would be interested in such products.
+[CC Product Manager]: - AV to help setup the business model/JV- PvE could help progress the product management activities for initial 10 weeks or until we commit to go full scale.- Manage this JV as one of Legal Digital Products portfolio- Products lifecycle management- Products feedback management- Publish products via OSP and content marketing management.
+[CC Marketing & Coms]: - support in creating materials (Sales Landing pages, Product Release Notes, etc.)- Press Releases.
+[From Neota side: Rick Seabrook]: could commit 50% of time to this (trip to India in mid May and one or two other days out of town for conferences etc. coming up.).
+[Get Innovation Sprint support]: Help CC create a template for just product delivery(ourselves by following the model or full service by Strategyser to help us do that, 180K EUR)10 weeks, dedicated coaching, weekly reviews.Weeks 1-2 Kick-off workshop Self-guided online lessons Ongoing remote coachingWeeks 3-10 Ongoing remote coaching Ideation workshop Testing Presentation and debriefhttps://strategyzer.com/enterprise/innovation-sprint.
+[longer-term: proprietary knowledge and legal experience]: - CC lawyers to oversee each products- consider GSSC LSC, TR or others for basic maintenance.[]: FSEBack officeDatabase.[Website and Blog]: .
+[Money]: .
+[Digital Marketing Knowledge]: .[Website domain/platform]: .
+[Instructors/Sales Associates]: .
+[Classroom/event space/short term lease]: .[]: Location.
+[]: Faculty.
+[]: Facility.
+[]: Accreditation.[Tennis Venue]: .
+[players]: .
+[Volunteers ]: Fan Interaction.[5. MOVE A NOTE]: Just drag and drop a note wherever you want it. You will see an indication, where the note will be dropped. You will notice that the canvas automatically adjusts to its content, so nothing to worry about. Go ahead and move this note now..[Online healthcare Marketplaces]: .
+[Highly skilled doctors]: .
+[Accessible medicines and health services]: .[What resources will we need to run our activities? People, finance, access? ]: PeopleEquipmentFinance?.
+[]: - Sales force- Supply chain for product (electricity generation, lights, computers, etc.).[Prepared and high quality labs]: .
+[Researchers]: .[Plant & Equipment]: Some of our most important equipment are our WIWA Professional pump, our WIWA Mortar Pump and Kranzle High-Pressure Cleaner and our backup pumps made by Graco..
+[Designers & Developers ]: We intend setting up regular meetings with Architects, Engineers, Property Developers and H&S Agents..[Intellectual]: Know-howPassion.
+[Human resource]: Creative DesignerEngineerMarketing representives.
+[Physical]: Used tractorsCustomized solar panels.[Human]: Talented people. Apple's ex-director of Hardware Engineering and Manufacturing LawConsumer as developer (partner).
+[Financial]: Strong financial foundation from Kickstarter.[Media relationship]: .
+[Broader connecting with OTA]: .
+[Good manning team]: .[Core Team]: .
+[Volunteers]: .
+[Nomad workers]: .
+[Concierge]: .
+[Parents]: .
+[Other entrepreneurs]: .
+[Broadband]: .
+[Machines]: .
+[Fablab network - funds for projects!]: .[Team]: - Web programmers/developers- Graphic designers- Marketing- Sales.[Employ Added Team]: Immediate Starting:10 Staff5 persons in Finance and Admin5 persons in Sales and Marketing.
+[ASIM - Olivine Technology]: ASiMÂ® is a Sales (POS) and stock management solution that networks multiple sites seamlessly, such as a HQ with its warehouses, outlets, field sales/service agents, and customers..
+[Distriburion/Sales Vehicles]: 1) Mazda Double Cabin Covered Pickup2) 2 Toyoya Hiace Vans3) 1 Isuzu NKR Covered Truck4) 1 Toyota ProBox5) 1 Toyota Fielder.
+[Bytech Engineering]: Quickbooks Accountant 2015 Software installation & training.
+[Smart Phones]: 7 smart phones for sales team and 2 for finance dept.10 smart phones one for each distributor.
+[Marketing Materials]: 1. Uniforms for distributors & G.A's, supermarkets, employees.2. Posters and brochures.3. Warranty books4. Exhibition and trade fair materials.5. Hiring of roadshow team to launch and sensitize end-users6. Gondolas in all major supermarkets - Naivas (38), Khetia(6), Ukwala(5)m Mulleys(5), Tuskys(53) (Total 107).[Key activity requirements]: Website and App.
+[Intellectual ]: Brand knowledge, partnership, customer database.
+[Financial Resources ]: -Startup for website.[Variety of resources]: -High-quality IT infrastructures, storage facilities and machines. -Great bonding with partners-Have patent, copyright and trademarks for all their contents.-Produce new contents with local companies in other countries.[5. MOVE A NOTE]: Just drag and drop a note wherever you want it. You will see an indication, where the note will be dropped. You will notice that the canvas automatically adjusts to its content, so nothing to worry about. Go ahead and move this note now..[]: Shipping InstallationHAM CEStockManpower.[Talent]: .
+[L&D]: .
+[Computing infrastructure]: .
+[Tooling]: .
+[Domain knowledge]: .[The founders of the business]: - Joe, Jens, Sue, and Sumant.
+[Yale University and SOM]: - Entrepreneurship resources at SOM. e.g. recording equipment etc.- Inputs from SOM faculty members- Inputs from fellow EMBA and MBA students.[Sonny needs to be in Patent bar]: .[Website and Advertisement]: -Connection though internet for dealing -Can advertise key partners onto global .[Founders]: .[Physical resources]: 85 offices in 40 countries.
+[Intellectual]: Advertising patentsSocial networkingSecurity patentsGame patentsEmail and messaging patents.
+[Human]: Google rely on highly skilled personnel.
+[Financial]: Google went public in 2004 and it opened the flood gates of revenu. They are the leading competitor in the technology field.[RESOURCES REQUIRED INCLUDE:]: â€¢ Fundingâ€¢ Staffing (Office, Sales, Trades)â€¢ Materials (job-specific)â€¢ Equipment (vehicles; tools)â€¢ Logo / Branding / Signage / Cards...â€¢ Contractor's Licenseâ€¢ Insurance; Bonding as required.[]: Back officemgv.Statistic tool set.[]: Compliant kitchensTheatre projection equipmentParkingWell located venue.[Supplies to make said outfits]: .
+[Website-sell to customers abroad]: .
+[Booth- ability to sell in conventions/fests]: .[BAT]: - BATs from ALTAEROS energies*** BAT includes software for self docking and protection against harsh weather conditions- Cash comes from customer opt in- Trucks*- Drivers*- Worker to add battery and wifi connectivity- Engineer to do testing after modifications- Remote monitoring*- Onsite security*- Contacts with local municipalities- Graphic designer for logo- Marketing team and Social Media team for outreach and general campaign.[Intellectual]: Obtaining software to carry out my specific demands based on consumer shopping habits to generate stock picks and proper portfolio selection..
+[Human Resources]: Using (Kaizen) continuous improvement as well as Knowledge Skills and human abilities.[Intellectual Resources]: Partnerships and customer databases.
+[Human Resources]: Platform Designer & Back-Office.
+[Google Analytics]: Platform Monitoring.[Hub Team]: .
+[Kit Team]: .
+[Learning Space]: .
+[Educators]: .
+[( Industry VP )]: .[]: FSEBack officeDatabase.[Legal foundation documents]: .
+[Balanced, diverse, high level Governing Board]: ICRC/IFRC are the founders, and will have 4 representatives on the Board. 3 high level representatives will be brought in from outside the RCRC Movement.
+[Grant Strategy and Criteria for funding]: .
+[Lean office infrastructure & staff]: .
+[Sufficient funding to launch the first pilot round]: Critical mass of traditional donors to finance the first pilot round.
+[R&D/learning/PMER methodology]: .
+[Visual identity, and promotional materials]: Flyers, whiteboard videos, testimonies, etc.[Legal Expertise for Design Thinking phase, meet clients]: Provide legal expertise and understanding of client needs.
+[Consultant Laura Collins, to help complete Business Model Summary (4-6 weeks)]: (PM consultant with fintech background at DB). Â£650+vat/day, max 28d estimated so Â£18,200+vat in total, Â£9,100+vat to each party.
+[Legal Expertise to develop MVP products]: - CC to agree model to make lawyers time available to product development- if available, assign LSC resources to shadow/contribute.
+[Put our global network to work: CC internal survey globally]: - use Innovation Lab "challenge" to engage fee-earners internally and feedback at scale on following:# improvements to existing apps# potential new products that could be similarly packaged on this solution# potential existing clients or leads that would be interested in such products.
+[CC Product Manager]: - AV to help setup the business model/JV- PvE could help progress the product management activities for initial 10 weeks or until we commit to go full scale.- Manage this JV as one of Legal Digital Products portfolio- Products lifecycle management- Products feedback management- Publish products via OSP and content marketing management.
+[CC Marketing & Coms]: - support in creating materials (Sales Landing pages, Product Release Notes, etc.)- Press Releases.
+[From Neota side: Rick Seabrook]: could commit 50% of time to this (trip to India in mid May and one or two other days out of town for conferences etc. coming up.).
+[Get Innovation Sprint support]: Help CC create a template for just product delivery(ourselves by following the model or full service by Strategyser to help us do that, 180K EUR)10 weeks, dedicated coaching, weekly reviews.Weeks 1-2 Kick-off workshop Self-guided online lessons Ongoing remote coachingWeeks 3-10 Ongoing remote coaching Ideation workshop Testing Presentation and debriefhttps://strategyzer.com/enterprise/innovation-sprint.
+[longer-term: proprietary knowledge and legal experience]: - CC lawyers to oversee each products- consider GSSC LSC, TR or others for basic maintenance.[Intellectual Resources]: Partnerships and customer databases.
+[Human and Support Resources]: Back-officePlatform ManagerHigh-quality teams.
+[Operational Resources]: Data analysis and processingData storageIT systems.[Physical]: Chairs, toys, dishes, art supplies, desks.
+[Intellectual]: Customer profiles.
+[Human]: receptionist, certified daycare provider, business manager.
+[Financial]: vendors, inventory, buildings.[Case Managers]: Specialty CasesAdoption ServicesDisabled childrenGeriatric ( complex diagnoses )Military Liason.
+[LPN's]: Staff nurses, direct patient care .
+[RN's]: Triage Nurses, Surgical Nurses, Midwife assist.
+[Meddics]: Training of active duty soldiershospital roundsPerforming Vital Signs.
+[Supply/Equipment]: All medical and surgical suppliesMaintenance of supplies and equipment.
+[Providers]: DoctorsPA's (Physician Assistants)Nurse PractitionerMidwives .[Estrutura de distribuiÃ§Ã£o e comercializaÃ§Ã£o]: .
+[Patrimonio intelectuaL]:  RH.
+[I & D]: .
+[ComercializaÃ§Ã£o]: .[detailed customer databases]: .
+[powerful vendor]: .
+[creative publisher]: .[Higher level Estate Planning Training]: for Drs. Estate Plans.
+[SYSTEMS ala Academy of estate planners]: .
+[Adobe Captive for Elearning]: .
+["virtual" big firm]: Through my library and especially the CLE downloads I develop a series of expert "co-counsel" I can "walk down the hall to" just like a big firm and "ask questions" and get immediate prepared and organized answers with references and concepts to explore just like or even better than big firm.[Online Page]: .
+[Phone of the office]: .
+[Transportation ]: .
+[Chat or email]: .
+[Storage Rooms]: .
+[Fabric and products]: .
+[Manufacturing company and people]: .
+[Key people and partners]: .[$25,000 for minimum viable product (simulator)]: .
+[$25,000 for minimum viable product (game)]: .[Good Internet connection]: .
+[Professional premises]: .
+[Meeting room]: .[Manufacturing]: Right now, we are in need of a factory to create our product on a mass scale.
+[Website]: We will need a platform to distribute from, and possibly means of advertising said platform..[Financing]: .
+[Expertise]: .
+[Solar panels]: .[]: Startup funds.
+[]: Software developers.
+[]: Bakers.
+[]: Marketing specialists.
+[]: Customer service representatives.[Overhead]: -Gym reforms-Machinery with data interface-Generator mainframe with machines- Entry/exit control checkpoints.
+[Tech side]: -Proprietary software-External servers-24/7 maintenance team.[Intellectual]: We own the domain name and hosting.
+[Human]: Knowledge of how to build and design websites, working with clients on specifications.

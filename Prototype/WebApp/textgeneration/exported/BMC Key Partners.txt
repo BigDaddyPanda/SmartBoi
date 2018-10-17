@@ -1,0 +1,767 @@
+[Optimization and Economy of Scale]: Windows Azure platform provides scalability and third-party hosting.
+[Reduction of risk and uncertainty]: Azure platform can handle high server loadsBootstrap and Node.js libraries handle portability and responsiveness.[]: Blogger.
+[Event Organizers]: .
+[Paper Supplier]: .
+[Producers of Laser Cutters]: .
+[Bloggers]: .[]: Food suppliers, wine supplier and interior designers .[Lauren Adame]: Investor, marketing, and distribution .
+[Chris Adame]: Investor and Head Brewer.
+[Joseph Salzillo]: Investor.
+[Martha Aldana]: Investor and Brewer.[Business arround parking zones]: .
+[Government support]: .[Woodmakers / harvesters]: .
+[Manufacturing Firms]: .
+[Transport and Trucking Firms]: .
+[Delivery Companies]: .
+[Outfitting Firms]: .[Infrastructure]: Servers (Cloud)Security (SSL Certificates).
+[Payment Providers]: For paying the subscriptions..
+[Vodafone]: Run a pilot case study (like AT&T - att.scanlife.com) to test the affiliation model..
+[FB - API]: Facebook API for extracting user's demographic info..
+[NFC suppliers]: like RapidNFC.[Angel Investors]: Venture Capital & Private Equity.
+[Universities]: .
+[Corporations]: .[Mates]: .
+[Personal]: .
+[Business Partnership]: Angel investors.
+[Online market]: .
+[abc]: cdefg hijkl mnop qrst uvw xzy.[Former Government and Military Personnel]: Members, Partners and Associates with expertise in leadership and training development, management research, contracting, and program management..
+[Business Research Academics]: .
+[Contracting Officers]: .
+[Stakeholders for Business Success and Economic Development]: Governmental AgenciesSmall Business AdministrationVeterans AdministrationCollege of William and Mary, Mason School of Business..[Healthy Eating Initiatives]: .
+[Environmental Activist NGOs]: .
+[FDA]: .
+[Major Retailers]: .
+[Insurance]: .[Health care systems]: Particularly those that take care of complex patients or are a source of many "second opinions," e.g. academic centers, cancer centers.
+[Motivated patients]: e.g. patients who see many specialists on a regular basis to manage one or many complex, chronic health conditions.
+[Third party EHR vendor]: - EHR vendors such as Athenahealth, EPIC, Cerner- Promote integrated capability.[Fashion Designers]: .
+[Local Brands]: .
+[Global brands - Factory Outlet concept]: .
+[Media & Publishers]: .[The bus company]: .
+[Transport advocates]: .
+[Government]: .
+[Local community organisations / reps as hosts]: .[Data Providers]: .
+[Emergency Management]: .
+[Resellers]: .[Individual contributors]: .
+[Agencies, Corporations]: .
+[Universities, Schools]: .
+[Industry: Manufacturers]: - Ubiquity of product- Push quality/quantity of product == push Appstore.
+[Industry: Telcos]: as sponsoring partners: Dataplan/SIMs etc..
+[Industry: Software]: as sponsoring partners.
+[Media, Press]: .[1.) Massage Therapy Centers]: Offering massages after rehabilitation..
+[2.) Elder Care Events]: Events at Nursing Homes that individuals can win prizes to our facility .
+[3. Health Insurance Companies]: Offering great deals to provide great value and quality service..[Raw Materials Suppliers]: .
+[Corporate Events]: .
+[Franchisers]: .
+[Bank]: for promotions or payment channels.
+[Drink Companies]: Because we focus our Value Propositions in our food product.[Mobile payment platform]: - LevelUp- Square Wallet- Google Wallet- Paypal?- credit card companies?.
+[Merchants]: .
+[App store]: .
+[Advertisers]: .[Financing (Capital Leasing companies)]: .
+[Need to develop the reverse of "follow the water" to understand all partners. Needs to be further explored in an actual deal. All stakeholders are potential partners, and the roles of each stakeholder vary depending on the business model and local market.]: .
+[Definitions: An Aggregator can provide any of the following services to enable a market: contractually represent multiple property owners; access to capital; Provide BMP technology; and implement BMP.]: .
+[All key customer segments, water takers/makers/other users, are partners depending on the model. ]: .
+[Communities and municipalities. ]: .
+[Financing aggregators (capital lease companies are an example)]: .
+[Third party system implementers/managers, maintainers]: .
+[Risk Managers and insurances.]: .[1) Farmers, 2) Cooperatives, 3) Public sector Research and Development organizations, 4) Private companies, 5) Corporate Sector, 6) National and International Donor agencies, 7) Agro-based industries, 8) Researchers, Universities.]: Water conservation is a dire need of Pakistan in a water stress environment. Water management can be done through different technologies i.e. Drip irrigation. However farmers cannot be reached directly therefore there is a need to involve different partners for demonstration, dissemination, sales, research etc.   .[Gyms and Fitness Facilities]: - Broad Geographical Area, focusing on key locations- Specific emphasis on non-chain fitness centers.[Derrick Hamrick Acer Rodgers Alex Forsett Taylor Watkins]: .[Experts in creating new ventures]: Universities startups"SENA" corporation.
+[Experts working with indigenous people]: Colombian NGO's UniversitiesIndigenous councils offices .
+[Suppliers]: Master Indigenous - individual Indigenous Community's Leader.
+[Sponsors]: Colombian brands that are willing to make a special promotion of their products mixed with the indigenous products "SENA" corporationPatient investors Angel investors.
+[Advertising]: Mass media advertising agenciesAt the universities- Cultural Offices.
+[Goverment ]: Ministry of culture.[Healthcare Service Payers ]: - Traditional: Private and public health insurers.
+[Alternative pay models]: - Physician concierge services.
+[Healthcare Service Providers with Alternative pay models]: - Concierge medicine - Bundled payments- Patient-centered medical homes- Accountable care organizations.
+[App developers]: .
+[Health care professionals]: .
+[Regulatory agencies and professional societies]: .
+[Device companies]: .
+[Sensor companies]: .
+[Lifestyle / Sports industry]: .
+[Food / Agriculture sector]: .
+[Public sector / Government]: .
+[Long-term partners]: .
+[Short-term partners]: .
+[Physican concierge services, alternative pay models]: .[Firm:]: 1.Communities2.Individuals3.NGO's4.CSR Wings5.Government Bodies6.Volunteers7.strategic Advisors 8..Investors.
+[Products:]: 1. Business Deployment Essential partners2.Raw- materials partners3. End Product Distributors4.Sales partners.[]: -creative/business marketplaces-insurance company-shipster delivery-creative membership organizations(SCA,ASCAP)-small rental houses.[People who wants to pitch]: .
+[Experts with domain knowledge]: .[Angel Investors]: Venture Capital & Private Equity.
+[Universities]: .
+[Corporations]: .[who are the key partners and suppliers. what key resources are we acquiring from partners. what key activities they perform and when. ]: .[Dairy farmer groups]: .
+[Distribution partners]: .
+[Starbucks]: American global coffee company and coffeehouse chain.
+[Mengniu and COFCO Corporation]: Food and beverage company based in China. Goal to expand its product portfolio to include a full range of dairy products for the Chinese market.
+[Ingman Foods]: One of the largest food manufacturers in North Europe, holding a leading position in the dairy sector in Finland, Sweden and the Baltic countries.
+[Artis]: Russian distribution.
+[Cocio Chokolademaelk]: Danish producer of chocolate milk.
+[Lurpak]: Danish brand of butter owned by the Danish Dairy Board.
+[First Milk]: The largest dairy farmer co-operative in the United Kingdom.
+[DMK]: Deutschen Milchkontorâ€™ a future merger of NORDMILCH and Humana..
+[Molvest Group]: Russiaâ€™s third largest dairy company, to jointly produce yellow cheese for the Russian market.
+[Biostime International Holdings Limited]: Provider of high-end pediatric nutritional and baby care products in China.
+[Milch-Union Hocheifel]: Eighth largest dairy co-operative in Germany.
+[Milk Link]: United KingdomÂ´s fourth largest dairy co-operative.
+[Mata Holding]: Mobile packaging facility. First joint venture partner found in Africa.
+[Milk bars]: .
+[Shops]: .
+[Kiosks]: .
+[Mobile traders]: .
+[Processers]: .[Same as Brick School Model + technology suppliers]: .
+[Technology suppliers]: .
+[Media and content distributors]: .
+[Other education institutions]: .[Government]: .
+[Social Enterprises]: .
+[Charitable Donators]: .
+[Philanthropist Investors]: .
+[Impact Investors]: .
+[NGOs and CBOs]: .[Software developers]: .
+[Graphic artists]: .
+[Testers]: .
+[Early learning centers]: .
+[Game designers]: .
+[Educators]: can give input about learning objectives and presentation.[Supplier]: Traditional market.[Data supplier]: Currently - BarChart.comOther possible providers: CME.
+[Web services]: Conceptual website: arec.arizona.edu/hedgesmart/ Landing page:hedgesmart.net hosted by godaddy.comFuture providers:  MS Azure, AWS.
+[Beta test]: International FC Stone.
+[Potential Key Partner ]: Futures advisory services.
+[Mentoring Services]: NSF I-Corps programU of A Tech Launch Arizona.[Corporate groups]: Companies that are connected over their industry sector and have an interest in communicating and mobilizing their client base (e.g. pension funds whoÂ´s clientele often is passive due to non-understanding their own role).
+[Sharing]: In this basic level of the network people share their passion and interest for a specific topic, which results in growing knowledge and fun in the topic.[Media Prima]: .
+[TVAlhijrah]: .
+[Radio IKIM]: .
+[Local manufacturer]: .
+[China's manufacturer]: .[Sippliers]: One of Pita Palâ€™s competitive edges is to offer a healthy food. So freshness and quality of food they buy from their suppliers is important..
+[Media]: Towners represent around 95% of its customers and Pita Pal plan to advertise through local papers. So a strong partnership with a local paper is a good asset..
+[Investors]: To begin with the project of Pita Pal, Investors are important. So another key partnership is the one with the Entrepreneurship Program for example, which attributed a significant amount in loan to Steve Jones..[Potential key partners ]: NGOs, film production companies, stakeholders, film financier.[Will you be able to produce and deliver your value proposition? ]: .
+[If not, who are the key partners that must be involved or available to produce and deliver the value proposition?]: .
+[How can you validate that these are the key partners and that they will be available when you need them?]: .[Donator, nonprofit association]: DonatorMember (voting for selected projects)"Pate" selecting "their" personal, inidividual project.
+[Banks]: .
+[Government (stamp NPO)]: .
+[Lawyer]: .
+[Alumnis]: .
+[Leaders nonprofit association]: PresidentFinanceTechnology.[Buyer - Supplier]: -Verizon Franchise-Lottery-Western Union.
+[Major Brand Manufacturers]: -Motorola-LG-Samsung-HTC.[Health Food Stores]: Down to EarthLocal Whole FoodsManaAlive and Well.
+[Recreation Shops]: Sports AuthorityAdventure Sports MauiAction Sports Maui.
+[Tourist Shops]: The Nature Center (Iao) Gift ShopMaui PlantationMaui Botanical GardensSacred GardensABC StoresHotel Gift ShopsFoodland (Souvenir Section)Longs (Souvenir Section).
+[Whole-Salers]: Glass spray bottlesEssential OilsWitch Hazel.
+[Maui High ACOM]: Labels.
+[Maui High Wood shop Class]: Crates to carry the bottles.[Service Providers]: e.g. Electricians, Plumbers, Carpenters, Emergency Service etc..
+[SIM card sellers, Province/General Shops]: .[Agents]: .[Restaurant supplier]: .
+[web site developer]: .
+[Recyclers/Environmentalists]: .
+[Maintain organization]: .
+[Truck services]: .
+[Local farmers]: .[Rescues & shelters]: .
+[Dog and cat food/toy producers]: .
+[Animal advocacy groups]: .
+[Mindful living orgs & pubs]: .
+[Publisher]: .
+[Tattered Cover - book]: .[Payment Providers]: .
+[Cloud Service Providers]: .[Infrastructure Providers]: Amazon Web Services.[Who are our Key Partners?]: Don Sumdany Facilitation & ConsultancyNewsCredEMK CenterLight castle Partners LtdBYLCBCCPCPC NSUBd JobsWebAbleBangladesh Brand ForumNSU HR ClubSAYS.
+[Who are our key suppliers?]: QED WORKS UK.
+[Which Key Resources are we acquiring from partners?]: venuepromotionlogistics.
+[Which Key Activities do partners perform?]: NetworkingPublicity.
+[Why we need Partners?]: Optimization and economyReduction of risk and uncertaintyAcquisition of particular resources and activities.[Gas Stations]: .
+[Customers (Word of Mouth)]: .
+["Say-It-With-A-Condom"  Supplier]: .
+[Health Center (hopefully)]: .[Atlassian]: .
+[Amazon Web Services]: .
+[.Feedback domain]: .
+[Ratko IvanoviÄ‡]: .[Clinics]: General PractitionersDentistsOB/GYNOpthalmologistsOther specialists(medical doctors).
+[Health Insurance Companies]: .
+[Key suppliers in healthcare]: medical equipmentdental equipment.
+[Laboratories]: .
+[Pharmacies]: .
+[Health Industry]: GymsSpasOutdoor Sports CentersMedical SpasHealth Clinics.[Touristic Content Provider]: +Touristic guides+Travel Service+Outdoor Activity Hoster+LBS apps: Foursquare, Yelp etc.
+[Car related companies]: +Car rental companies+Taxi company+Automobile companies+GPS companies+Wifi companies.
+[Mobile Vendors (app preinstalled)]: .[Brazilian Women's Group]: .
+[CHA Mental Health Program]: .
+[Daycare centers]: .
+[Food Co-ops]: .
+[Medical Offices (Allergists / Pediatricians)]: .
+[Pet boarding facilities]: .
+[Job training / certification programs]: .[Bars]: .
+[Beer Reps]: .
+[Bond, Winner, Chesapeake)]: (personal relationships with multiple distributors).
+[Potential Investors]: .
+[Contract Brewing?]: .[Product Suppliers]: Vegetable, fruits, other bio derived healthy food products.
+[Car Leasing Service]: .
+[Celeiro (could be one...)]: Portuguese bio-products firm, renowned in major cities.Could turn out as a good ally or as the main competitor....
+[Microgreens.pt]: Firm created by ex-CatÃ³lica students that deliver healthy bio and tasty products..[Deni Design and Detail]: .
+[PR Newswire]: .
+[Twin Contracting ]: .
+[ADR]: .[Bicycle Galleries ]: .
+[Universities ]: .
+[event planners ]: .
+[sport clubs ]: .
+[Tarabook  ]: .
+[Abo El Gokh]: .
+[sprocket company ]: .[SSGQG]: SSGQG has created a new e-book device and has agreed to an exclusive partnership with Tinkleman as their exclusive content partner..
+[Amazon]: Tinkleman sells some of their products through Amazon with on-line direct ship purchases..[Brazilian Women's Group]: .
+[Health-focused nonprofits]: .
+[Amazon.com]: .
+[Etsy.com]: .
+[Food co-ops]: .
+[Grocery stores]: .
+[Hospitals]: .
+[Community clinics]: .
+[Daycare centers]: .
+[Pet boarding facilities]: .
+[Pet product stores]: .[Patients]: Patients requiring anticoagulation..
+[Physicians]: Prescribing treatment..
+[Nurse Practitioners]: Assisting the Physicians supervising patients treatment..
+[Pharmacies]: Supplying medication to patient on a prescription basis.
+[Blood Labs]: Hundreds of Labs spread around the country.  Evaluate the coagulation of the patient and inform and record the INR index..[Key Partnerships]: Our key partnerships could be with the Drake stadium so that we would have a stadium to use. Our key suppliers could be from nike/adidas/puma/etc. to get the gear/equipment that we'll need..[]: Pepsi.
+[]: Coca cola.
+[]: Nestle (nestle lebih higienis dan menjamin konsistensi kualitas air ).
+[]: Trusted food suppliers.[Corporate Social Venturing]: Consider Corporate Social Venturing Partner - Need for Sustainable Supply Chain- Clear link between fertility planning and conservation. - Blue Ventures Risk of Reduced Grant Income.- CSV could provide injection of resources to support Community Business Model.     - Finance     - Mentoring     .
+[M Pesa]: - Use of Mobile PaymentSecurityReduces need for cash transactions.
+[Fishing Companies]: Murex & Copefrito.[Manufacturing Constractors]: .
+[Retailers]: .
+[International Supply Chain Partners]: .
+[Star Athletes]: .[Audio]: Establish a partnership with collaborative audio platforms, like AudioTool, who want the same exposure and have a similar business model.[Ingredients' producers]: BarleyBottle(...).
+[Distributors]: .[Caterers]: .
+[ Event hall]: salon de eventos .
+[Party Supply]: .[Open hardware designers]: .
+[Software developers]: .[Partners]: Finance-IT-Franchises/Affiliations-Brokerage- IADA PIADA VADA NCADA SCADA FLADA MADA(Minnesota) MADA(Maryland) MSADA (See Link at bottom ADP Dealer Services)Accounting-.[TTPOST]: .
+[DHL]: .
+[FedEx]: .
+[Business Center]: Co located at FBO.
+[Resturant]: Co located at FBO.
+[Local authorities]: Partnership with respect to growing commerce within the community.
+[G.A. company for Flight Ops]: For Example a General Aviation company such as Briko Air Services.
+[E-commerce ]: Local e-commerce direct product  distribution enablers.
+[Hotels & Guest Houses]: Weekend package deals.
+[FBO land leases and contracts]: .[Local Photographers]: testing.
+[Main Investors]: Youniversity VenturesSequoia Capital.[Digital Built Britain]: - HMG Department of Business, Innovation &amp; Skills- Cabinet Office- Engineering Construction Strategies ltd.
+[Telemetry Providers]: QuuppaPeopleTrackingNavizonWifarerSenionlab.
+[Academia]: - UCL CS, Bartlett, Engineering- Cambridge- Bristol.
+[Open Innovation Networks]: - Github- Satalia- Quuppa.
+[Entertainment - Possible]: - Video game AI engines (Xbox One Cloud AI)- AI for visual FX for films.[Ken Panda (Small Brands)]: Turkish designer in Berlin.  www.kenpanda.com.
+[Heather Murphy- HE Organics]: Designer in Indiana.www.heorganics.com.
+[Canboli]: Baby garments produced by Orimpex.http://www.canboliwebshop.com.
+[Orimpex (Garment Manufacturers)]: Orimpex is a Dutch-Turkish textile manufacturer that produces organic clothing sourced from Akasya LTD.  They also have specialized knowledge in exporting and customs arrangements, and own Canboli.Will provide 5% commission for each brand sent to them..
+[Akasya LTD | Torateks]: Organic Farm cooperative working with over 700 farmers and 2000 Ha of fields. Also produces figs, apricots, and raisins.www.akasyaltd.com  Also produces yarns and fabrics to shared company Torateks..
+[Storage]: ?.
+[3rd Party Logistics]: ?.
+[Mikado]: SROI calculations?.
+[ETO]: Support for organic farmers.[]: NBA TeamsSport BrandsSteamInvestors.[Learning Management/Content Developers]: LMSs -BlackBoard -Canvas -Moodle -Desire 2 LearnLCMSs -Pearson -McGrawHill.
+[Advisory Council]: Key people in the traditional and non-traditional learning streams to identify gaps and work with beta products.
+[Online Communities]: Ties to Facebook, Twitter, LinkedIn, and other communities.[Advertisers]: Toy companies for a-typical developing kids http://toydirectory.com/DirectoryListing/Category/Special Needs/ ;Providers for these kids (schools, programs, doctors, independent providers..
+[Parents]: school parent groups.
+[Special Needs Organizations]: https://www.care.com/a/10-helpful-special-needs-organizations-1210250634.
+[Volunteer ]: schoolsuniversitiesvolunteer referral services: Volunteer Match, NY Cares.[Angel Investors]: Venture Capital & Private Equity.
+[Universities]: .
+[Corporations]: .[Designer]: .
+[Administrator]: .
+[Plants and flowers supplier]: .
+[Communication manager]: .
+[fertilizer supplier]: .
+[Fertilizer supplier]: .
+[Newspaper contact]: .[NGOs promoting beekeeping]: .
+[Urban and Rural Beekeepers]: .
+[Farmers (whose crops are bee pollinated)]: .
+[Bee products processing Industries ]: .
+[Department Agriculture, Cooperation and Farmers Welfare]: .
+[Urban Nurseries]: .[Digital Ocean]: or any other PaaS like AWS.
+[Content Providers]: HBR, Inc and etc.[Alcohol Manufacturers and Importers]: From Large Scale Manufacturing and bottling companies, to small Exporters and Importers based in Europe, UK, UAE and other target markets. .
+[Traders]: Traders specializing in Underbond trading and doing business globally from the Western World to Middle East and South East Asia. The bigger the network, the better as it gives us not only International exposure but diverse choices to buy and sell our products..
+[Bonded Warehouses]: Having Bonded Warehouses as Key Partners is essentially important because not only they handle the transport and logistics, but also gives us access to a vast database of potential customers in the market. For Underbond Trading of Alcohol,having partnerships or accounts in bonded warehouses such as Loendersloot (Netherlands), Seabrooks (UK) is essential as they are major players in Storage and Logistics which forms a major part of Trading business..
+[Freight Forwarding Companies]: Having Freight Forwarders as partners can be highly beneficial to the business as Forwarding and Logistics form a major part of any trade business..[Canacero]: .
+[Canacintra]: .
+[Mexican Government]: .
+[Mines]: .
+[Financial Institutions]: .
+[Logistics companies and distribuitors]: .
+[Consultants]: .
+[Railroad companies]: .
+[Faculty of Metallurgy, University of Coahuila]: .[Retail Chain Aggregators]: .
+[Department of Agriculture and Cooperation, Government of India]: .
+[Village Panchayats]: .
+[NGOs acting in rural development]: .
+[Food Processing Industries]: .
+[Truck Owners]: .[Suppliers]: Detergent Companies - Provider of trusted quality laundry detergent and fabric conditioner.Laundry shelves and/or other supplies.[Daycare centers]: .
+[Food Co-ops]: .
+[Allergists/Pediatricians/Mental Health offices]: .
+[Brazilian Women's Group]: .
+[UMass Lowell]: .
+[Tufts University]: .
+[Job training programs]: .[Us 4 individuals]: .
+[Investors]: .[small businesses]: .
+[internet]: .
+[investors]: .[Our partners is the delivery service that we're going to use and a P.Box that is in Texas]: .
+[Our dads are our partners and the key supplier is the company that is in China from which we are ordering our product]: .[German Football League]: .
+[Professional Football Clubs]: .
+[Suppliers]: .[Cancas4]: -Local farmers -Suppliers .[Angel Investors]: Venture Capital & Private Equity.
+[Universities]: .
+[Corporations]: .[Key Partners]: Game DevelopersAnimatorsProgrammersAnalyst ProgrammersYouth Psychologists ( Smart-teen Network member)Medical Doctors (Smart-teen Network member)NGOs working with Children or Youths.[Health Care Associations]: Doctors, Pharmacists, Dermatologists, Family Doctors.
+[Software developers]: Researchers and companies specializing in machine learning and pattern recognition.
+[Specific people]: -Allan Jiang-Elizabeth H. Hamilton-Two Toasters-Annic Joibin.[Public Institutions]: Education Counselors, Ministry of Education, Public Schools, Public Universities..
+[Private Institutions]: Private Associations, Foundations and Organizations.Companies.Private Schools.Private Universities..[Local businesses]: The local businesses are key partners, especially those located in the same mixed-use commercial space. They depend on each other to help drive more business. .
+[Current Members]: Leverage current members connections to drive business. Work together with members to constantly make the gym a better place. .[Government Organiaztions]: .
+[Employers]: .
+[Individuals]: .
+[Auditors]: .
+[Health Insurance Covers]: .
+[Affordable Health Services]: .[Who are our Key Partners?]: .
+[Who are our key suppliers?]: .
+[Which Key Resources are we acquiring from partners?]: .
+[Which Key Activities do partners perform?]: .
+[MOTIVATIONS FOR PARTNERSHIPS:]: - Optimization and economy- Reduction of risk and uncertainty- Acquisition of particular resources and activities.[Yoga Studios/Instructors]: .
+[Meditation Studios/Instructors]: .
+[Counseling/Long-Term Therapy]: Good relic for people who eventually leave or move on from continued care..[Sellers of plants, Tree nursery, PCB manufacturers, Sensor manufacturers, designer, architects, Other producers of similar systems, Companies specializing in systems for agriculture, Associations]: .[Companies]: .
+[Angel Investors]: .
+[Universities]: .[Nissan]: produce MUJI Car.
+[Thonet]: Oldest German furniture maker & other garment supplier.
+[Affiliates]: 19 affiliates.[Companies to source boxes]: E.g. Furniture, shoes, whiteware.
+[Distribution Partners]: E.g. Australia Post.[Partners]: Web Devolopment CompaniesMobile app Devolopment companiesNetwork Infrastructure CompaniesTelicom CompaniesISP.[Vendors]: T-shirtEmbrolder.
+[Delivery]: JNETikiDHL.[Stakeholders]: People needing supportCarersPeer MentorsVolunteersExperts by Experience.
+[Strategic Partners]: Social Work University DepartmentsCalderdale CCGStaying Well in Calderdale NetworkCarers Project Voluntary Action CalderdaleNorth Bank ForumLocality.[mmm...]: .[Food service suppliers (like Cisco)]: Companies with high quality product, reasonable pricing, knowledgeable representatives with their own resources and ideas..
+[Banker/Personal Investors]: A need to partner with individuals who could offer financing options and assistance..
+[Local]: Chambers, Market Days, local government (for possible facade grants), Colleges/Universities..
+[Philanthropic Groups]: Partner and sponsor certain, local organizations when possible..
+[Local Restaurant Group/Alliance]: Partner with any local groups available. (thinking of the Victoria Coffee Roasters).
+[Other local Businesses]: Offer economical advertising space for other local businesses on take out menus. Other businesses wouldn't be competitors..[3 fundamental units]: AdidasSalomonTaylor Made-adidas golf.
+[Adidas ]: Having sporting goods specially track, soccer, etc, which cover mainly footwear and clothing.
+[Salomon]: Having sportin goods, specially for winter sports.
+[Taylor Made]: Having sporting goods, specially for golf products.[Kaospilots ]: Researches, idea evaluation, cooperate with teams have similar ideas, or maybe find a way to involve people from there to generate their own visions... .
+[Buring communities like Afrikaburn and Burningman]: sharing their community resources .
+[sustainable development community ]: .
+[Participants ]: .
+[Local restaurants&shops;]: .[Food banks]: .
+[Celebrity chefs]: .
+[Large food chains]: .[Hospitals and medical centers in Armenia]: .
+[Hotels and resorts]: .
+[Tour agencies abroad]: .
+[Insurance companies abroad]: .
+[Ministry of foreign affairs of Armenia]: .[Depository Bank]: .
+[Payment Gateway]: * EPG - GB* Swift - Int'l.
+[Card Processor]: .
+[Compliance]: * KYC* Central Bank Reporting.[Indian Veterinary Research Institute ]: .
+[Carousel Manufacturers]: .
+[Banks]: .[Key Partnerships]: >Modern Digital Images>FedEx.[Monica]: Terry & Carl.
+[What does rest of Monica look like]: .
+[Where are Monica Contract negotiations]: .[Startups]: .
+[Angel Investors]: Venture Capital & Private Equity.
+[Universities]: .
+[Corporations]: .[Freelancers/creative agencies]: .
+[Guest trainers/content experts]: .
+[Small businesses in Milton Keynes and surrounding areas]: .
+[Networking groups]: .[Pharmacies.]: .
+[Hospitals.]: .
+[Doctors.]: .
+[Red Cross.]: .[Key Partners]: 1. Suppliers - Brands and private lables2. Optical Manufacturer3. Investors - IDG ventures, Unilzer    Ventures4.Banks and Credit Card companies.[Small business and Corporations]: .
+[Banks]: .
+[schools]: .[Shipment]: JNEGo JekTiki.
+[Retail]: Ace HardwareLocal electronic & hardware stores.
+[Platform]: WebsiteKaskusTokopediaAmazon.
+[Producing]: Partnering with factories produce similar lines of goods..[App Store]: .
+[Apple - App Store]: .
+[Android - App store]: .
+[Green Energy organizations]: .
+[Friendly Environment gruppes]: .[Students ]: .
+[Employees]: .
+[server & datacenter provider]: .
+[office space provider]: .
+[Telecom network providers]: .[App Developers]: .
+[Partner Brands]: .
+[Databases]: .[Startup Weekend]: Promotion of our website for entrepreneurial teams to find real-world problems to solve.[Sille Sikmann/ Scheckmann]: Shoe designer in Tartu.
+[OÃœ Samelin]: Footwear manufacturer in Tartu.
+[International]: Designers and handcrafters, e.g. HOMETOWN SHOES http://www.hometownshoes.com/bespoke.
+[Testers]: .
+[Producers from Etsy]: thoseshoes.com.
+[OÃœ Kriuks]: Tanel Suve.[Existing community food growing groups]: They're all different and that's partly what's to be celebrated, a reflection of their strong rootedness. They're often quite fragile and ran - wholly or mainly - by volunteers.They may not all want to take part, or they may want to take part to a varying degree.Some may want to run their own side events as part of garden gate open weekend..
+[National and local government agencies with an interest in promoting healthy, sustainable, and fair food]: .
+[Local food-related charities and other food social enterprises]: .
+[Volunteers]: Existing volunteers engaged in community food groupsRecruit new volunteers to help run the festival.
+[Local businesses]: - Businesses present in the existing food growing communities- Other local businesses with an interest in local food (e.g. restaurants; open farms; independent grocers) and in promoting community regeneration, environmental action, health.
+[Other relevant local festivals]: filmheritagehorticultural.
+[Community Safety]: Community Safety Officers > community food growing projects as engines of greater social cohesion and lower anti-social behaviour / crime.
+[NHS cooking bus]: .[Stool Manufactuers ]: -working together -improving performance -gain greater understanding of making of our products .
+[Universitys or Schools who purchase the stools]: .
+[Distribution partners ]: .
+[Call center ]: .
+[Website developers ]: .
+[Hardare Suppliers ]: .
+[Marketing staff ]: .[Stakeholders]: People needing supportCarersPeer MentorsVolunteersExperts by Experience.
+[Strategic Partners]: Social Work University DepartmentsCalderdale CCGStaying Well in Calderdale NetworkCarers Project Voluntary Action CalderdaleNorth Bank ForumLocality.[]: ShelbySpotifySirius Satellite RadioSmith Electric GEBest BuyAutoRevo Daimler AG Azure DynamicsAzureIBSJMCEdelbrockABCDow ChemicalGarminUAWNuance Communications.[Facilities' providers]: .[Manufacturing stations/banks]: .
+[Payment systems]: .
+[Utility comps]: .
+[PKU administration]: .
+[Local government/land owners]: .
+[dfdf]: .[Girls 20]: .
+[Hospitality Business Schools]: .
+[50 Hospitality Businesses]: With a high percentage female management.
+[Possible partnerships]: Regarding the benefits.[Brendan Ryan is CEO and founder of Hammersmith. Hammersmith is a company that markets durable inflatable rafts that offer military usage.]: .[Retailers]: Retailers will be required to help advertise, distribute and sell the product. .
+[Government Agencies ]: Government Agencies will be especially be integral in advertising and funding. .
+[College Administrations]: Various administrations will be needed for advertisements and distribution of the product. .
+[Chemistry Researchers]: These partners will help in developing our product to create the intended effect and utility..[Watch Manufacturer]: Basic watch and smart watch.
+[Advertising Agents]: .
+[Gyms]: Promotions.
+[Fitness Trainers]: .[HCC]: .
+[Tampa Bay Wave]: .
+[Working Women of Tampa Bay]: .
+[Suntrust Bank]: .
+[Coleman Foundation]: .
+[Startup Weekend]: .[Intellectual property license holders]: .
+[Entertainment "guildes"]: .
+[App stores]: .
+[(Mobile) internet providers]: .
+[Device manufacturers ]: .[Restaurants]: .
+[Hotel, Hostels]: .
+[Local stores]: .
+[Coffe shops]: .
+[Related brands]: .[PROJECT SPONSORSHIP:]: STAKEHOLDERS,ORGANISATIONS,FAMILY AND PERSONAL FUNDS,MOBILE-COMMUNICATIONS.[User Interface Developers]: Overall, open minded and creative designers ready to be guided by experts in dementiaÂ´s patients.Our skills will let us develop this part of the project..
+[User Experience Experts]: As the UI designers, they must have experience with final users and be ready to implement changes promoted from the product tests.Our skills will let us develop this part of the project..
+[Software Engineering Company]: For planning, developing and programming the app and the multimedia envinroment.[Principal Partners]: -Suppliers of the seed of the already brown cocoa and the suppliers of the pulp of the fruits.-Secure suppliers of stevia.-Transport companies to secure the product in time in distribution.-Commercial agents.-Package companies..[The Transport Companies]: Because they provide our primary customers with the means to travel..[Startups]: .
+[Angel Investors]: Venture Capital & Private Equity.
+[Universities]: .
+[Corporations]: .[Produce managers]: .
+[Suppliers]: Bob's red mill.
+[Customers ]: .
+[Rubicon Global]: .
+[Mainstreets- City of Boston ]: .
+[Neighborhood Associations]: community composting pressure, local company.[Supplier]: - Import main material such as charcoal from Japan - Supplier Topping (oreo, red valvet, etc) - Mall parties.[Insurance companies]: .
+[Car rentals]: .
+[Hotels]: .[Merchant]: - Internet- Coupon Providers- Companies that offer deals on the website..
+[Additions]: - Point of Sale- Investor- Muslim Community.[Companies]: .
+[Angel Investors]: .
+[Universities]: .[Government]: .
+[Industry ]: .[IT]: My key partner is a IT company that develop de Revenue Management System.
+[Hotel Association]: My  Other key partner is a Hotel Association that help me to promote my entrepreneurship with the associates.[Pension insurance companies]: .
+[Government]: .
+[Sportequipment retailers]: .
+[Hospitals]: .
+[Private investors]: .
+[Sport centers]: .
+[Sportclubs]: .
+[Banks]: .[La Belle]: High quality colostrum products. (Partners from late 2012).
+[Subsidiaries]: 1. Arla Foods Ingredients Group P/S2. Rynkeby Foods A/S3. Cocio ChokolademÃ¦lk A/S.
+[Shops]: Kvickly, Fotex and etc.And other shops in other countries (Sweden, UK, Germany and etc.).[Peter H]: Good to bounce idea off also he worked as consultant - find out what he thinks I/we could start here...[Merchant]: - Internet- Coupon Providers- Companies that offer deals on the website..
+[Additions]: - Point of Sale- Investor- Muslim Community.[Store]: Buying ingredients.
+[Small shop]: Selling.[Cusic's Funeral Service]: .
+[Winnie Dixie]: .
+[Southern Farmers]: .[Haha wink emoticon Gai sensei being badass tongue emoticon I love that moment so much ]: .
+[If a 1 hour old baby can donate her organs to save lives, so can you .... â€ª#â€ŽDonateOrgansâ€¬]: .[Marketing & Advertising Company]: .
+[Hiring company]: .
+[Printing ]: .
+[Plublisher's]: Websites, Facebook, Instagram, Flickr.
+[Dream Catchers ]: The website designers and developers .
+[Reinvesting in equipment ]: To keep with the latest trends..
+[Online Payment on the website ]: Convenient for the customer.[Translation Agencies - Coopetition]: Establishing partnerships with two translation agencies in order to ensure economies of scale & risk reduction.
+[Printing companies - Strategic alliance]: Establishing partnerships with two printing companies in order to ensure economies of scale & risk reduction.[Insurance Companies]: The ability to work with patients to access healthcare services.
+[Pharmacy Companies]: The ability to assist patients with prescribed drugs.
+[Healthcare Professionals]: Those who work to ensure the patients are in the proper care.[Startups]: .
+[Angel Investors]: Venture Capital & Private Equity.
+[Universities]: .
+[Corporations]: .[Key Partners - Nikon
+]: Personal Favorite Camera Company. Partner for providing gear for photoshoots and videos for teams who need more equipment. Will for buy subscription or rent fee..
+[Key Partners - Sony]: A Major Film company who can help push more movie projects to the industry..[Convenience Store]: .
+[Investors]: .
+[Suppliers]: .
+[Bingo Event Coordinator]: .
+[Craft Fair Coordinator]: .[Local Persons]: Locals that want to provide offers to earn some money and get to know people.
+[Professional Tourist Guids]: - are looking for clients- can offer relevant offers and activities to interested Travelors.
+[B&B and Hotels]: - want to provide activities to their guests- can recommend Local Companion.[Regional Governments]: .
+[School of Nurses]: .
+[Highly Qualified Nurses]: .
+[Public Hospitals]: .
+[Private Hospitals]: .
+[Private Investors]: .
+[Hospital looking for home care services]: .[Coca-Cola]: .
+[Pepsi-Co]: .
+[The Alliance for Bangladesh Worker Safety]: This allieance is set up out to improve work safety among Bangladeshi garment workers by training, empowering, transparency, and assesment of factory fire and building safety.
+[Kellog's]: .
+[World Wildlife Fund]: .
+[Dairy Farmers of America]: .
+[Johnson and Johnson]: .[Key Partners]: - Equipment Vendors- Electronic material suppliers.[Landlords in town]: Give them an incentive, such as a small royalty, to have their tenants use our services.
+[Campus (CoBE)]: -for advertising and promotion-to reach diligent students at the university.
+[Real estate agent]: Provide service to tenants.[Krugerlabs]: Development and marketing.
+[Arduino technology]: For implementation of the iot technology.
+[Internet provider]: .
+[Municipality and government]: .[Who Helps Volkswagen?]: VW has had to consider the following: Who are their Key partners and suppliers? What is the key resource and what functions are performed?The answers are BG Products Inc., Mickey Dayan and BG International (a European Distributor), Industrial manufacturer Eaton Corporation (power and equipment like the VW engines), Blue motion technology, and VW organizations & partnerships worldwide..[Families]: Establish an important connection with parents. CREATING A DEMAND. Case of study: Kono..
+[NGOs]: Relationship established to teach to background children a personal course of financial literacy.
+[Private Schools]: interested in purchase an app or website course.
+[Volunteering ]: University students. People who wants to help in financial personal course.
+[Government]: Integrate with public schools programs.Credits awarded and added to aggregate .
+[Universities]: Students of interactive design facultyStudents of finance facultyStudents work is graded and added to aggregate..
+[Social Enterprise]: Between social enterprises generate relationships of investment.[Dive stores]: .
+[Dive centres]: .
+[Social Media Suppliers]: .
+[Dive tour organisers]: .
+[Mask production supp]: .
+[R&D partners]: .[Religious stores]: .
+[Religious associations]: .
+[Religious products suppliers]: .[Talk to Matt sit ton very on this idea with big companies e teach this stuff too]: .
+[Matt could be a partner with teaching to big companies ]: .[Learning Management/Content Developers]: LMSs -BlackBoard -Canvas -Moodle -Desire 2 LearnLCMSs -Pearson -McGrawHill.
+[Advisory Council]: Key people in the traditional and non-traditional learning streams to identify gaps and work with beta products.
+[Online Communities]: Ties to Facebook, Twitter, LinkedIn, and other communities.[vehicle sales enterprises]: .
+[vehicle rental companies]: .
+[parking/transportation/government authorities]: .
+[utility companies]: .
+[competitors]: .
+[retailers]: .
+[Education Establishments]: .
+[Local Government Authorities]: .
+[vehicle service companies]: Was removed.
+[Solar energy companies]: Was removed.
+[Advertisers]: Was removed and included with businesses in Customer segments..
+[Airports]: Was deleted.
+[Equipment sponsors]: Was removed.[]: Partners would consist of exercise equipment companies and brands such as Nike or Adidas for merchandise.[GOOGLE]: .
+[Officevibe]: .
+[Development Shop]: .
+[Graphic Designer]: .
+[Sales / Marketing Expert]: .[GK Women Cooperatives]: .
+[Oil Suppliers]: .
+[PITHAC]: .
+[ATHAG]: .
+[Master Manghihilot/s]: .[YooMoo are partnered with a number of supermarkets. This allows them to see their products to a mass market, increasing sales and revenue.]: Supermarkets partnered with YooMoo are:- ASDA- Tesco- Morrisons- Waitrose- Sainsburys- The Co-operative- OcadoYooMoo also have a number of frozen yogurt bars around the world and are partnered with the following:- Harrods- Tesco extra (woolwich, brent cross)- o2 - Finchley road- plus many more shopping malls in Greece, Cyprus, Switzerland and Ibiza.[Key Partners]: Owners: Jay Liu & Ray McCue.
+[Food Vendor ]: - Price Rite-Bj's -Armando & Sons -V Mart -Chinese American Mini Market .
+[Motivation ]: We both have passion and the drive for this industry. We know each other for 5 years and know we can commit into this business together to make succeed.
+[Key Supplier Partnerships]: - Has established relationship with the  Chinese Mini Market in Cranston.- Supplied several years of business- Also has established relationship with Armando & Sons; Supplier gives discounted prices..
+[Investors]: Investors interested in the business are also key partners in the business.
+[Johnson & Wales and Local Resident ]: Cooking Asia TSAGSACulinary Arts College Asian Church in RI.[Applications]: IOSAndroidWindows Phone.
+[Promotions]: CineboxJean Louis DavidLÂ´orealShephoraZaraLa MinaFoscoFnacsmartbox.[Myself - Adam Webber]: Book Writer, Article Writer, Site maintenance & Marketing.
+[Amazon]: Key distribution channel.
+[Hire - Nutritionist]: For creating/proofing short easy-recipes with vitamins/effects that alleviate diseases.[Foodies]: Foodies / Festivals in BostonThey don't know about CERO. .
+[Chefs]: They have pull.
+[Front End Customers]: .
+[Food Suppliers]: .[Imaging partner / camera provider]: http://wwww.imec.be/http://www.ximea.comhttp://www.bayspec.comhttp://cubert-gmbh.dehttp://www.adimec.comhttp://3d-one.com/http://www.tattile.com.
+[Photonic pigment supplier]: http://www.jdsu.com/http://www.dupont.com/http://ppg.com/http://www.jdsu.com/http://www.houseofkolor.com/http://www.3m.com.
+[Application partner - Security]: Airports, MBDA, ID Systems, Pepperl+Fuchs, MoD.
+[Application partner - Sensors]: Xsens, Polytec, Leica Geosystems.
+[Application partner - Construction]: Trimble, Nontechnik, Baumer.[* Partners who pay:  
+1- for marketing thier names or brands 
+2- sponsored some events 
+* partners we exchange marketing brands names with 
+ * Suppliers Partners: 
+1- technical support 
+2- medical support 
+3- Doctors for discussion & inquiries.]: Who are our Key Partners?Who are our key suppliers?Which Key Resources are we acquiring from partners?Which Key Activities do partners perform?.[Who are DD's partners? Which ones can turn their business model into something very powerful?]: a) Local companiesb) Coffee manufacturersc) Salespersonsd) Designers and set-up contractorse) Architectsf) Builders.[Key Partners]: Adila's motherKathelyn's mother.[Hosts]: Renting out their space(s): apt, condo, guest room, entire house.
+[Guests]: Ones staying at those rental space(s) for various usage types.
+[Local/regional Real Estate Agencies]: A new source of revenue for agencies: renting out their properties like hotels for extra revenue.
+[Info. Tech Experts]: Website designer, web master, hosting company, data base MGT.
+[Outsourced Cust. Service Reps]: .
+[Local/regional Interior Designers]: In charge of creating unique looks of each and every room/space.
+[Local/regional Photographers]: In charge of delivering unique looks of each and every room/space via airbnb homepage.
+[Local/regional Government]: Collabo with a government of major tourism attractions and buy their outdoor ad spaces, then post airbnb ads.
+[Payment Processing Channels/mediums]: Major bank/credit card, Venmo/Paypal.
+[Lifestyle Media Sources]: Tv, radio, internet, printed material channels covering or featuring lifestyle/travel editorials.
+[Local/regional Cleaning Company]: .[Pool of (certified) trainers]: .
+[Media services]: .[Laundry Services - Dry Cleaning Services]: .
+[Insurance]: .
+[Companies]: In the case of the company letting you operate there without offering it to employees..[Birthright Providers]: Israel Free SpiritIsrael OutdoorsHillel.
+[Jewish Agency]: Onward IsraelMasaLatin American UnitSocial Activism.
+[Tour Provider]: Jewish Journey.
+[Tracks:]: Business: Our CrowdSocent: MESH, PresentenseFood: SoyaCulture: Israel MuseumAgriculture: LeketSocial Justice: JAFI Social Activism UnitOutdoors: LivnotArts: LivnotEntertainment: Actors/Screenwriters/Directors GuildUnderstanding Israel: Stand With Us.
+[Global Reach]: Birthright CanadaUS Latin America (Argentina, Brazil, Mexico, Panama).
+[Livnot]: 3 days....including Shabbat in Tzfat.
+[Hillels]: .
+[Frats]: .[Bee Expert]: .
+[Outside Sumbawa]: Packaging Shipping.
+[Channel Partners]: Health food distributorsPharmaFood shops, etc. Amazon?Cosmetic manufacturersHealth food manufacturers.
+[Branding]: .[Who are our Key Partners?]: .
+[Content Partners]: TV Shows, Movies, Music, News Articles.
+[Media Companies]: .
+[Content Providers]: .[Manufacturers]: .
+[Sleeve Designers]: .
+[Insurance Companies]: .
+[Veterinary Clinics]: .
+[Pet Shops]: .
+[Funeral Homes]: .[]: Some companies such as Pink Lining, John Lewis and Kiddiecare.Material suppliers, zip suppliers and product designers.They ensure durability of the material, they create the actual product. .[Costumer/ Consumer]: The Principal is our costumer because we'll do the trate with him, we'll show our offer and then he decide if it's good buy it.The consumers are kids. They will be who prove the gel. In fact, the gel "Dr. Manitas" is make specially for childrens, will be make by ingredients that will care for their delicate skin like special formula for continuous use that is not give you the feeling of "burning" or dry skin. .[- electrical Engineers ]: .
+[-people who are interested in solar energy]:  especially perovskite solar cells.
+[-Government]: .
+[-Battary companies]: .
+[-chemicals companies]: .[Companies ]: All companies that deliver intangible services..
+[Sponsored groups]: This can be universities, groups specialized in community activities.
+[Corporate groups]: Companies that are connected over their industry sector and have an interest in communicating and mobilizing their client base (e.g. pension funds whoÂ´s clientele often is passive due to non-understanding their own role).[Medical Device Companies]: i. essential for device integration with our appii. motivation: provide seamless monitoring and administering of medication.
+[Pharmaceutical Companies]: i. partner with companies that make specific brands of medicinesii. motivation: giving patients easy access to best insulin (& other medicine) brands.
+[Hospitals/Doctors]: i. partnering with hospitals and doctors so that our full app-device system is prescribed to their patientsii. motivation: access and distribution to large pools patients and potential users.
+[insurance companies]: i. partner with insurance companies so that the ola system is covered.ii. motivation: providing a competitive price for our device-app system to patients.[Eng. Wael]: Because he encourages young people and gave us the chance to test our idea over and over until we got to the best result..
+[ÙÙAdidas company]: Because it is a famous company so it will help the spread out of our product and reduce the risk of consumer..
+[Lenovo ]: This is famous company and worked on this field of phones and phones charging..[Students]: .
+[Teachers]: .
+[School Leaders]: .
+[Parents]: .
+[Tutors]: .
+[Other Edtech Companies]: .[Payment gateways]: .
+[Banks]: .[STAR community]: .[Food Scientist]: - Donna Klockeman (Sr. Principal Food Scientist at TIC Gums).
+[Food Scientist]: Donna Klockeman (Sr. Principal Food Scientist at TIC Gums).
+[Supplier]: - Sanson Produce (avocado supplier in Ohio - connection w/ Dan Sanson).
+[Manufacturer & Distributor]: - Sandridge Food Corp (connection w/ Frank Sidari, VP of Biz Dev).
+[Grocery Store]: - Heinen's Fine Foods (grocery chain in Ohio - connection w/ Jeff Heinen)- Whole Foods- Trader Joes.
+[Intellectual Property Lawyer]: - Laura George (trademark & copyright lawyer at Stroock).[Cloud services providers]: .
+[Electronic manufacturer ]: .
+[Marketlion]: .[Parents, educators, like-minded organizations, specialized media]: .[Fashion Brands with Tall Lines]: .
+[Reduction of risk and uncertainty]: .
+[Acquisition of clothing/advertising from partner companies]: .[Marketingpartners]: .
+[Sponsors]: .
+[Trade customers]: .
+[IT-specialists]: .[Airlines]: flight info.
+[Restaurants]: Food and Delivery.
+[GoGo]: Or any other inflight ISP.
+[Airport Facilities]: .[How]: -Suppliers of raw materials-Cloud service operator-Big data analyst-Algorithm developers .[alter athenaeum]: .
+[entrepurrneurship]: .
+[Time Travelers in Engineering #TTIE]: .
+[Weirdos in Engineering #WIE]: .
+[Engineers Against Launching #dotorg]: .
+[Disobedient in Engineering #DIE Against Cocaine Users in Engineering #CUIE]: .
+[Spanked Soviets in Engineering #SSIE]: .[Green roofs]: .
+[Food markets]: .[Strong Key Partner]: -License contents from cable network, film, television or other media studios-Partnership with big media studios like Warner Bros and Disney which enables for Netflix to stream Star War films first globally-Strong relationship with ISP like  Google Fiber to provide great connections -Inspire writers to write movies scripts and select the best writer to work with and use the script for producing .[Key Partners]: 1. Tailor2. Drapery3. Fashion Store4. Screen printing shop5. Plastic shop6. Shipping partners.[The core team]: Us three foundersGame storywriter in 20142015 & 2016 moderate growth, focusing on sales personnel.
+[Development Partners]: IWA LabsAppGyverFreelancer Network.
+[Customers]: Brands/marketersMedia AgenciesOutdoor Advertisers.[SCVO]: The voluntary organisation councils services.
+[University of the West of Scotland]: A massive supporter.
+[MOD ]: The DOI part of the MOD for land .
+[Land Owners ]: This will be the conference as well .
+[Stephen K The Scottish Government ]: Needs some work still but the contact has been made .
+[Local Authorities]: Every council in Scotland .[OpenIdeo]: Access partners through OpenIdeo.
+[Research]: Partner with universities or research institutions.
+[Pilot Scale]: Partner with universities or research institutions.[]: Strategic Alliance: Breadlife.
+[]: Recycle Machine Producer.
+[]: Farmer and Animal Breeder Community.[TV influencers]: such as mexican actors and mexican singers.
+[Televisa & Tv azteca]: (tv partners).
+[Social media influencers]: such as Yuya and Werevertumorrro (youtube bloggers).
+[Main markets]: Soriana, Walmart, Comercial Mexicana .[Butique restaurants]: .
+[Travel websites]: .
+[Locals in each city]: .[Buck Brannaman]: .
+[Isaac (horses and knowledge)]: .
+[Reata (knowledge)]: .
+[A Legacy of Legends]: .
+[European Internship]: Italy.[Schuuring]: .
+[VWT]: .
+[Other departments within KPN]: .[E takeway ]: .
+[Suppliers ]: .
+[Abena]: .[CC Digital Solutions, Powered by Neota Logic]: (current model for MiFID II apps).
+[NeotaLogic, Joint Venture]: (to explore)- Seperate legal entity owned by CC and Neota Logic- Neota as software platform provider- CC as legal expertise  and products identification provider- period of exclusivity during that initial engagement (10w or so)- Laura OK to talk to clients but to avoid speaking to competitors of CC/Neota.
+[Longer-term economies of scale and scope]: Options with GSSC resourcing or TR both to distribute, perform the logic research/maintenance. (Similar to how Akerman have deployed their cybersecurity product - https://www.youtube.com/watch?v=Tok9XBnzVWg&feature=youtu.be.[]: Distributors.[Ambassadors]: - Create awareness on social media (micro influencer).
+[SEO Specialist]: - Promotes high visibility in Google search and therefore more visits on our website.[Libraries]: .
+[Community Centers]: .
+[Grocery stores]: .
+[Pharmacy stores]: .[]: US Government.
+[]: Military Branches.
+[]: Foreign Government.
+[]: Accreditation Team.
+[]: Colleges.
+[]: Local Education Agencies.
+[]: Public Schools.[ATP]: .
+[WTA]: .
+[TV Broadcasters]: .
+[Players]: .
+[Host City Govt]: .
+[Sponsors]: .[7. OPTIONS ON THE LEFT]: Check out the options on the left here. If you click the little "triple bar" at the top, it will give you a description of each of those options. Just try them out, there is useful stuff like export options, filters or ways to change the appearance of your canvas..[Government Organiaztions]: .
+[Employers]: .
+[Individuals]: .
+[Auditors]: .
+[Health Insurance Covers]: .
+[Affordable Health Services]: .[and Key Stakeholders: Who are the essential groups we will need to involve to deliver our program? Do we need special access or permissions?]: Government for special access or permissions?Tribal or Village LeadersLocal salespeopleNGOs working in the area?.[Glass industry companies]: .
+[Tracking systems makers]: .
+[Research councils]: .[Optima Coatings]: They develop and supply a range of specialist industrial coatings. (Wide range, great support, cost-effective).
+[Marmoran]: Provide customised wall coating systems, some of which can only be sprayed. (Specialist range, few other applicators if they specify).[Optimization of economy scale]: Solar panel suppliersTractor manufacturers.
+[Acquisition of particular resources and activities]: Tractor work shops.[Common Customers]: The initial funding came from Kickstarter. It generated a good community and attracted many investors. Retailers like Best Buy is way to spread the product..
+[co-development]: Provide software downloads and open source for developers interested in creating new apps for the product..
+[Mutual Success]: Partnership with companies like Misfit, Mercedes-Benz, ESPN, The Weather Channel, Evernote, Ebay, Pandora, Jawbone and Runkeeper. .[Media]: .
+[Online travel agency]: .
+[Global Distribution System]: .
+[Online Wholesaler]: .
+[Entertainment Company]: .
+[Travel Agency]: .
+[Local Bureau or Tourism]: .[CERN]: .
+[EU Funding]: .
+[Grand Geneva]: .
+[Rhone Alpes]: .
+[Copass / Tiers lieux network]: .
+[CCI ]: .
+[Ain]: .
+[Private companies]: .
+[Foundations / Donators]: .
+[Mairies]: .
+[Landlord]: .
+[ISP]: .
+[Real Estate Agent?]: .
+[IP Lawyers in Ferney/GS]: .[Venture Investors]: - Angel Investors- Venture Capital.[Chinabest]: Manufacturer of Moto Safi Single & Double Burner Stoves in China..
+[Moto Poa Limited(Tz)]: Processors of Moto Poa ethanol gel in Arusha Tanzania..
+[10 Regional Distributors]: Employ 250 Green Ambassadors. 25 G.A's per Regional Distributor.
+[Supermarket Chains]: 200 supermarket branches.
+[SACCO's]: 85 SACCO's with 1 million members.
+[Hotels & Restaurants]: 100 establishments to use ethanol gel.
+[Kakuma Refugee Camp]: Supply of Moto Safi Ethanol Gel and Stoves for Resell through appointed distributor..
+[KCIC]: Govt Policy Lobbying & Business Advisory, Networking. Matchmaking & Financing.
+[GVEP]: Business Advisory Services.
+[Growth Africa]: Bussiness Accelarator, Networking and Sourcing for Financing.
+[Associations]: KAMKEREACCAK.
+[Partnerships]: GACC - Global Alliance Clean Cookstoves.SNV NetherlandsGIZ.
+[Prakti Design]: Manufactuer of the Prakti Biomass Stoves from India.
+[Briquette Makers (carbonized)]: 1)Home Solutions2) Greenchar3) Ruth/kangemi.
+[RBF Cookstove Project]: DFID, SNV & GIZ Funded Results Based Financing Programme. Implemented by MESPT..
+[Producer's of Denatured Ethanol]: 1. Mumias Sugar Co. Ltd2. Agro Chemical &amp; Food Co. ltd3. Other East Africa & South Africa Producers.4. Global - India, Brazil etc..
+[Mumias Sugar]: Suppliers of denatured ethanol for processing into denatured ethanol gel..[Fashion Brands with Tall Lines]: .
+[Reduction of risk and uncertainty]: .
+[Acquisition of clothing/advertising from partner companies]: .[Strong Key Partner]: -License contents from cable network, film, television or other media studios-Partnership with big media studios like Warner Bros and Disney which enables for Netflix to stream Star War films first globally-Strong relationship with ISP like  Google Fiber to provide great connections -Inspire writers to write movies scripts and select the best writer to work with and use the script for producing .[7. OPTIONS ON THE LEFT]: Check out the options on the left here. If you click the little "triple bar" at the top, it will give you a description of each of those options. Just try them out, there is useful stuff like export options, filters or ways to change the appearance of your canvas..[]: Local contracted supplierHAM CEShipping company.[Mark McDougall]: .
+[Damian B.]: .
+[Richard V.]: .
+[The Regions]: .
+[Business Stakeholders]: .
+[Resource Managers]: .[Breast and child cancer charity organization]: .[Pet adoption venues]: Shelters, Puppy Stores, Breeders.
+[Pet Healthcare Providers]: Veterinarians and pet emergency rooms.
+[Pet Insurance Companies]: .
+[Pet Drug Companies ]: .
+[Pet Service Providers]: - Groomers- Dog walkers- Dog trainers- Dog day care - Pet resorts, long term boarding, and dog retirement homes.
+[Pet Stores]: Includes both online and traditional brick and mortar .
+[Pet Charities]: .[Advisory Board]: need a board of contacts from various areas of expertise-- not just law firms-- think outside the box on the needs here.. i.e. social networking.[Private Company]: -FerryLines Venture Sdn Bhd-Andaman World Holidays Sdn Bhd (Car Rental)-Geopark Holidays(Cable Car)-Naam Sdn Bhd(Mangrove and Island Hopping) -Under Water World.[Server infrastructure]: .
+[App Developers]: .
+[Website management]: .
+[Reward providers]: .
+[Integrations]: integration with other services, such as Alexa, web notifications, Wunderlist etc.
+[CEMA]: CEMA is a network marketing team based in Sweden comprising several thousand active marketers throughout Europe. The leader, Mats Holmberg, has expressed interest in the app..
+[Network TwentyOne]: Network TwentyOne, based in Atlanta, is an international training company supporting hundreds of thousands of Amway-affiliated NWMs around the world. The COO, Adam Livingston, is a personal friend.http://www.n21corp.com/default.aspx.[Ask Jeeves]: .
+[AOL]: .
+[BIGLOBE]: .
+[Amazon.com]: .
+[Alexa]: .[WE WILL WORK CLOSELY WITH:]: FINANCIAL / LEAD GENERATORSâ€¢ Investorsâ€¢ Realtors / Brokersâ€¢ Banks / FinanciersSUPPLIERSâ€¢ Big Box / General suppliesâ€¢ Lumber / Plumbing / Electricalâ€¢ Contractors and subcontractorsEXPERTSâ€¢ Architect / Engineerâ€¢ Home InspectorGOVERNMENT AGENCIESâ€¢ Licensing / Building Permitsâ€¢ Inspectors.[]: QCSales & Managem..[]: ANZ Bank ManagerBusiness CoachAccountantLandlordsLocal CouncilsFood suppliersFilm distributors.[Stores that sell different types of fabrics and other materials]: .
+[People who make props]: .
+[Organizations who can help with shipping]: .
+[Possible fests/conventions in future]: .[BAT]: - ALTAEROS energies- Companies with Satellite connectivity- Companies with cell towers in the area that we need to add service to (interconnection agreements).[Acquisition of resources]: I can acquire a consumer list from major credit card vendors, Mobile phone providers etc.My key partners would be Visa, credit unions, other financial service companies who are non-compete like life insurance companies. Also, my key suppliers will be wholesale brokers, firms who need to sell stock..
+[Optimization and Economies of scale]: 80% of people have a phone so I using an already existing device will reduce my infrastructure cost. I can outsource customer service.Scale economies will allow me to be doing more with less  .[Startups]: .
+[Angel Investors]: Venture Capital & Private Equity.
+[Universities]: .
+[Corporations]: .[UC Colleges]: .
+[Teaching Learning Commons]: .
+[( Industry VP's )]: .
+[Student Clubs]: .[]: Distributors.[Government and corporate / private sector donors]: .
+[External (non-RCRC) local and international expertise in CB]: .
+[RCRC experts]: .
+[Innovation partners ]: To help re-design some of the traditional RCRC business models, including governance - management divide.
+[Friends of the new mechanism]: Innovators, and other dynamic agents will be invited to create a "support network" to the RCRC.
+[NGOs ]: .
+[Business coaches]: .
+[Host Governments]: All NS are auxiliaries to their government in the humanitarian field.
+[Military forces]: In some contexts this may be relevant.[CC Digital Solutions, Powered by Neota Logic]: (current model for MiFID II apps).
+[NeotaLogic, Joint Venture]: (to explore)- Seperate legal entity owned by CC and Neota Logic- Neota as software platform provider- CC as legal expertise  and products identification provider- period of exclusivity during that initial engagement (10w or so)- Laura OK to talk to clients but to avoid speaking to competitors of CC/Neota.
+[Longer-term economies of scale and scope]: Options with GSSC resourcing or TR both to distribute, perform the logic research/maintenance. (Similar to how Akerman have deployed their cybersecurity product - https://www.youtube.com/watch?v=Tok9XBnzVWg&feature=youtu.be.[Angel Investors]: Busy AngelsBES VenturesPortugal VenturesAPBAAsk......
+[Universities]: .
+[Startup Pirates]: Pipeline PartnersGive entrepreneurs the chance to develop their projects accompanied, before submitting them to the startup tank.
+[Startup Buzz]: Give entrepreneurs the chance to develop their projects accompanied, before submitting them to the startup tank.
+[The Startup Scholarship]: Give entrepreneurs the chance to learn fundamental knowledge about how startups work and about how to start their own ventures, before submitting projects to the Startup Tank.[Wisconsin Shares Child Care Program]: This partnership helps Wisconsin Families in need of financial assistance for child care, but also ensure LHA to receive payment. This is a great way to receive referrals for families in need of childcare. .[Radiology]: CT Scan, MRI, Ultrasound, X Ray.
+[Immunizations]: childhood ImmunizationsAllergy injectionsFlu Vaccines.
+[Medical Supply]: Surgical KitsDermatology InstrumentsRoom EquipmentMedical MachineryMedical instruments.
+[Pharmacy]: MedicationsPatient Instruction.
+[Respiratory]: PFT testing (Pulmonary Function)Asthma EducationFit Mask Testing Breathing Treatments (In-Patient).
+[Dermatology]: Wart removalSkin Cancer TreatmentAcneLesions/Abrasions .
+[Orthopedics]: Fractures / CastingOccupational and Physical Therapy.
+[OB]: Pregnancy, Well Woman Exams .[Mobile app]: .
+[Agregator of free car washes]: .
+[Stay in queue ]: .[small businesses]: .
+[internet]: .
+[investors]: .[Interior Design School]: .
+[TEC of Monterrey]: .
+[Online market]: .
+[Marketing Company]: .
+[Sponsors]: .
+[Supplier]: .
+[Web Page managers]: .
+[Franchise managers]: .
+[Deliverers of products]: .
+[Designers]: .[Game designers]: .
+[H & S experts]: Particularly in chainsaw safety.
+[Funders]: ACCWorksafeSelfCommercial clientsAngel investorsIndustry bodies.[Internet Service Provider]: .
+[Landlord]: .
+[Investors/bankers]: .
+[Influencers]: .[Factory]: The factory that manufactures our product will be the only key partner needed..[3rd party Panel installation firm]: .
+[Solar panel manufactures]: .
+[Financing firm]: .[]: Freelance bakers.
+[]: Wholesale grocery stores (ingredients for lower prices).
+[]: Packaging companies (for the packaging kit bakers can buy).[ Strategic alliances ]: -Suppliers of gym equipment (Technogym)-Software Development company-External server providers-Landlords-Companies hiring ad space in our clubs..[Optimization and Economy of Scale]: Windows Azure platform provides scalability and third-party hosting.
+[Reduction of risk and uncertainty]: Azure platform can handle high server loadsBootstrap and Node.js libraries handle portability and responsiveness.

@@ -9,6 +9,12 @@ import os
 import json
 import timeit
 import requests as API_REQUESTS
+import sys
+
+sys.path.insert(0, 'Word2VecProto/scripts')
+import word2vec
+
+print(word2vec.train_prototype_model())
 
 # ---------------------- Parameters section -------------------
 #
@@ -24,6 +30,12 @@ predict.load_w2v()
 stopT = timeit.default_timer()
 print('Load duration: {}'.format(stopT - startT))
 
+startT = timeit.default_timer()
+print('Load Tiny Prototype')
+tiny_mode = word2vec.train_prototype_model()
+stopT = timeit.default_timer()
+print('Load Duration for  Prototype{}'.format(stopT - startT))
+
 #
 # ---------------------- Parameters end -----------------------
 
@@ -38,12 +50,16 @@ def index():
 @app.route('/qualify_notes_headline', methods=['POST'])
 def qualify_notes_headline():
     problem = request.get_json()["headline"]
+    note_type = request.get_json()["note_type"]
     try:
-        prediction = predict.predict_Problem(loaded_model, vocabulary, problem)
-        # print("Prediction Result",json.dumps(prediction, indent=4))
-        prediction = prediction[0]
-        prediction = prediction.tolist()[0][0]
-        prediction = prediction * 100 if prediction else None
+        if note_type != None:
+            prediction=word2vec.evaluate_sentence(problem)
+        else:
+            prediction = predict.predict_Problem(loaded_model, vocabulary, problem)
+            # print("Prediction Result",json.dumps(prediction, indent=4))
+            prediction = prediction[0]
+            prediction = prediction.tolist()[0][0]
+            prediction = prediction * 100 if prediction else 0
         if prediction <= 40:
             bg_col = 'red'
         elif prediction > 40 and prediction < 60:
